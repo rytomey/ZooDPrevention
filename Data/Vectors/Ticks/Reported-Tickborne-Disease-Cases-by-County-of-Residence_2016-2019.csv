@@ -1,0 +1,2764 @@
+FIPS,State Name,county,Lyme disease,Spotted fever rickettsiosis,Babesiosis,Ehrlichia chaffeensis ehrlichiosis,Anaplasmosis,Tularemia,Ehrlichia ewingii ehrlichiosis,Undetermined ehrlichiosis/anaplasmosis
+01001,Alabama,Autauga County,3,10,0,0,0,0,0,0
+01003,Alabama,Baldwin County,4,13,1,1,0,0,0,0
+01005,Alabama,Barbour County,1,2,0,0,0,0,0,0
+01007,Alabama,Bibb County,1,34,0,0,0,0,0,0
+01009,Alabama,Blount County,2,26,0,0,1,0,0,0
+01011,Alabama,Bullock County,1,1,0,0,0,0,0,0
+01013,Alabama,Butler County,0,5,0,1,0,0,0,0
+01015,Alabama,Calhoun County,4,55,0,0,0,0,0,0
+01017,Alabama,Chambers County,3,5,0,1,0,0,0,0
+01019,Alabama,Cherokee County,0,6,0,0,0,0,0,0
+01021,Alabama,Chilton County,2,31,0,0,1,0,0,0
+01023,Alabama,Choctaw County,1,26,0,0,0,0,0,0
+01025,Alabama,Clarke County,0,27,0,0,0,0,0,0
+01027,Alabama,Clay County,2,11,0,0,0,0,0,0
+01029,Alabama,Cleburne County,1,11,0,0,0,0,0,0
+01031,Alabama,Coffee County,2,7,0,0,0,0,0,0
+01033,Alabama,Colbert County,3,49,0,3,3,1,0,0
+01035,Alabama,Conecuh County,0,5,0,0,0,0,0,0
+01037,Alabama,Coosa County,1,2,0,0,0,0,0,0
+01039,Alabama,Covington County,2,5,0,1,0,0,0,0
+01041,Alabama,Crenshaw County,0,4,0,0,0,0,0,0
+01043,Alabama,Cullman County,4,89,0,6,1,0,0,0
+01045,Alabama,Dale County,3,4,0,0,0,0,0,0
+01047,Alabama,Dallas County,3,43,0,0,0,0,0,0
+01049,Alabama,DeKalb County,11,47,0,1,0,0,0,0
+01051,Alabama,Elmore County,3,10,0,0,0,0,0,0
+01053,Alabama,Escambia County,1,1,0,1,0,0,0,0
+01055,Alabama,Etowah County,1,23,0,0,0,0,0,0
+01057,Alabama,Fayette County,5,162,0,0,0,0,0,0
+01059,Alabama,Franklin County,1,24,0,1,0,0,0,0
+01061,Alabama,Geneva County,2,3,0,0,0,0,0,0
+01063,Alabama,Greene County,1,24,0,0,0,0,0,0
+01065,Alabama,Hale County,3,36,0,0,0,0,0,0
+01069,Alabama,Houston County,4,3,0,0,0,0,0,0
+01071,Alabama,Jackson County,6,77,0,2,1,0,0,0
+01073,Alabama,Jefferson County,13,104,0,3,0,0,0,0
+01075,Alabama,Lamar County,2,117,0,0,1,1,0,0
+01077,Alabama,Lauderdale County,0,41,0,10,2,0,0,0
+01079,Alabama,Lawrence County,0,33,0,0,1,0,0,0
+01081,Alabama,Lee County,5,7,0,1,0,0,0,0
+01083,Alabama,Limestone County,2,23,0,2,1,0,1,0
+01085,Alabama,Lowndes County,0,1,0,0,0,0,0,0
+01089,Alabama,Madison County,16,158,0,12,7,4,0,4
+01091,Alabama,Marengo County,3,82,0,0,0,0,0,0
+01093,Alabama,Marion County,1,54,0,0,0,0,0,0
+01095,Alabama,Marshall County,3,45,0,1,3,0,0,0
+01097,Alabama,Mobile County,9,29,0,5,0,0,0,0
+01099,Alabama,Monroe County,0,3,0,0,0,0,0,0
+01101,Alabama,Montgomery County,3,9,0,1,0,0,0,0
+01103,Alabama,Morgan County,1,62,0,1,0,0,0,2
+01105,Alabama,Perry County,0,16,0,0,0,0,0,0
+01107,Alabama,Pickens County,2,41,0,0,0,0,0,0
+01109,Alabama,Pike County,0,10,0,0,0,0,0,0
+01111,Alabama,Randolph County,0,9,0,0,0,0,0,0
+01113,Alabama,Russell County,2,4,0,0,0,0,0,0
+01115,Alabama,St. Clair County,4,39,0,0,0,0,0,0
+01117,Alabama,Shelby County,5,61,0,5,0,0,0,0
+01119,Alabama,Sumter County,1,15,0,3,0,0,0,0
+01121,Alabama,Talladega County,0,21,0,0,2,0,0,0
+01123,Alabama,Tallapoosa County,2,6,0,2,0,0,0,0
+01125,Alabama,Tuscaloosa County,21,250,0,1,0,0,0,1
+01127,Alabama,Walker County,4,97,0,1,0,0,0,0
+01129,Alabama,Washington County,0,13,0,1,0,0,0,0
+01131,Alabama,Wilcox County,0,6,0,0,0,0,0,0
+01133,Alabama,Winston County,0,36,0,2,0,0,0,0
+02020,Alaska,Anchorage Municipality,17,0,0,0,0,0,0,0
+02050,Alaska,Bethel Census Area,0,0,0,0,0,1,0,0
+02068,Alaska,Denali Borough,1,0,0,0,0,0,0,0
+02070,Alaska,Dillingham Census Area,0,0,0,0,0,0,0,0
+02090,Alaska,Fairbanks North Star Borough,7,0,0,0,0,1,0,0
+02110,Alaska,Juneau City and Borough,1,0,0,0,0,0,0,0
+02122,Alaska,Kenai Peninsula Borough,7,0,0,0,0,2,0,0
+02130,Alaska,Ketchikan Gateway Borough,0,0,0,0,0,0,0,0
+02150,Alaska,Kodiak Island Borough,0,0,0,0,0,0,0,0
+02170,Alaska,Matanuska-Susitna Borough,5,0,0,0,0,0,0,0
+02220,Alaska,Sitka City and Borough,0,0,0,0,0,0,0,0
+02240,Alaska,Southeast Fairbanks Census Area,0,0,0,0,0,0,0,0
+02290,Alaska,Yukon-Koyukuk Census Area,1,0,0,0,0,0,0,0
+04001,Arizona,Apache County,0,2,0,0,0,0,0,0
+04003,Arizona,Cochise County,2,5,0,0,0,0,0,0
+04005,Arizona,Coconino County,6,0,0,0,0,2,0,0
+04007,Arizona,Gila County,1,34,0,0,0,0,0,0
+04009,Arizona,Graham County,0,8,0,0,0,0,0,0
+04012,Arizona,La Paz County,0,0,0,0,0,0,0,0
+04013,Arizona,Maricopa County,21,9,0,1,4,1,0,2
+04015,Arizona,Mohave County,5,0,0,0,0,0,0,0
+04017,Arizona,Navajo County,0,61,0,0,0,3,0,0
+04019,Arizona,Pima County,14,22,0,0,2,0,0,0
+04021,Arizona,Pinal County,2,3,0,0,1,0,0,0
+04023,Arizona,Santa Cruz County,0,2,0,0,0,0,0,0
+04025,Arizona,Yavapai County,4,0,0,0,1,1,0,0
+04027,Arizona,Yuma County,3,0,0,0,1,0,0,0
+05001,Arkansas,Arkansas County,0,10,0,3,0,1,0,0
+05003,Arkansas,Ashley County,0,23,0,4,0,1,0,0
+05005,Arkansas,Baxter County,0,53,0,25,0,5,0,0
+05007,Arkansas,Benton County,0,335,2,72,11,9,6,0
+05009,Arkansas,Boone County,0,37,0,11,1,4,0,0
+05011,Arkansas,Bradley County,0,18,1,2,0,0,0,0
+05013,Arkansas,Calhoun County,0,8,0,2,0,0,0,0
+05015,Arkansas,Carroll County,0,44,0,11,1,1,2,0
+05017,Arkansas,Chicot County,0,2,0,0,0,0,0,0
+05019,Arkansas,Clark County,0,30,0,7,0,2,0,0
+05021,Arkansas,Clay County,0,25,0,5,0,0,0,0
+05023,Arkansas,Cleburne County,0,82,0,17,0,7,0,0
+05025,Arkansas,Cleveland County,1,13,0,5,0,0,0,0
+05027,Arkansas,Columbia County,0,19,0,2,0,1,0,0
+05029,Arkansas,Conway County,1,57,0,9,2,8,0,0
+05031,Arkansas,Craighead County,0,116,0,13,1,6,0,0
+05033,Arkansas,Crawford County,0,64,0,32,1,6,1,0
+05035,Arkansas,Crittenden County,0,2,0,3,0,0,0,0
+05037,Arkansas,Cross County,0,10,0,5,0,1,0,0
+05039,Arkansas,Dallas County,1,12,0,0,0,0,0,0
+05041,Arkansas,Desha County,0,4,0,3,0,0,0,0
+05043,Arkansas,Drew County,0,16,0,2,0,0,0,0
+05045,Arkansas,Faulkner County,1,141,0,38,0,12,0,0
+05047,Arkansas,Franklin County,0,33,0,16,0,1,3,0
+05049,Arkansas,Fulton County,0,51,0,14,0,6,0,0
+05051,Arkansas,Garland County,1,233,0,49,4,3,2,0
+05053,Arkansas,Grant County,0,46,0,6,0,0,0,0
+05055,Arkansas,Greene County,1,47,0,4,0,0,0,0
+05057,Arkansas,Hempstead County,0,15,0,1,1,0,0,0
+05059,Arkansas,Hot Spring County,0,94,0,8,1,1,0,0
+05061,Arkansas,Howard County,0,23,0,3,0,0,1,0
+05063,Arkansas,Independence County,1,92,0,13,0,1,0,0
+05065,Arkansas,Izard County,0,65,0,19,0,11,0,0
+05067,Arkansas,Jackson County,0,14,0,1,0,0,0,0
+05069,Arkansas,Jefferson County,0,39,0,9,0,1,0,0
+05071,Arkansas,Johnson County,2,83,0,10,1,5,0,0
+05073,Arkansas,Lafayette County,0,6,0,1,0,0,0,0
+05075,Arkansas,Lawrence County,1,37,0,7,0,8,0,0
+05077,Arkansas,Lee County,0,2,0,0,0,1,0,0
+05079,Arkansas,Lincoln County,0,10,0,1,0,0,0,0
+05081,Arkansas,Little River County,0,11,0,1,0,0,0,0
+05083,Arkansas,Logan County,0,31,0,10,0,0,1,0
+05085,Arkansas,Lonoke County,1,127,0,13,0,10,0,0
+05087,Arkansas,Madison County,0,82,0,12,0,1,1,0
+05089,Arkansas,Marion County,0,35,0,5,0,5,0,0
+05091,Arkansas,Miller County,0,26,0,2,0,1,0,0
+05093,Arkansas,Mississippi County,0,11,0,1,0,2,0,0
+05095,Arkansas,Monroe County,0,1,0,1,0,0,0,0
+05097,Arkansas,Montgomery County,2,62,0,7,0,0,0,0
+05099,Arkansas,Nevada County,0,4,0,1,0,0,0,0
+05101,Arkansas,Newton County,0,15,0,7,0,0,0,0
+05103,Arkansas,Ouachita County,0,25,0,2,0,0,0,0
+05105,Arkansas,Perry County,0,28,0,6,1,2,0,0
+05107,Arkansas,Phillips County,0,3,0,1,0,0,0,0
+05109,Arkansas,Pike County,0,31,0,1,0,0,1,0
+05111,Arkansas,Poinsett County,0,31,0,5,0,2,0,0
+05113,Arkansas,Polk County,0,52,0,6,0,2,0,0
+05115,Arkansas,Pope County,1,144,0,20,0,6,0,0
+05117,Arkansas,Prairie County,1,38,0,1,2,0,0,0
+05119,Arkansas,Pulaski County,4,206,0,33,1,13,0,0
+05121,Arkansas,Randolph County,0,19,0,6,0,3,0,0
+05123,Arkansas,St. Francis County,0,18,0,2,0,0,0,0
+05125,Arkansas,Saline County,0,135,0,23,2,6,0,0
+05127,Arkansas,Scott County,0,20,0,4,1,0,0,0
+05129,Arkansas,Searcy County,0,29,0,8,0,0,0,0
+05131,Arkansas,Sebastian County,0,71,1,19,1,2,4,0
+05133,Arkansas,Sevier County,0,20,0,2,0,0,0,0
+05135,Arkansas,Sharp County,0,71,0,19,0,5,0,0
+05137,Arkansas,Stone County,1,82,0,23,1,9,0,0
+05139,Arkansas,Union County,0,28,0,4,0,0,0,0
+05141,Arkansas,Van Buren County,0,59,0,8,0,6,0,0
+05143,Arkansas,Washington County,8,225,0,71,1,15,1,0
+05145,Arkansas,White County,0,254,0,23,1,11,0,0
+05147,Arkansas,Woodruff County,1,10,0,2,0,2,0,0
+05149,Arkansas,Yell County,0,21,0,11,0,0,0,0
+06001,California,Alameda County,44,10,2,0,3,2,0,1
+06005,California,Amador County,0,1,0,0,0,0,0,0
+06007,California,Butte County,4,0,0,0,0,0,0,0
+06009,California,Calaveras County,2,0,0,0,0,0,0,0
+06013,California,Contra Costa County,31,3,0,0,1,0,0,0
+06015,California,Del Norte County,0,0,0,0,0,0,0,0
+06017,California,El Dorado County,4,1,0,0,0,0,0,0
+06019,California,Fresno County,3,0,0,0,0,0,0,0
+06021,California,Glenn County,1,0,0,0,0,1,0,0
+06023,California,Humboldt County,12,0,0,0,2,1,0,0
+06025,California,Imperial County,1,1,0,0,0,0,0,0
+06027,California,Inyo County,0,0,0,0,0,0,0,0
+06029,California,Kern County,2,1,0,0,1,0,0,0
+06031,California,Kings County,4,0,0,0,0,0,0,0
+06033,California,Lake County,4,0,0,0,0,3,0,0
+06035,California,Lassen County,0,0,0,0,0,0,0,0
+06037,California,Los Angeles County,12,8,0,0,2,1,0,0
+06039,California,Madera County,1,1,0,0,0,0,0,0
+06041,California,Marin County,13,0,0,0,2,0,0,0
+06043,California,Mariposa County,0,0,0,0,0,0,0,0
+06045,California,Mendocino County,14,1,0,0,2,0,0,0
+06047,California,Merced County,0,0,0,0,0,0,0,0
+06051,California,Mono County,0,0,0,0,0,0,0,0
+06053,California,Monterey County,5,1,0,0,0,2,0,0
+06055,California,Napa County,3,0,0,0,1,0,0,0
+06057,California,Nevada County,6,0,0,0,0,0,0,0
+06059,California,Orange County,0,2,0,0,1,0,0,0
+06061,California,Placer County,5,3,0,0,0,0,0,0
+06063,California,Plumas County,0,0,0,0,0,0,0,0
+06065,California,Riverside County,16,4,0,0,0,0,0,0
+06067,California,Sacramento County,7,1,0,0,1,1,0,0
+06069,California,San Benito County,0,0,0,0,0,0,0,0
+06071,California,San Bernardino County,7,4,0,0,0,0,0,2
+06073,California,San Diego County,20,5,4,0,0,0,0,1
+06075,California,San Francisco County,48,3,3,0,0,0,0,1
+06077,California,San Joaquin County,4,0,0,0,0,0,0,1
+06079,California,San Luis Obispo County,5,1,0,0,0,0,0,0
+06081,California,San Mateo County,13,0,0,0,1,0,0,0
+06083,California,Santa Barbara County,17,0,0,0,5,0,0,1
+06085,California,Santa Clara County,52,1,3,0,1,0,0,0
+06087,California,Santa Cruz County,46,0,0,0,0,1,0,0
+06089,California,Shasta County,2,0,1,0,0,0,0,0
+06091,California,Sierra County,1,0,0,0,0,0,0,0
+06093,California,Siskiyou County,4,0,0,0,0,1,0,0
+06095,California,Solano County,9,1,0,0,0,0,0,0
+06097,California,Sonoma County,51,1,0,0,1,0,0,0
+06099,California,Stanislaus County,11,0,0,0,0,0,0,0
+06101,California,Sutter County,0,0,0,0,0,0,0,0
+06103,California,Tehama County,2,0,0,0,0,0,0,0
+06105,California,Trinity County,0,0,0,0,0,0,0,0
+06107,California,Tulare County,11,0,0,0,0,1,0,0
+06109,California,Tuolumne County,4,0,0,0,0,0,0,0
+06111,California,Ventura County,17,1,1,0,1,0,0,0
+06113,California,Yolo County,8,0,1,0,0,0,0,0
+06115,California,Yuba County,1,0,0,0,0,0,0,0
+08001,Colorado,Adams County,2,0,0,0,0,2,0,0
+08005,Colorado,Arapahoe County,2,1,0,0,0,0,0,0
+08013,Colorado,Boulder County,1,2,0,0,0,5,0,0
+08015,Colorado,Chaffee County,0,0,0,0,0,1,0,0
+08023,Colorado,Costilla County,0,1,0,0,0,0,0,0
+08027,Colorado,Custer County,0,0,0,0,0,2,0,0
+08029,Colorado,Delta County,0,1,0,0,0,0,0,0
+08031,Colorado,Denver County,2,1,0,0,0,1,0,0
+08035,Colorado,Douglas County,1,2,0,0,0,0,0,0
+08037,Colorado,Eagle County,1,0,0,0,0,0,0,0
+08041,Colorado,El Paso County,1,0,0,0,0,0,0,0
+08043,Colorado,Fremont County,0,0,0,0,0,1,0,0
+08045,Colorado,Garfield County,0,1,0,0,0,0,0,0
+08059,Colorado,Jefferson County,3,1,0,0,0,1,0,0
+08067,Colorado,La Plata County,0,0,0,0,0,0,0,0
+08069,Colorado,Larimer County,0,1,0,0,0,6,0,0
+08071,Colorado,Las Animas County,1,0,0,0,0,0,0,0
+08075,Colorado,Logan County,0,0,0,0,0,1,0,0
+08077,Colorado,Mesa County,0,0,0,0,0,3,0,0
+08087,Colorado,Morgan County,0,0,0,0,0,1,0,0
+08097,Colorado,Pitkin County,0,0,0,0,0,0,0,0
+08101,Colorado,Pueblo County,0,0,0,0,0,2,0,0
+08107,Colorado,Routt County,0,0,0,0,0,1,0,0
+08109,Colorado,Saguache County,0,1,0,0,0,0,0,0
+08123,Colorado,Weld County,1,2,0,0,0,3,0,0
+09001,Connecticut,Fairfield County,1211,9,213,2,205,0,0,0
+09003,Connecticut,Hartford County,860,7,117,0,30,0,0,0
+09005,Connecticut,Litchfield County,594,3,131,0,151,0,0,0
+09007,Connecticut,Middlesex County,640,0,88,0,1,0,0,0
+09009,Connecticut,New Haven County,1270,2,141,0,75,0,0,0
+09011,Connecticut,New London County,1160,11,245,0,37,0,0,0
+09013,Connecticut,Tolland County,533,3,73,0,21,0,0,0
+09015,Connecticut,Windham County,512,2,128,1,37,0,0,0
+10001,Delaware,Kent County,333,2,3,1,0,1,0,0
+10003,Delaware,New Castle County,1273,7,3,5,1,0,0,0
+10005,Delaware,Sussex County,507,7,5,8,3,0,1,1
+11001,District of Columbia,District of Columbia,298,4,2,3,1,0,0,1
+12001,Florida,Alachua County,4,0,0,12,2,0,0,1
+12003,Florida,Baker County,2,0,0,0,0,0,0,0
+12005,Florida,Bay County,4,2,0,0,0,0,0,0
+12009,Florida,Brevard County,24,1,1,0,4,0,0,0
+12011,Florida,Broward County,41,1,2,0,1,0,0,0
+12013,Florida,Calhoun County,0,0,0,0,0,0,0,0
+12015,Florida,Charlotte County,7,0,0,0,0,0,0,0
+12017,Florida,Citrus County,6,0,2,1,3,0,0,0
+12019,Florida,Clay County,4,4,0,3,0,0,0,0
+12021,Florida,Collier County,21,0,2,0,1,0,0,0
+12023,Florida,Columbia County,2,2,0,2,0,0,0,0
+12027,Florida,DeSoto County,2,0,0,0,0,0,0,0
+12029,Florida,Dixie County,0,3,0,2,0,0,0,0
+12031,Florida,Duval County,19,3,0,4,2,0,0,0
+12033,Florida,Escambia County,7,3,0,0,0,1,0,0
+12035,Florida,Flagler County,2,1,1,5,2,0,0,0
+12037,Florida,Franklin County,0,0,0,0,0,0,0,0
+12039,Florida,Gadsden County,2,0,0,0,0,0,0,0
+12041,Florida,Gilchrist County,0,0,0,0,0,0,0,0
+12043,Florida,Glades County,1,0,0,0,0,0,0,0
+12045,Florida,Gulf County,1,0,0,0,0,0,0,0
+12049,Florida,Hardee County,1,0,0,0,0,0,0,0
+12051,Florida,Hendry County,0,0,0,0,0,0,0,0
+12053,Florida,Hernando County,6,1,0,0,0,0,0,0
+12055,Florida,Highlands County,4,0,0,2,0,0,0,0
+12057,Florida,Hillsborough County,31,2,2,2,2,0,0,1
+12059,Florida,Holmes County,0,0,0,0,0,0,0,0
+12061,Florida,Indian River County,28,2,2,4,0,0,0,0
+12063,Florida,Jackson County,0,0,0,1,0,0,0,0
+12065,Florida,Jefferson County,0,1,0,2,0,0,0,0
+12067,Florida,Lafayette County,0,1,0,0,0,0,0,0
+12069,Florida,Lake County,14,2,1,3,1,0,0,0
+12071,Florida,Lee County,56,5,8,6,4,0,0,0
+12073,Florida,Leon County,6,5,0,13,1,0,0,1
+12075,Florida,Levy County,0,2,0,2,0,0,0,0
+12077,Florida,Liberty County,0,1,0,0,0,0,0,0
+12079,Florida,Madison County,0,0,0,3,0,0,0,0
+12081,Florida,Manatee County,25,2,1,1,2,0,0,0
+12083,Florida,Marion County,34,3,1,2,1,0,0,0
+12085,Florida,Martin County,22,0,2,1,1,0,0,0
+12087,Florida,Monroe County,7,0,2,1,4,0,0,0
+12089,Florida,Nassau County,7,0,1,3,0,0,1,0
+12091,Florida,Okaloosa County,20,9,0,0,0,0,0,0
+12093,Florida,Okeechobee County,2,0,0,0,0,0,0,0
+12095,Florida,Orange County,21,2,0,2,2,0,0,0
+12097,Florida,Osceola County,19,0,1,1,1,0,0,0
+12099,Florida,Palm Beach County,48,3,5,0,2,0,0,0
+12101,Florida,Pasco County,20,2,1,1,2,0,0,0
+12103,Florida,Pinellas County,64,3,5,2,2,1,0,0
+12105,Florida,Polk County,22,1,0,0,1,0,0,0
+12107,Florida,Putnam County,0,1,0,4,0,0,0,0
+12109,Florida,St. Johns County,19,1,0,8,2,0,0,0
+12111,Florida,St. Lucie County,11,2,0,0,1,0,1,0
+12113,Florida,Santa Rosa County,5,4,0,0,0,0,0,0
+12115,Florida,Sarasota County,28,0,3,1,4,0,0,0
+12117,Florida,Seminole County,13,1,0,3,1,0,0,0
+12119,Florida,Sumter County,11,1,1,1,2,0,0,0
+12121,Florida,Suwannee County,2,1,0,0,0,0,0,0
+12123,Florida,Taylor County,0,0,0,0,0,0,0,0
+12127,Florida,Volusia County,17,1,5,11,1,0,0,0
+12129,Florida,Wakulla County,1,1,0,6,0,0,0,0
+12131,Florida,Walton County,1,1,0,0,0,0,0,0
+12133,Florida,Washington County,1,0,0,0,0,0,0,0
+13001,Georgia,Appling County,0,0,0,0,0,0,0,0
+13009,Georgia,Baldwin County,0,2,0,0,0,0,0,0
+13011,Georgia,Banks County,0,0,0,0,0,0,0,0
+13013,Georgia,Barrow County,0,0,0,0,0,0,0,0
+13015,Georgia,Bartow County,0,6,0,0,0,0,0,0
+13017,Georgia,Ben Hill County,0,0,0,0,0,0,0,0
+13021,Georgia,Bibb County,1,3,0,1,0,0,0,0
+13025,Georgia,Brantley County,0,0,0,0,0,0,0,0
+13029,Georgia,Bryan County,0,1,0,0,0,0,0,0
+13031,Georgia,Bulloch County,0,1,0,0,0,0,0,0
+13035,Georgia,Butts County,0,0,0,0,0,0,0,0
+13039,Georgia,Camden County,1,0,0,0,0,0,0,0
+13043,Georgia,Candler County,0,0,0,0,0,0,0,0
+13045,Georgia,Carroll County,0,4,0,0,0,0,0,0
+13047,Georgia,Catoosa County,2,0,0,0,0,0,0,0
+13051,Georgia,Chatham County,2,4,0,0,0,0,0,0
+13055,Georgia,Chattooga County,0,2,0,0,0,0,0,0
+13057,Georgia,Cherokee County,3,0,0,0,0,0,0,0
+13059,Georgia,Clarke County,0,2,0,0,0,0,0,0
+13063,Georgia,Clayton County,0,1,0,0,0,0,0,0
+13067,Georgia,Cobb County,6,5,0,0,0,0,0,0
+13069,Georgia,Coffee County,0,0,0,0,0,0,0,0
+13071,Georgia,Colquitt County,0,1,0,0,0,0,0,0
+13073,Georgia,Columbia County,1,2,0,0,0,0,0,0
+13075,Georgia,Cook County,0,0,0,0,0,0,0,0
+13077,Georgia,Coweta County,0,6,0,1,0,0,0,0
+13079,Georgia,Crawford County,0,0,0,0,0,0,0,0
+13081,Georgia,Crisp County,0,0,0,0,0,0,0,0
+13083,Georgia,Dade County,0,4,0,0,0,0,0,0
+13085,Georgia,Dawson County,0,0,0,0,0,0,0,0
+13087,Georgia,Decatur County,0,0,0,0,0,0,0,0
+13089,Georgia,DeKalb County,2,1,1,1,0,1,0,0
+13091,Georgia,Dodge County,0,2,0,0,0,0,0,0
+13093,Georgia,Dooly County,0,1,0,0,0,0,0,0
+13095,Georgia,Dougherty County,1,1,0,0,0,0,0,0
+13097,Georgia,Douglas County,0,1,0,0,0,0,0,0
+13099,Georgia,Early County,0,0,0,0,0,0,0,0
+13103,Georgia,Effingham County,0,0,0,0,0,0,0,0
+13105,Georgia,Elbert County,0,1,0,0,0,0,0,0
+13107,Georgia,Emanuel County,0,0,0,0,0,0,0,0
+13109,Georgia,Evans County,0,1,0,0,0,0,0,0
+13111,Georgia,Fannin County,0,0,0,1,0,0,0,0
+13113,Georgia,Fayette County,0,2,0,0,0,0,0,0
+13115,Georgia,Floyd County,1,0,0,0,0,0,0,0
+13117,Georgia,Forsyth County,2,3,0,0,0,0,0,0
+13119,Georgia,Franklin County,0,0,0,0,0,0,0,0
+13121,Georgia,Fulton County,3,6,0,1,0,0,0,0
+13123,Georgia,Gilmer County,0,1,0,0,0,0,0,0
+13125,Georgia,Glascock County,0,1,0,0,0,0,0,0
+13127,Georgia,Glynn County,1,0,0,1,0,0,0,0
+13129,Georgia,Gordon County,0,2,0,0,0,0,0,0
+13131,Georgia,Grady County,0,2,0,0,0,0,0,0
+13135,Georgia,Gwinnett County,3,12,0,2,0,0,0,0
+13137,Georgia,Habersham County,0,0,0,0,0,0,0,0
+13139,Georgia,Hall County,1,3,0,0,0,0,0,0
+13145,Georgia,Harris County,1,1,0,0,0,0,0,0
+13147,Georgia,Hart County,0,0,0,0,0,0,0,0
+13149,Georgia,Heard County,0,1,0,0,0,0,0,0
+13151,Georgia,Henry County,0,3,0,0,0,0,0,0
+13153,Georgia,Houston County,0,1,0,1,0,0,0,0
+13155,Georgia,Irwin County,0,1,0,0,0,0,0,0
+13157,Georgia,Jackson County,0,1,0,0,0,0,0,0
+13159,Georgia,Jasper County,0,2,0,2,0,0,0,1
+13161,Georgia,Jeff Davis County,0,1,0,0,0,0,0,0
+13167,Georgia,Johnson County,0,1,0,0,0,0,0,0
+13169,Georgia,Jones County,0,3,0,0,0,0,0,0
+13171,Georgia,Lamar County,0,2,0,0,0,0,0,0
+13175,Georgia,Laurens County,2,1,0,0,0,0,0,0
+13177,Georgia,Lee County,0,1,0,0,0,0,0,0
+13179,Georgia,Liberty County,0,2,0,0,0,0,0,0
+13185,Georgia,Lowndes County,0,3,0,0,0,0,0,0
+13187,Georgia,Lumpkin County,0,0,0,0,0,0,0,0
+13189,Georgia,McDuffie County,0,0,0,0,0,0,0,0
+13191,Georgia,McIntosh County,0,0,0,0,0,0,0,0
+13193,Georgia,Macon County,0,1,0,0,0,0,0,0
+13195,Georgia,Madison County,0,0,0,0,0,0,0,0
+13199,Georgia,Meriwether County,0,1,0,0,0,0,0,0
+13201,Georgia,Miller County,0,0,0,0,0,0,0,0
+13205,Georgia,Mitchell County,0,0,0,0,0,0,0,0
+13207,Georgia,Monroe County,0,1,0,1,0,0,0,0
+13211,Georgia,Morgan County,0,2,0,0,0,0,0,0
+13215,Georgia,Muscogee County,1,0,0,0,0,0,0,0
+13217,Georgia,Newton County,4,10,0,2,0,0,0,1
+13219,Georgia,Oconee County,0,1,0,0,0,0,0,0
+13221,Georgia,Oglethorpe County,0,0,0,0,0,0,0,0
+13223,Georgia,Paulding County,1,2,0,0,0,0,0,0
+13225,Georgia,Peach County,0,1,0,0,0,0,0,0
+13227,Georgia,Pickens County,1,2,0,0,0,0,0,0
+13229,Georgia,Pierce County,0,1,0,0,0,0,0,0
+13231,Georgia,Pike County,0,6,0,0,0,0,0,0
+13233,Georgia,Polk County,0,1,0,0,0,0,0,0
+13237,Georgia,Putnam County,0,2,0,1,0,0,0,0
+13241,Georgia,Rabun County,0,0,0,0,0,0,0,0
+13245,Georgia,Richmond County,1,0,0,0,0,0,0,0
+13247,Georgia,Rockdale County,0,5,0,1,0,0,0,1
+13249,Georgia,Schley County,0,1,0,0,0,0,0,0
+13253,Georgia,Seminole County,0,1,0,0,0,0,0,0
+13255,Georgia,Spalding County,2,6,0,0,0,0,0,0
+13257,Georgia,Stephens County,0,0,0,0,0,0,0,0
+13261,Georgia,Sumter County,1,2,0,0,0,0,0,0
+13267,Georgia,Tattnall County,0,1,0,0,0,0,0,0
+13269,Georgia,Taylor County,0,1,0,0,0,0,0,0
+13273,Georgia,Terrell County,0,0,0,0,0,0,0,0
+13275,Georgia,Thomas County,0,1,0,0,0,0,0,0
+13277,Georgia,Tift County,0,1,0,0,0,0,0,0
+13279,Georgia,Toombs County,0,0,0,0,0,0,0,0
+13283,Georgia,Treutlen County,0,1,0,0,0,0,0,0
+13285,Georgia,Troup County,0,3,0,1,0,0,0,0
+13289,Georgia,Twiggs County,0,1,0,0,0,0,0,0
+13293,Georgia,Upson County,0,1,0,0,0,0,0,0
+13295,Georgia,Walker County,3,3,0,0,0,0,0,0
+13297,Georgia,Walton County,0,3,0,0,0,0,0,0
+13303,Georgia,Washington County,0,0,0,0,0,0,0,0
+13305,Georgia,Wayne County,0,0,0,0,0,0,0,0
+13309,Georgia,Wheeler County,0,0,0,0,0,0,0,0
+13311,Georgia,White County,0,1,0,0,0,0,0,0
+13313,Georgia,Whitfield County,1,1,0,0,0,0,0,0
+13315,Georgia,Wilcox County,0,0,0,0,0,0,0,0
+13317,Georgia,Wilkes County,0,0,0,0,0,0,0,0
+13319,Georgia,Wilkinson County,0,0,0,0,0,0,0,0
+13321,Georgia,Worth County,1,0,0,0,0,0,0,0
+15001,Hawaii,Hawaii County,0,0,0,0,0,0,0,0
+15003,Hawaii,Honolulu County,0,0,0,0,0,0,0,0
+15007,Hawaii,Kauai County,0,0,0,0,0,0,0,0
+16001,Idaho,Ada County,13,4,0,0,0,2,0,0
+16003,Idaho,Adams County,0,0,0,0,0,0,0,0
+16005,Idaho,Bannock County,1,0,0,0,0,0,0,0
+16007,Idaho,Bear Lake County,0,0,0,0,0,0,0,0
+16009,Idaho,Benewah County,0,0,0,0,0,0,0,0
+16011,Idaho,Bingham County,2,0,0,0,0,1,0,0
+16013,Idaho,Blaine County,8,2,0,0,0,0,0,0
+16015,Idaho,Boise County,0,0,0,0,0,1,0,0
+16017,Idaho,Bonner County,3,0,0,0,0,0,0,0
+16019,Idaho,Bonneville County,4,0,0,0,0,0,0,0
+16021,Idaho,Boundary County,1,1,0,0,0,0,0,0
+16027,Idaho,Canyon County,5,1,0,0,0,0,0,0
+16029,Idaho,Caribou County,0,0,0,0,0,1,0,0
+16031,Idaho,Cassia County,0,3,0,0,0,0,0,0
+16039,Idaho,Elmore County,0,1,0,0,0,0,0,0
+16045,Idaho,Gem County,0,0,0,0,0,0,0,0
+16047,Idaho,Gooding County,2,1,0,0,0,0,0,0
+16049,Idaho,Idaho County,1,1,0,0,0,0,0,0
+16051,Idaho,Jefferson County,0,0,0,0,0,0,0,0
+16053,Idaho,Jerome County,0,0,0,0,0,1,0,0
+16055,Idaho,Kootenai County,5,4,0,0,0,0,0,0
+16057,Idaho,Latah County,3,1,0,0,0,0,0,0
+16059,Idaho,Lemhi County,0,0,0,0,0,0,0,0
+16065,Idaho,Madison County,1,0,0,0,0,0,0,0
+16067,Idaho,Minidoka County,2,0,0,0,0,0,0,0
+16069,Idaho,Nez Perce County,2,0,0,0,0,1,0,0
+16075,Idaho,Payette County,0,0,0,0,0,0,0,0
+16077,Idaho,Power County,0,0,0,0,0,0,0,0
+16079,Idaho,Shoshone County,0,1,0,0,0,0,0,0
+16081,Idaho,Teton County,1,0,0,0,0,0,0,0
+16083,Idaho,Twin Falls County,5,1,0,0,0,0,0,0
+16085,Idaho,Valley County,0,1,0,0,0,0,0,0
+16087,Idaho,Washington County,1,0,0,0,0,0,0,0
+17001,Illinois,Adams County,4,4,0,1,0,0,0,0
+17003,Illinois,Alexander County,0,1,0,1,0,0,0,0
+17005,Illinois,Bond County,1,0,0,0,0,0,0,0
+17007,Illinois,Boone County,10,0,0,0,1,0,0,0
+17009,Illinois,Brown County,1,0,0,0,0,0,0,0
+17011,Illinois,Bureau County,3,0,0,0,0,0,0,0
+17013,Illinois,Calhoun County,0,0,0,0,0,0,0,0
+17015,Illinois,Carroll County,13,0,0,0,1,0,0,0
+17017,Illinois,Cass County,2,1,0,0,0,0,0,0
+17019,Illinois,Champaign County,17,3,0,2,0,2,0,0
+17021,Illinois,Christian County,1,1,0,1,0,0,0,0
+17023,Illinois,Clark County,8,0,0,1,0,0,0,0
+17025,Illinois,Clay County,0,4,0,1,1,0,0,0
+17027,Illinois,Clinton County,4,2,0,2,0,0,0,0
+17029,Illinois,Coles County,7,2,0,0,0,0,0,0
+17031,Illinois,Cook County,297,23,0,7,9,4,0,0
+17033,Illinois,Crawford County,1,0,0,0,0,0,0,0
+17035,Illinois,Cumberland County,0,0,0,0,0,0,0,0
+17037,Illinois,DeKalb County,13,0,0,0,0,0,0,0
+17039,Illinois,De Witt County,1,0,0,0,0,0,1,0
+17041,Illinois,Douglas County,0,1,0,1,0,0,0,0
+17043,Illinois,DuPage County,136,7,2,2,2,0,0,0
+17045,Illinois,Edgar County,4,0,0,0,0,0,0,0
+17047,Illinois,Edwards County,0,0,0,0,0,0,0,0
+17049,Illinois,Effingham County,1,0,0,0,0,0,0,0
+17051,Illinois,Fayette County,1,0,0,0,0,1,0,0
+17053,Illinois,Ford County,0,2,0,0,0,0,0,0
+17055,Illinois,Franklin County,1,0,0,1,0,0,0,0
+17057,Illinois,Fulton County,5,0,0,0,0,0,0,0
+17059,Illinois,Gallatin County,0,1,0,0,0,0,0,0
+17061,Illinois,Greene County,2,1,0,0,0,0,0,0
+17063,Illinois,Grundy County,1,0,0,0,0,0,0,0
+17065,Illinois,Hamilton County,0,4,0,3,0,0,0,0
+17067,Illinois,Hancock County,2,0,0,1,0,0,0,0
+17069,Illinois,Hardin County,0,7,0,1,0,0,0,0
+17071,Illinois,Henderson County,0,0,0,0,0,0,0,0
+17073,Illinois,Henry County,2,0,0,0,0,0,0,0
+17075,Illinois,Iroquois County,1,0,0,0,0,0,0,0
+17077,Illinois,Jackson County,1,80,0,19,1,0,0,0
+17079,Illinois,Jasper County,0,1,0,1,1,0,0,0
+17081,Illinois,Jefferson County,4,15,0,4,1,0,0,0
+17083,Illinois,Jersey County,0,1,0,0,1,0,0,0
+17085,Illinois,Jo Daviess County,30,0,0,2,4,0,0,1
+17087,Illinois,Johnson County,0,1,0,1,0,0,0,0
+17089,Illinois,Kane County,42,2,0,0,2,0,0,0
+17091,Illinois,Kankakee County,6,5,0,0,0,0,0,0
+17093,Illinois,Kendall County,8,1,0,0,0,0,0,0
+17095,Illinois,Knox County,6,1,0,0,0,0,0,0
+17097,Illinois,Lake County,147,5,1,2,6,1,0,0
+17099,Illinois,LaSalle County,15,1,0,1,1,0,0,0
+17101,Illinois,Lawrence County,1,2,0,0,0,0,0,0
+17103,Illinois,Lee County,6,1,0,1,0,0,0,1
+17105,Illinois,Livingston County,4,0,0,0,0,0,0,0
+17107,Illinois,Logan County,2,3,0,0,0,0,0,0
+17109,Illinois,McDonough County,2,0,0,0,0,1,0,0
+17111,Illinois,McHenry County,117,3,0,3,2,0,0,0
+17113,Illinois,McLean County,17,2,0,0,0,0,0,0
+17115,Illinois,Macon County,1,1,0,2,0,1,0,0
+17117,Illinois,Macoupin County,1,0,0,0,0,2,0,0
+17119,Illinois,Madison County,5,22,0,2,1,0,1,0
+17121,Illinois,Marion County,4,19,0,6,1,0,0,0
+17123,Illinois,Marshall County,1,0,0,0,0,0,0,0
+17125,Illinois,Mason County,0,3,0,2,1,0,0,0
+17127,Illinois,Massac County,0,2,0,0,0,0,0,0
+17129,Illinois,Menard County,1,0,0,0,0,0,0,0
+17131,Illinois,Mercer County,2,0,0,0,0,0,0,0
+17133,Illinois,Monroe County,0,2,0,1,0,0,0,0
+17135,Illinois,Montgomery County,1,0,0,0,0,0,0,0
+17137,Illinois,Morgan County,2,0,0,0,0,0,0,0
+17139,Illinois,Moultrie County,2,0,0,0,0,0,0,0
+17141,Illinois,Ogle County,11,4,0,1,1,0,0,0
+17143,Illinois,Peoria County,21,1,0,3,1,0,0,0
+17145,Illinois,Perry County,0,5,0,1,0,0,0,0
+17147,Illinois,Piatt County,1,0,0,0,0,0,0,0
+17149,Illinois,Pike County,0,2,0,0,0,0,0,0
+17151,Illinois,Pope County,0,5,0,0,0,0,0,0
+17153,Illinois,Pulaski County,0,74,0,18,2,0,0,0
+17155,Illinois,Putnam County,2,0,0,0,0,0,0,0
+17157,Illinois,Randolph County,0,3,0,1,0,0,0,0
+17159,Illinois,Richland County,0,1,0,0,0,0,0,0
+17161,Illinois,Rock Island County,16,1,0,0,0,0,0,0
+17163,Illinois,St. Clair County,3,6,0,7,0,0,0,0
+17165,Illinois,Saline County,3,52,0,7,1,1,0,0
+17167,Illinois,Sangamon County,6,5,0,3,1,2,0,0
+17171,Illinois,Scott County,0,1,0,0,0,0,0,0
+17173,Illinois,Shelby County,2,0,0,0,0,0,0,0
+17175,Illinois,Stark County,0,0,0,0,0,0,0,0
+17177,Illinois,Stephenson County,8,1,0,1,0,0,0,0
+17179,Illinois,Tazewell County,11,3,1,0,0,0,0,0
+17181,Illinois,Union County,0,3,0,0,0,0,0,0
+17183,Illinois,Vermilion County,3,0,0,0,0,0,0,0
+17185,Illinois,Wabash County,3,5,0,2,0,0,0,0
+17187,Illinois,Warren County,2,0,0,0,0,0,0,0
+17189,Illinois,Washington County,0,2,0,1,0,0,0,0
+17191,Illinois,Wayne County,0,3,0,1,0,0,0,0
+17193,Illinois,White County,0,0,0,0,0,1,0,0
+17195,Illinois,Whiteside County,5,1,0,1,0,0,0,0
+17197,Illinois,Will County,69,8,0,3,1,0,0,0
+17199,Illinois,Williamson County,1,57,0,29,0,1,2,0
+17201,Illinois,Winnebago County,39,1,0,1,0,0,0,0
+17203,Illinois,Woodford County,8,1,0,0,1,0,0,0
+18001,Indiana,Adams County,2,0,0,0,0,0,0,0
+18003,Indiana,Allen County,5,4,1,0,0,0,0,1
+18005,Indiana,Bartholomew County,6,1,0,1,0,0,0,0
+18007,Indiana,Benton County,1,0,0,0,0,0,0,0
+18011,Indiana,Boone County,3,2,0,0,0,0,0,2
+18013,Indiana,Brown County,2,1,0,0,0,0,0,7
+18015,Indiana,Carroll County,3,0,0,0,0,0,0,0
+18017,Indiana,Cass County,8,0,0,0,0,0,0,1
+18019,Indiana,Clark County,6,31,0,6,0,0,0,13
+18021,Indiana,Clay County,3,0,0,0,0,0,0,0
+18023,Indiana,Clinton County,1,0,0,0,0,0,0,0
+18025,Indiana,Crawford County,1,6,0,4,1,1,0,3
+18027,Indiana,Daviess County,0,3,0,0,0,0,0,2
+18029,Indiana,Dearborn County,6,0,0,0,0,0,0,0
+18033,Indiana,DeKalb County,2,0,0,0,0,0,0,0
+18035,Indiana,Delaware County,0,1,0,0,0,1,0,1
+18037,Indiana,Dubois County,0,17,0,3,0,0,0,11
+18039,Indiana,Elkhart County,20,2,0,0,0,0,0,1
+18041,Indiana,Fayette County,1,0,0,0,0,0,0,0
+18043,Indiana,Floyd County,5,12,0,3,0,0,0,5
+18045,Indiana,Fountain County,0,0,0,0,0,0,0,0
+18047,Indiana,Franklin County,3,1,0,0,0,0,0,0
+18049,Indiana,Fulton County,14,0,0,1,0,0,0,0
+18051,Indiana,Gibson County,2,3,0,0,0,0,0,0
+18053,Indiana,Grant County,0,0,0,0,0,0,0,0
+18055,Indiana,Greene County,2,0,0,0,0,0,0,0
+18057,Indiana,Hamilton County,16,3,1,0,0,0,0,0
+18059,Indiana,Hancock County,2,0,0,0,0,0,0,1
+18061,Indiana,Harrison County,0,19,0,1,0,0,0,8
+18063,Indiana,Hendricks County,1,2,0,1,0,0,0,1
+18065,Indiana,Henry County,1,0,0,0,0,0,0,0
+18067,Indiana,Howard County,3,0,0,0,0,0,0,0
+18069,Indiana,Huntington County,0,0,0,0,0,0,0,0
+18071,Indiana,Jackson County,2,2,0,3,0,0,0,5
+18073,Indiana,Jasper County,11,0,0,0,0,0,0,0
+18075,Indiana,Jay County,0,0,0,0,0,0,0,0
+18077,Indiana,Jefferson County,5,7,0,0,0,0,0,1
+18079,Indiana,Jennings County,4,2,0,0,0,0,0,1
+18081,Indiana,Johnson County,5,1,0,0,0,0,0,1
+18083,Indiana,Knox County,0,0,0,0,0,1,0,0
+18085,Indiana,Kosciusko County,7,0,0,0,0,0,0,0
+18087,Indiana,LaGrange County,2,0,0,0,0,0,0,0
+18089,Indiana,Lake County,36,3,0,0,0,0,0,3
+18091,Indiana,LaPorte County,39,4,0,1,0,0,0,2
+18093,Indiana,Lawrence County,3,1,0,3,0,0,0,5
+18095,Indiana,Madison County,0,0,0,0,0,0,0,0
+18097,Indiana,Marion County,27,9,0,2,0,0,0,4
+18099,Indiana,Marshall County,27,1,0,0,0,0,0,0
+18101,Indiana,Martin County,0,2,0,0,0,0,0,1
+18103,Indiana,Miami County,3,0,0,0,0,0,0,0
+18105,Indiana,Monroe County,10,6,0,9,0,0,0,6
+18107,Indiana,Montgomery County,7,0,0,0,0,0,0,0
+18109,Indiana,Morgan County,3,0,0,0,0,0,0,0
+18111,Indiana,Newton County,0,0,0,0,0,0,0,0
+18113,Indiana,Noble County,1,0,0,0,0,0,0,0
+18117,Indiana,Orange County,1,5,0,0,0,0,0,4
+18119,Indiana,Owen County,9,2,0,0,0,0,0,2
+18121,Indiana,Parke County,9,0,0,0,0,0,0,0
+18123,Indiana,Perry County,2,3,0,0,0,0,0,1
+18125,Indiana,Pike County,0,4,0,0,0,0,0,3
+18127,Indiana,Porter County,68,5,0,0,0,0,0,0
+18129,Indiana,Posey County,0,3,0,0,0,0,0,0
+18131,Indiana,Pulaski County,8,0,0,0,0,0,0,0
+18133,Indiana,Putnam County,8,0,0,0,0,0,0,0
+18135,Indiana,Randolph County,0,0,0,0,0,0,0,0
+18137,Indiana,Ripley County,3,1,0,0,0,0,0,0
+18139,Indiana,Rush County,0,0,0,0,0,0,0,0
+18141,Indiana,St. Joseph County,86,3,0,2,2,0,0,1
+18143,Indiana,Scott County,0,2,0,1,0,0,0,2
+18145,Indiana,Shelby County,0,0,0,0,0,0,0,0
+18147,Indiana,Spencer County,2,18,0,0,0,0,0,2
+18149,Indiana,Starke County,4,0,0,0,0,0,0,0
+18151,Indiana,Steuben County,1,0,0,0,0,0,0,0
+18153,Indiana,Sullivan County,0,0,0,1,0,0,0,0
+18157,Indiana,Tippecanoe County,10,6,0,0,1,0,0,0
+18159,Indiana,Tipton County,0,0,0,0,0,0,0,0
+18161,Indiana,Union County,0,0,0,0,0,0,0,0
+18163,Indiana,Vanderburgh County,5,30,0,0,0,0,0,6
+18165,Indiana,Vermillion County,2,0,0,0,0,0,0,0
+18167,Indiana,Vigo County,7,0,0,0,0,0,0,2
+18169,Indiana,Wabash County,2,0,0,0,0,0,0,0
+18171,Indiana,Warren County,0,0,0,0,0,0,0,0
+18173,Indiana,Warrick County,1,18,0,0,0,0,0,7
+18175,Indiana,Washington County,0,6,0,0,0,0,0,0
+18177,Indiana,Wayne County,0,0,0,0,0,0,0,1
+18179,Indiana,Wells County,1,0,0,0,0,0,0,1
+18181,Indiana,White County,4,0,0,0,0,0,0,0
+18183,Indiana,Whitley County,0,0,0,0,0,0,0,0
+19001,Iowa,Adair County,1,0,0,0,0,0,0,0
+19005,Iowa,Allamakee County,22,0,0,1,3,0,0,0
+19007,Iowa,Appanoose County,4,3,0,1,0,0,0,0
+19011,Iowa,Benton County,22,0,0,1,0,0,0,0
+19013,Iowa,Black Hawk County,19,3,0,0,0,0,0,0
+19015,Iowa,Boone County,8,1,0,1,0,0,0,0
+19017,Iowa,Bremer County,3,0,0,0,1,0,0,0
+19019,Iowa,Buchanan County,8,0,0,0,1,0,0,0
+19021,Iowa,Buena Vista County,1,0,0,0,0,0,0,0
+19023,Iowa,Butler County,0,0,0,0,0,0,0,0
+19025,Iowa,Calhoun County,1,1,0,0,0,0,0,0
+19027,Iowa,Carroll County,0,0,1,0,0,0,0,0
+19029,Iowa,Cass County,1,0,0,0,0,0,0,0
+19031,Iowa,Cedar County,11,1,0,0,1,0,0,0
+19033,Iowa,Cerro Gordo County,6,0,0,0,1,0,0,0
+19035,Iowa,Cherokee County,1,0,0,0,0,1,0,1
+19037,Iowa,Chickasaw County,6,0,0,0,0,0,0,2
+19039,Iowa,Clarke County,0,0,0,2,0,0,0,0
+19043,Iowa,Clayton County,53,0,0,3,2,0,0,1
+19045,Iowa,Clinton County,9,0,0,0,0,0,0,0
+19047,Iowa,Crawford County,1,0,0,0,0,0,0,0
+19049,Iowa,Dallas County,16,4,0,0,2,0,0,1
+19051,Iowa,Davis County,4,2,0,0,1,0,0,0
+19053,Iowa,Decatur County,3,1,0,1,0,1,0,0
+19055,Iowa,Delaware County,14,0,0,0,0,0,0,0
+19057,Iowa,Des Moines County,5,0,0,1,0,0,0,1
+19059,Iowa,Dickinson County,4,0,0,0,0,0,0,0
+19061,Iowa,Dubuque County,121,2,0,4,4,0,0,1
+19063,Iowa,Emmet County,2,2,0,1,0,0,0,0
+19065,Iowa,Fayette County,11,0,0,1,2,0,0,0
+19067,Iowa,Floyd County,3,0,0,0,0,0,0,0
+19069,Iowa,Franklin County,0,0,0,1,0,0,0,0
+19071,Iowa,Fremont County,0,1,0,0,0,0,0,0
+19073,Iowa,Greene County,0,0,0,0,0,0,0,0
+19075,Iowa,Grundy County,2,0,0,0,1,0,0,0
+19077,Iowa,Guthrie County,1,0,0,0,0,0,0,0
+19079,Iowa,Hamilton County,1,0,0,0,0,0,0,0
+19081,Iowa,Hancock County,0,0,0,0,0,0,0,0
+19083,Iowa,Hardin County,3,0,0,0,1,0,0,0
+19085,Iowa,Harrison County,0,1,0,1,0,0,0,0
+19087,Iowa,Henry County,6,1,0,1,0,0,0,0
+19089,Iowa,Howard County,2,0,0,1,0,0,0,0
+19091,Iowa,Humboldt County,0,0,0,0,0,0,0,0
+19093,Iowa,Ida County,0,0,0,0,0,1,0,0
+19095,Iowa,Iowa County,9,0,0,0,0,0,0,1
+19097,Iowa,Jackson County,23,0,0,0,0,0,0,0
+19099,Iowa,Jasper County,5,2,0,0,0,0,0,0
+19101,Iowa,Jefferson County,11,0,0,0,2,0,0,0
+19103,Iowa,Johnson County,196,1,0,2,7,0,1,1
+19105,Iowa,Jones County,8,0,0,0,0,0,0,0
+19107,Iowa,Keokuk County,4,1,0,0,0,0,0,0
+19109,Iowa,Kossuth County,1,0,0,0,0,0,0,0
+19111,Iowa,Lee County,5,1,0,4,0,0,0,0
+19113,Iowa,Linn County,162,3,0,0,3,0,0,0
+19115,Iowa,Louisa County,2,0,0,0,0,0,0,0
+19117,Iowa,Lucas County,0,2,0,1,0,0,0,0
+19119,Iowa,Lyon County,0,0,0,0,0,0,0,0
+19121,Iowa,Madison County,0,0,0,0,0,1,0,0
+19123,Iowa,Mahaska County,5,0,0,0,0,0,0,0
+19125,Iowa,Marion County,10,1,0,1,1,0,0,0
+19127,Iowa,Marshall County,6,0,0,0,0,0,0,1
+19129,Iowa,Mills County,0,3,0,0,0,0,0,0
+19131,Iowa,Mitchell County,0,0,0,0,0,0,0,1
+19135,Iowa,Monroe County,2,0,0,1,1,0,0,0
+19137,Iowa,Montgomery County,0,0,0,0,0,0,0,0
+19139,Iowa,Muscatine County,19,0,0,0,0,0,0,1
+19141,Iowa,O'Brien County,0,2,0,0,0,0,0,0
+19143,Iowa,Osceola County,1,0,0,0,0,0,0,0
+19145,Iowa,Page County,2,0,0,0,0,0,0,0
+19147,Iowa,Palo Alto County,0,0,0,0,0,0,0,0
+19149,Iowa,Plymouth County,1,0,0,0,0,0,0,0
+19151,Iowa,Pocahontas County,0,0,0,0,0,0,0,0
+19153,Iowa,Polk County,68,8,0,2,2,4,0,1
+19155,Iowa,Pottawattamie County,5,5,0,1,0,0,0,0
+19157,Iowa,Poweshiek County,5,1,0,1,0,0,0,0
+19159,Iowa,Ringgold County,1,0,0,1,0,0,0,0
+19161,Iowa,Sac County,0,1,0,0,0,0,0,0
+19163,Iowa,Scott County,42,0,0,0,0,0,0,0
+19165,Iowa,Shelby County,1,0,0,0,0,1,0,0
+19167,Iowa,Sioux County,1,1,0,0,0,0,0,0
+19169,Iowa,Story County,14,0,1,3,0,1,0,0
+19171,Iowa,Tama County,6,0,0,0,0,0,0,0
+19175,Iowa,Union County,0,0,0,0,0,0,0,0
+19177,Iowa,Van Buren County,2,0,0,1,0,0,0,0
+19179,Iowa,Wapello County,9,0,0,2,0,0,0,0
+19181,Iowa,Warren County,12,1,1,0,0,1,0,1
+19183,Iowa,Washington County,9,0,0,0,0,0,0,0
+19185,Iowa,Wayne County,1,3,0,0,0,0,0,0
+19187,Iowa,Webster County,10,1,0,0,0,0,0,0
+19189,Iowa,Winnebago County,2,0,0,0,1,0,0,1
+19191,Iowa,Winneshiek County,34,0,0,1,3,0,0,0
+19193,Iowa,Woodbury County,3,1,0,0,1,0,0,0
+19195,Iowa,Worth County,1,0,0,0,0,0,0,0
+19197,Iowa,Wright County,0,0,0,0,0,0,0,0
+20001,Kansas,Allen County,4,4,0,2,0,0,0,0
+20003,Kansas,Anderson County,0,4,0,2,0,1,0,2
+20005,Kansas,Atchison County,0,4,0,0,0,0,0,0
+20007,Kansas,Barber County,1,5,0,0,0,0,0,0
+20009,Kansas,Barton County,1,3,0,0,0,0,0,0
+20011,Kansas,Bourbon County,4,8,0,3,0,1,0,0
+20013,Kansas,Brown County,0,0,0,0,0,0,0,0
+20015,Kansas,Butler County,1,8,0,3,0,4,0,0
+20017,Kansas,Chase County,1,0,0,0,0,0,0,0
+20019,Kansas,Chautauqua County,0,10,0,5,0,0,0,0
+20021,Kansas,Cherokee County,2,23,0,7,0,1,1,1
+20023,Kansas,Cheyenne County,0,0,0,1,0,0,0,0
+20027,Kansas,Clay County,0,0,0,0,0,1,0,0
+20029,Kansas,Cloud County,0,0,0,0,0,0,0,0
+20031,Kansas,Coffey County,0,12,0,4,0,0,0,0
+20035,Kansas,Cowley County,3,26,0,1,0,1,0,0
+20037,Kansas,Crawford County,5,55,0,13,0,2,0,0
+20041,Kansas,Dickinson County,2,6,0,0,0,1,0,0
+20043,Kansas,Doniphan County,0,0,0,1,0,0,0,0
+20045,Kansas,Douglas County,4,17,0,7,1,5,0,0
+20049,Kansas,Elk County,0,2,0,0,0,0,0,0
+20051,Kansas,Ellis County,0,2,0,0,0,0,0,0
+20053,Kansas,Ellsworth County,0,0,0,1,0,1,0,0
+20055,Kansas,Finney County,1,2,0,0,0,0,0,0
+20057,Kansas,Ford County,6,3,0,0,0,0,0,0
+20059,Kansas,Franklin County,1,6,0,1,0,0,1,0
+20061,Kansas,Geary County,3,0,0,1,0,1,0,0
+20067,Kansas,Grant County,0,0,0,0,0,0,0,0
+20069,Kansas,Gray County,1,1,0,0,0,0,0,0
+20073,Kansas,Greenwood County,1,3,0,0,0,0,0,0
+20077,Kansas,Harper County,0,3,0,1,0,0,0,0
+20079,Kansas,Harvey County,1,1,0,0,0,0,0,0
+20081,Kansas,Haskell County,1,0,0,0,0,0,0,0
+20085,Kansas,Jackson County,3,8,0,3,0,0,0,0
+20087,Kansas,Jefferson County,2,4,0,3,0,2,0,0
+20091,Kansas,Johnson County,22,44,0,33,6,5,1,1
+20095,Kansas,Kingman County,1,1,0,0,0,0,0,0
+20099,Kansas,Labette County,6,74,0,2,1,0,0,0
+20103,Kansas,Leavenworth County,7,11,0,6,0,1,0,0
+20105,Kansas,Lincoln County,0,3,0,0,0,0,0,0
+20107,Kansas,Linn County,0,13,0,2,2,0,0,1
+20109,Kansas,Logan County,0,0,0,0,0,0,0,0
+20111,Kansas,Lyon County,4,8,0,1,1,0,0,0
+20113,Kansas,McPherson County,1,0,0,0,0,1,0,0
+20115,Kansas,Marion County,0,5,0,0,0,0,0,0
+20117,Kansas,Marshall County,0,2,0,0,0,1,0,0
+20121,Kansas,Miami County,1,4,0,6,1,0,0,0
+20123,Kansas,Mitchell County,0,0,0,0,0,0,0,0
+20125,Kansas,Montgomery County,2,45,0,5,1,3,0,0
+20127,Kansas,Morris County,0,2,0,0,0,0,0,0
+20129,Kansas,Morton County,0,0,0,0,0,0,0,0
+20131,Kansas,Nemaha County,0,1,0,1,0,0,0,0
+20133,Kansas,Neosho County,2,17,0,3,0,1,0,0
+20135,Kansas,Ness County,0,0,0,0,0,0,0,0
+20137,Kansas,Norton County,0,1,0,0,0,1,0,0
+20139,Kansas,Osage County,1,12,0,1,0,0,0,0
+20141,Kansas,Osborne County,1,0,0,0,0,1,0,0
+20143,Kansas,Ottawa County,0,0,0,0,0,1,0,0
+20145,Kansas,Pawnee County,0,1,0,0,0,0,0,0
+20147,Kansas,Phillips County,0,1,0,0,0,0,0,0
+20149,Kansas,Pottawatomie County,1,7,0,5,1,3,0,0
+20151,Kansas,Pratt County,2,4,0,0,1,0,0,0
+20153,Kansas,Rawlins County,0,0,0,0,0,0,0,0
+20155,Kansas,Reno County,7,18,0,4,0,6,0,0
+20159,Kansas,Rice County,1,0,0,1,0,0,0,0
+20161,Kansas,Riley County,3,6,0,2,0,5,0,0
+20163,Kansas,Rooks County,1,0,0,0,0,1,0,0
+20165,Kansas,Rush County,0,1,0,0,0,1,0,0
+20167,Kansas,Russell County,1,2,0,0,0,0,0,0
+20169,Kansas,Saline County,1,2,0,0,0,5,0,0
+20173,Kansas,Sedgwick County,16,25,0,17,0,14,0,1
+20177,Kansas,Shawnee County,6,26,0,11,1,9,1,0
+20185,Kansas,Stafford County,0,3,0,0,0,0,0,0
+20191,Kansas,Sumner County,0,7,0,2,0,0,0,0
+20195,Kansas,Trego County,0,1,0,0,0,0,0,0
+20197,Kansas,Wabaunsee County,1,5,0,3,0,2,0,0
+20205,Kansas,Wilson County,0,6,0,0,0,0,0,0
+20207,Kansas,Woodson County,0,10,0,1,0,0,0,0
+20209,Kansas,Wyandotte County,7,8,0,3,0,0,0,0
+21001,Kentucky,Adair County,1,22,0,1,0,0,0,0
+21003,Kentucky,Allen County,0,6,0,0,0,0,0,0
+21005,Kentucky,Anderson County,0,25,0,0,0,0,0,0
+21007,Kentucky,Ballard County,1,1,0,2,0,0,0,0
+21009,Kentucky,Barren County,0,24,0,1,0,0,0,0
+21013,Kentucky,Bell County,0,2,0,0,0,0,0,0
+21015,Kentucky,Boone County,4,1,1,1,0,1,0,0
+21017,Kentucky,Bourbon County,0,4,0,0,0,0,0,0
+21019,Kentucky,Boyd County,2,5,0,0,0,0,0,0
+21021,Kentucky,Boyle County,0,0,0,0,0,0,0,0
+21023,Kentucky,Bracken County,0,0,0,0,0,0,0,0
+21025,Kentucky,Breathitt County,0,0,0,5,0,0,0,0
+21027,Kentucky,Breckinridge County,0,40,0,5,0,0,0,0
+21029,Kentucky,Bullitt County,1,4,0,2,0,1,0,0
+21031,Kentucky,Butler County,0,3,0,0,0,0,0,0
+21033,Kentucky,Caldwell County,0,4,0,2,0,0,0,0
+21035,Kentucky,Calloway County,0,3,0,1,0,0,0,0
+21037,Kentucky,Campbell County,1,0,0,0,0,0,0,0
+21039,Kentucky,Carlisle County,0,1,0,0,0,0,0,0
+21041,Kentucky,Carroll County,0,0,0,0,0,0,0,0
+21043,Kentucky,Carter County,0,13,0,2,0,0,0,0
+21045,Kentucky,Casey County,0,0,0,0,0,0,0,0
+21047,Kentucky,Christian County,0,8,0,0,0,0,0,0
+21049,Kentucky,Clark County,0,0,0,0,0,0,0,0
+21051,Kentucky,Clay County,0,1,0,3,0,0,0,0
+21053,Kentucky,Clinton County,0,3,0,0,0,0,0,0
+21055,Kentucky,Crittenden County,0,58,0,1,0,0,0,0
+21057,Kentucky,Cumberland County,0,1,0,0,0,0,0,0
+21059,Kentucky,Daviess County,0,6,0,3,0,3,0,0
+21061,Kentucky,Edmonson County,0,20,0,0,0,0,0,0
+21063,Kentucky,Elliott County,0,6,0,1,0,0,0,0
+21065,Kentucky,Estill County,0,0,0,2,0,0,0,0
+21067,Kentucky,Fayette County,1,5,0,1,0,1,0,1
+21069,Kentucky,Fleming County,0,1,0,0,0,0,0,0
+21071,Kentucky,Floyd County,1,0,0,0,0,0,0,0
+21073,Kentucky,Franklin County,0,0,0,0,0,0,0,0
+21075,Kentucky,Fulton County,0,0,0,0,1,0,0,0
+21081,Kentucky,Grant County,0,6,0,0,0,0,0,0
+21083,Kentucky,Graves County,0,6,0,3,0,1,0,0
+21085,Kentucky,Grayson County,0,50,0,1,0,2,0,0
+21087,Kentucky,Green County,1,2,0,0,0,0,0,0
+21089,Kentucky,Greenup County,1,4,0,1,0,0,0,0
+21091,Kentucky,Hancock County,0,3,0,1,0,1,0,0
+21093,Kentucky,Hardin County,0,47,0,10,0,1,0,0
+21095,Kentucky,Harlan County,0,2,0,0,0,0,0,0
+21097,Kentucky,Harrison County,0,4,0,0,0,0,0,0
+21099,Kentucky,Hart County,0,3,0,1,0,0,0,0
+21101,Kentucky,Henderson County,0,0,0,0,0,0,0,0
+21103,Kentucky,Henry County,1,3,0,0,0,1,0,0
+21105,Kentucky,Hickman County,0,0,0,0,0,0,0,0
+21107,Kentucky,Hopkins County,0,8,0,4,0,0,0,0
+21109,Kentucky,Jackson County,0,0,0,0,0,0,0,0
+21111,Kentucky,Jefferson County,6,22,0,11,0,0,0,3
+21113,Kentucky,Jessamine County,0,0,0,0,0,0,0,0
+21115,Kentucky,Johnson County,0,0,0,0,0,0,0,0
+21117,Kentucky,Kenton County,4,2,0,0,0,0,0,0
+21119,Kentucky,Knott County,0,0,0,1,0,0,0,0
+21121,Kentucky,Knox County,1,11,0,2,0,0,0,0
+21123,Kentucky,Larue County,0,12,0,1,0,0,0,1
+21125,Kentucky,Laurel County,0,2,0,1,0,0,0,0
+21127,Kentucky,Lawrence County,1,1,0,0,0,0,0,0
+21129,Kentucky,Lee County,0,3,0,1,0,0,0,0
+21131,Kentucky,Leslie County,0,0,0,2,0,0,0,0
+21133,Kentucky,Letcher County,0,0,0,0,0,0,0,0
+21135,Kentucky,Lewis County,0,1,0,0,0,0,0,0
+21137,Kentucky,Lincoln County,0,0,0,0,0,0,0,0
+21139,Kentucky,Livingston County,0,9,0,3,0,0,0,0
+21141,Kentucky,Logan County,0,3,0,1,0,0,0,0
+21143,Kentucky,Lyon County,0,3,0,0,0,0,0,0
+21145,Kentucky,McCracken County,0,6,0,1,0,1,0,0
+21147,Kentucky,McCreary County,2,6,0,0,0,2,0,0
+21151,Kentucky,Madison County,2,6,0,0,0,0,0,0
+21153,Kentucky,Magoffin County,1,0,0,0,0,0,0,0
+21155,Kentucky,Marion County,0,13,0,0,0,0,0,0
+21157,Kentucky,Marshall County,0,2,0,1,0,0,0,0
+21159,Kentucky,Martin County,0,0,0,0,0,0,0,0
+21161,Kentucky,Mason County,0,0,0,0,0,0,0,0
+21163,Kentucky,Meade County,1,31,0,2,0,0,0,0
+21165,Kentucky,Menifee County,0,1,0,2,0,0,0,0
+21169,Kentucky,Metcalfe County,0,3,0,0,0,0,0,0
+21171,Kentucky,Monroe County,0,1,0,1,0,0,0,0
+21173,Kentucky,Montgomery County,0,0,0,0,0,0,0,0
+21175,Kentucky,Morgan County,0,0,0,0,0,0,0,0
+21177,Kentucky,Muhlenberg County,0,4,0,1,0,1,0,0
+21179,Kentucky,Nelson County,0,16,0,8,0,1,0,0
+21183,Kentucky,Ohio County,0,0,0,1,0,1,0,0
+21185,Kentucky,Oldham County,0,6,0,3,0,0,0,0
+21187,Kentucky,Owen County,0,1,0,0,0,0,0,0
+21189,Kentucky,Owsley County,0,0,0,4,0,0,0,0
+21191,Kentucky,Pendleton County,1,0,0,0,0,0,0,0
+21193,Kentucky,Perry County,0,1,0,1,0,0,0,0
+21195,Kentucky,Pike County,0,0,0,0,0,0,0,0
+21199,Kentucky,Pulaski County,0,10,0,0,0,0,0,1
+21201,Kentucky,Robertson County,0,1,0,0,0,0,0,0
+21203,Kentucky,Rockcastle County,0,0,0,0,0,0,0,0
+21205,Kentucky,Rowan County,0,0,0,1,0,0,0,0
+21207,Kentucky,Russell County,0,3,0,0,0,0,0,0
+21209,Kentucky,Scott County,0,0,0,0,0,0,0,0
+21211,Kentucky,Shelby County,0,3,0,1,0,0,0,0
+21213,Kentucky,Simpson County,1,0,0,0,0,0,0,0
+21215,Kentucky,Spencer County,0,4,0,2,0,0,0,0
+21217,Kentucky,Taylor County,0,1,0,0,0,0,0,0
+21219,Kentucky,Todd County,0,0,0,1,0,0,0,0
+21221,Kentucky,Trigg County,0,5,0,0,0,0,0,0
+21223,Kentucky,Trimble County,0,3,0,1,0,0,1,0
+21225,Kentucky,Union County,0,2,0,0,0,0,0,0
+21227,Kentucky,Warren County,2,4,0,2,0,1,0,0
+21229,Kentucky,Washington County,0,7,0,1,0,0,0,0
+21231,Kentucky,Wayne County,0,0,0,0,0,0,0,0
+21233,Kentucky,Webster County,0,1,0,0,0,0,0,0
+21235,Kentucky,Whitley County,3,13,0,1,0,2,0,0
+21237,Kentucky,Wolfe County,0,1,0,0,0,0,0,0
+21239,Kentucky,Woodford County,0,2,0,0,0,0,0,0
+22001,Louisiana,Acadia Parish,0,0,0,0,0,0,0,0
+22003,Louisiana,Allen Parish,0,1,0,0,0,0,0,0
+22005,Louisiana,Ascension Parish,1,2,0,1,0,0,0,0
+22007,Louisiana,Assumption Parish,0,1,0,0,0,0,0,0
+22009,Louisiana,Avoyelles Parish,0,0,0,0,0,0,0,0
+22011,Louisiana,Beauregard Parish,1,8,0,0,0,0,0,0
+22013,Louisiana,Bienville Parish,0,2,0,0,0,0,0,0
+22015,Louisiana,Bossier Parish,0,1,0,1,0,0,0,0
+22017,Louisiana,Caddo Parish,2,7,2,0,0,0,0,0
+22019,Louisiana,Calcasieu Parish,3,7,0,0,0,0,0,0
+22029,Louisiana,Concordia Parish,0,1,0,0,0,0,0,0
+22031,Louisiana,De Soto Parish,0,1,0,0,0,0,0,0
+22033,Louisiana,East Baton Rouge Parish,4,5,0,1,0,0,0,0
+22039,Louisiana,Evangeline Parish,0,0,0,0,0,0,0,0
+22041,Louisiana,Franklin Parish,0,0,0,0,0,0,0,0
+22043,Louisiana,Grant Parish,0,0,0,0,0,0,0,0
+22045,Louisiana,Iberia Parish,0,0,0,0,0,0,0,0
+22047,Louisiana,Iberville Parish,1,1,0,0,0,0,0,0
+22049,Louisiana,Jackson Parish,0,2,0,0,0,0,0,0
+22051,Louisiana,Jefferson Parish,0,0,1,0,0,0,0,0
+22053,Louisiana,Jefferson Davis Parish,0,0,0,0,0,0,0,0
+22055,Louisiana,Lafayette Parish,1,1,0,0,0,0,0,0
+22057,Louisiana,Lafourche Parish,1,0,0,0,0,0,0,0
+22059,Louisiana,LaSalle Parish,0,1,0,0,0,0,0,0
+22061,Louisiana,Lincoln Parish,0,2,0,0,0,0,0,0
+22063,Louisiana,Livingston Parish,2,4,0,1,0,0,0,0
+22065,Louisiana,Madison Parish,0,0,0,0,0,0,0,0
+22067,Louisiana,Morehouse Parish,0,1,0,0,0,0,0,0
+22071,Louisiana,Orleans Parish,3,3,0,1,0,0,0,0
+22073,Louisiana,Ouachita Parish,2,7,1,0,1,0,0,0
+22077,Louisiana,Pointe Coupee Parish,1,0,0,0,0,0,0,0
+22079,Louisiana,Rapides Parish,0,0,0,1,0,0,0,0
+22081,Louisiana,Red River Parish,1,0,0,0,0,0,0,0
+22083,Louisiana,Richland Parish,0,1,0,0,0,0,0,0
+22085,Louisiana,Sabine Parish,0,0,0,0,0,0,0,0
+22087,Louisiana,St. Bernard Parish,0,0,0,0,0,0,0,0
+22089,Louisiana,St. Charles Parish,0,0,0,0,0,0,0,0
+22091,Louisiana,St. Helena Parish,0,0,0,0,0,0,0,0
+22095,Louisiana,St. John the Baptist Parish,0,0,0,0,0,0,0,0
+22097,Louisiana,St. Landry Parish,0,0,0,0,0,0,0,0
+22099,Louisiana,St. Martin Parish,0,0,0,0,0,0,0,0
+22101,Louisiana,St. Mary Parish,0,1,0,0,0,0,0,0
+22103,Louisiana,St. Tammany Parish,1,9,0,0,0,0,0,0
+22105,Louisiana,Tangipahoa Parish,0,5,0,0,0,0,0,0
+22109,Louisiana,Terrebonne Parish,1,0,0,0,0,0,0,0
+22111,Louisiana,Union Parish,0,2,0,1,0,0,0,0
+22113,Louisiana,Vermilion Parish,1,0,0,0,0,0,0,0
+22115,Louisiana,Vernon Parish,0,0,0,1,0,0,0,0
+22117,Louisiana,Washington Parish,0,5,0,0,0,0,0,0
+22119,Louisiana,Webster Parish,0,2,0,0,0,0,0,0
+22123,Louisiana,West Carroll Parish,1,0,0,0,0,0,0,0
+22125,Louisiana,West Feliciana Parish,0,0,0,0,0,0,0,0
+22127,Louisiana,Winn Parish,0,1,0,0,0,0,0,0
+23001,Maine,Androscoggin County,354,2,28,7,55,0,0,8
+23003,Maine,Aroostook County,15,0,0,0,0,0,0,0
+23005,Maine,Cumberland County,1267,4,84,13,161,0,0,2
+23007,Maine,Franklin County,79,0,2,0,2,0,0,0
+23009,Maine,Hancock County,720,2,16,0,37,1,0,0
+23011,Maine,Kennebec County,928,4,43,13,100,0,0,11
+23013,Maine,Knox County,583,3,72,1,187,0,0,0
+23015,Maine,Lincoln County,366,0,30,2,158,0,0,1
+23017,Maine,Oxford County,236,1,15,0,19,0,0,1
+23019,Maine,Penobscot County,406,1,11,4,8,0,0,0
+23021,Maine,Piscataquis County,17,0,1,0,0,0,0,0
+23023,Maine,Sagadahoc County,282,0,23,1,73,0,0,1
+23025,Maine,Somerset County,224,0,6,1,6,0,0,0
+23027,Maine,Waldo County,434,0,13,2,48,0,0,0
+23029,Maine,Washington County,98,1,1,1,2,0,0,0
+23031,Maine,York County,896,3,94,4,179,0,0,1
+24001,Maryland,Allegany County,327,2,0,1,0,0,0,0
+24003,Maryland,Anne Arundel County,502,39,2,59,2,0,1,1
+24005,Maryland,Baltimore County,716,13,3,10,7,2,0,1
+24009,Maryland,Calvert County,298,20,0,29,1,0,0,0
+24011,Maryland,Caroline County,50,11,0,2,1,0,0,0
+24013,Maryland,Carroll County,668,3,2,1,2,0,0,0
+24015,Maryland,Cecil County,257,10,0,6,2,0,0,0
+24017,Maryland,Charles County,62,5,0,6,0,0,0,0
+24019,Maryland,Dorchester County,17,3,0,1,0,0,0,0
+24021,Maryland,Frederick County,515,3,2,1,2,0,0,0
+24023,Maryland,Garrett County,61,1,0,0,0,0,0,0
+24025,Maryland,Harford County,621,13,1,3,3,0,1,0
+24027,Maryland,Howard County,505,3,5,5,2,0,0,0
+24029,Maryland,Kent County,56,7,0,2,0,0,0,1
+24031,Maryland,Montgomery County,787,22,5,8,5,1,0,0
+24033,Maryland,Prince George's County,226,6,2,17,0,0,0,1
+24035,Maryland,Queen Anne's County,167,30,0,7,0,0,0,0
+24037,Maryland,St. Mary's County,186,32,1,25,1,0,0,0
+24039,Maryland,Somerset County,27,6,0,5,0,0,0,0
+24041,Maryland,Talbot County,75,49,1,10,1,0,0,0
+24043,Maryland,Washington County,207,1,0,1,1,0,0,0
+24045,Maryland,Wicomico County,62,14,0,15,3,0,0,0
+24047,Maryland,Worcester County,19,7,0,7,1,0,1,0
+24510,Maryland,Baltimore city,142,5,1,5,6,0,0,0
+25001,Massachusetts,Barnstable County,17,0,389,0,68,1,0,0
+25003,Massachusetts,Berkshire County,12,0,52,0,87,0,0,0
+25005,Massachusetts,Bristol County,50,0,386,0,69,1,0,0
+25007,Massachusetts,Dukes County,14,1,34,0,15,8,0,0
+25009,Massachusetts,Essex County,27,4,125,2,48,0,0,0
+25011,Massachusetts,Franklin County,7,0,6,2,10,0,0,0
+25013,Massachusetts,Hampden County,15,0,51,0,9,0,0,0
+25015,Massachusetts,Hampshire County,16,1,26,1,19,1,0,0
+25017,Massachusetts,Middlesex County,88,0,282,2,179,1,0,0
+25019,Massachusetts,Nantucket County,11,0,61,0,11,4,0,0
+25021,Massachusetts,Norfolk County,75,1,160,2,56,2,0,0
+25023,Massachusetts,Plymouth County,77,1,505,1,165,0,0,0
+25025,Massachusetts,Suffolk County,192,0,34,0,13,0,0,0
+25027,Massachusetts,Worcester County,25,0,145,0,89,0,0,0
+26001,Michigan,Alcona County,2,0,0,0,0,0,0,0
+26003,Michigan,Alger County,1,0,0,0,0,0,0,0
+26005,Michigan,Allegan County,35,1,0,0,1,0,0,0
+26007,Michigan,Alpena County,1,0,0,0,0,0,0,0
+26009,Michigan,Antrim County,4,0,0,0,0,0,0,0
+26013,Michigan,Baraga County,6,0,0,0,0,0,0,0
+26015,Michigan,Barry County,18,0,0,0,1,0,0,0
+26017,Michigan,Bay County,5,0,0,0,0,0,0,0
+26019,Michigan,Benzie County,11,0,0,0,0,0,0,0
+26021,Michigan,Berrien County,104,4,1,0,0,0,0,0
+26023,Michigan,Branch County,1,0,0,0,0,0,0,0
+26025,Michigan,Calhoun County,28,2,0,1,0,0,0,0
+26027,Michigan,Cass County,24,2,0,0,0,0,0,1
+26029,Michigan,Charlevoix County,0,0,1,0,0,0,0,0
+26031,Michigan,Cheboygan County,1,0,0,0,0,0,0,0
+26033,Michigan,Chippewa County,6,0,0,0,0,0,0,0
+26035,Michigan,Clare County,0,0,0,0,0,0,0,0
+26037,Michigan,Clinton County,2,0,0,0,0,0,0,0
+26039,Michigan,Crawford County,0,0,0,1,1,0,0,0
+26041,Michigan,Delta County,18,0,0,0,0,0,0,0
+26043,Michigan,Dickinson County,159,0,0,0,12,1,0,1
+26045,Michigan,Eaton County,6,1,0,0,0,0,0,0
+26047,Michigan,Emmet County,1,0,0,0,0,0,0,0
+26049,Michigan,Genesee County,10,2,0,2,0,0,0,0
+26051,Michigan,Gladwin County,0,1,0,0,0,0,0,0
+26053,Michigan,Gogebic County,12,0,2,0,1,0,0,0
+26055,Michigan,Grand Traverse County,15,1,0,0,0,0,0,0
+26057,Michigan,Gratiot County,0,1,0,0,0,0,0,0
+26059,Michigan,Hillsdale County,4,0,0,0,0,0,0,0
+26061,Michigan,Houghton County,23,0,0,0,1,0,0,0
+26063,Michigan,Huron County,1,0,0,0,0,0,0,0
+26065,Michigan,Ingham County,28,4,0,1,0,0,0,0
+26067,Michigan,Ionia County,7,0,0,0,0,0,0,0
+26069,Michigan,Iosco County,6,0,0,0,0,0,0,0
+26071,Michigan,Iron County,8,0,0,0,2,1,0,0
+26073,Michigan,Isabella County,4,0,0,0,0,0,0,0
+26075,Michigan,Jackson County,6,1,0,0,0,0,0,0
+26077,Michigan,Kalamazoo County,131,2,0,1,0,0,0,0
+26081,Michigan,Kent County,55,1,0,1,1,0,0,0
+26083,Michigan,Keweenaw County,4,0,0,0,0,0,0,0
+26085,Michigan,Lake County,2,0,0,0,0,0,0,0
+26087,Michigan,Lapeer County,0,1,0,1,0,0,0,0
+26089,Michigan,Leelanau County,9,1,0,0,0,0,0,0
+26091,Michigan,Lenawee County,3,2,0,0,0,0,0,0
+26093,Michigan,Livingston County,5,0,0,1,1,0,0,0
+26095,Michigan,Luce County,2,0,0,0,0,0,0,0
+26097,Michigan,Mackinac County,4,0,0,0,0,0,0,0
+26099,Michigan,Macomb County,22,3,0,3,1,0,0,0
+26101,Michigan,Manistee County,24,0,0,0,0,0,0,0
+26103,Michigan,Marquette County,24,0,0,0,0,0,0,0
+26105,Michigan,Mason County,19,0,0,0,0,0,0,0
+26107,Michigan,Mecosta County,7,0,0,0,0,0,0,0
+26109,Michigan,Menominee County,55,0,1,0,13,0,0,0
+26111,Michigan,Midland County,6,0,0,0,0,0,0,0
+26113,Michigan,Missaukee County,2,0,0,0,0,0,0,0
+26115,Michigan,Monroe County,0,0,0,0,0,0,0,0
+26117,Michigan,Montcalm County,1,2,0,0,0,0,0,0
+26119,Michigan,Montmorency County,1,0,0,0,0,0,0,0
+26121,Michigan,Muskegon County,19,2,0,0,0,0,0,0
+26123,Michigan,Newaygo County,0,0,0,0,0,0,0,0
+26125,Michigan,Oakland County,42,9,0,1,1,0,0,0
+26127,Michigan,Oceana County,12,0,0,0,1,0,0,0
+26129,Michigan,Ogemaw County,0,0,0,0,0,0,0,0
+26131,Michigan,Ontonagon County,11,0,0,1,0,0,0,1
+26133,Michigan,Osceola County,2,0,0,0,0,0,0,0
+26135,Michigan,Oscoda County,2,0,0,0,0,0,0,0
+26137,Michigan,Otsego County,1,0,0,0,0,0,0,0
+26139,Michigan,Ottawa County,53,0,0,1,3,0,0,0
+26141,Michigan,Presque Isle County,0,0,0,0,0,0,0,0
+26143,Michigan,Roscommon County,1,0,0,0,0,0,0,0
+26145,Michigan,Saginaw County,4,3,0,0,0,0,0,0
+26147,Michigan,St. Clair County,3,0,0,0,0,1,0,0
+26149,Michigan,St. Joseph County,5,1,0,0,0,0,0,0
+26151,Michigan,Sanilac County,2,0,0,0,0,0,0,0
+26153,Michigan,Schoolcraft County,2,0,0,0,0,0,0,0
+26155,Michigan,Shiawassee County,1,0,0,0,0,0,0,0
+26157,Michigan,Tuscola County,3,1,0,0,0,0,0,0
+26159,Michigan,Van Buren County,15,1,0,2,0,0,0,0
+26161,Michigan,Washtenaw County,51,2,1,3,5,0,0,0
+26163,Michigan,Wayne County,23,1,1,3,4,1,0,0
+26165,Michigan,Wexford County,1,0,0,0,0,0,0,0
+27001,Minnesota,Aitkin County,102,1,0,0,14,0,0,1
+27003,Minnesota,Anoka County,506,0,4,1,31,0,0,3
+27005,Minnesota,Becker County,139,1,9,0,22,0,0,0
+27007,Minnesota,Beltrami County,169,0,10,0,92,1,0,2
+27009,Minnesota,Benton County,38,0,3,0,3,0,0,1
+27011,Minnesota,Big Stone County,3,0,0,0,0,0,0,0
+27013,Minnesota,Blue Earth County,22,0,2,2,1,0,0,0
+27015,Minnesota,Brown County,6,0,2,0,0,0,0,0
+27017,Minnesota,Carlton County,144,0,3,0,21,0,0,1
+27019,Minnesota,Carver County,57,1,2,0,9,0,0,3
+27021,Minnesota,Cass County,272,0,7,0,41,0,0,0
+27023,Minnesota,Chippewa County,3,0,0,0,2,0,0,0
+27025,Minnesota,Chisago County,115,0,3,0,6,0,0,2
+27027,Minnesota,Clay County,29,0,2,0,4,0,0,1
+27029,Minnesota,Clearwater County,37,0,4,0,12,0,0,0
+27031,Minnesota,Cook County,5,0,0,0,1,0,0,0
+27033,Minnesota,Cottonwood County,1,0,0,0,0,0,0,0
+27035,Minnesota,Crow Wing County,485,1,10,1,39,0,0,1
+27037,Minnesota,Dakota County,407,1,5,1,24,1,0,3
+27039,Minnesota,Dodge County,5,0,0,0,1,0,0,1
+27041,Minnesota,Douglas County,33,0,2,0,5,0,0,0
+27043,Minnesota,Faribault County,1,0,0,0,0,0,0,1
+27045,Minnesota,Fillmore County,48,0,2,1,1,0,0,1
+27047,Minnesota,Freeborn County,8,0,1,0,0,0,0,0
+27049,Minnesota,Goodhue County,98,0,0,1,8,0,0,4
+27051,Minnesota,Grant County,2,0,0,0,1,0,0,0
+27053,Minnesota,Hennepin County,934,8,19,2,61,5,0,2
+27055,Minnesota,Houston County,64,0,4,1,11,0,0,0
+27057,Minnesota,Hubbard County,167,0,15,0,43,0,0,0
+27059,Minnesota,Isanti County,92,1,1,1,6,0,0,0
+27061,Minnesota,Itasca County,230,1,7,0,64,0,0,1
+27063,Minnesota,Jackson County,1,0,0,0,0,0,0,0
+27065,Minnesota,Kanabec County,49,0,0,0,1,0,0,0
+27067,Minnesota,Kandiyohi County,48,0,1,1,6,0,0,1
+27069,Minnesota,Kittson County,9,0,0,0,11,0,0,0
+27071,Minnesota,Koochiching County,6,0,0,0,6,0,0,0
+27073,Minnesota,Lac qui Parle County,1,0,0,1,0,0,0,0
+27075,Minnesota,Lake County,35,0,0,0,9,0,0,0
+27077,Minnesota,Lake of the Woods County,3,0,0,0,1,0,0,1
+27079,Minnesota,Le Sueur County,10,0,1,0,2,0,0,2
+27081,Minnesota,Lincoln County,0,0,0,0,0,0,0,0
+27083,Minnesota,Lyon County,6,0,0,0,0,0,0,0
+27085,Minnesota,McLeod County,20,0,0,0,0,0,0,0
+27087,Minnesota,Mahnomen County,12,0,2,0,2,0,0,1
+27089,Minnesota,Marshall County,17,0,3,0,6,1,0,0
+27091,Minnesota,Martin County,1,0,0,0,0,0,0,0
+27093,Minnesota,Meeker County,17,0,0,0,0,0,0,1
+27095,Minnesota,Mille Lacs County,55,0,3,0,7,0,0,1
+27097,Minnesota,Morrison County,93,0,0,1,17,0,0,0
+27099,Minnesota,Mower County,18,0,1,0,1,0,0,0
+27101,Minnesota,Murray County,0,1,0,0,0,0,0,0
+27103,Minnesota,Nicollet County,16,0,1,0,0,0,0,2
+27105,Minnesota,Nobles County,0,0,0,0,0,0,0,0
+27107,Minnesota,Norman County,5,0,0,0,0,0,0,0
+27109,Minnesota,Olmsted County,117,0,3,3,13,0,0,6
+27111,Minnesota,Otter Tail County,123,0,7,1,33,0,0,4
+27113,Minnesota,Pennington County,16,0,2,0,5,0,0,0
+27115,Minnesota,Pine County,194,1,3,0,19,0,0,1
+27117,Minnesota,Pipestone County,2,0,0,0,0,0,0,0
+27119,Minnesota,Polk County,29,0,5,0,10,0,0,0
+27121,Minnesota,Pope County,5,0,0,0,2,0,0,1
+27123,Minnesota,Ramsey County,563,2,11,2,31,1,0,3
+27125,Minnesota,Red Lake County,7,0,0,0,2,0,0,0
+27127,Minnesota,Redwood County,1,0,0,0,0,0,0,0
+27129,Minnesota,Renville County,7,0,0,0,2,0,0,0
+27131,Minnesota,Rice County,30,0,3,1,2,0,0,1
+27133,Minnesota,Rock County,0,0,0,1,0,0,0,0
+27135,Minnesota,Roseau County,19,0,2,0,8,0,0,1
+27137,Minnesota,St. Louis County,387,0,14,2,56,1,0,6
+27139,Minnesota,Scott County,107,1,0,0,4,0,0,2
+27141,Minnesota,Sherburne County,237,0,5,0,16,1,0,2
+27143,Minnesota,Sibley County,13,0,0,0,1,0,0,0
+27145,Minnesota,Stearns County,146,1,5,1,26,0,0,1
+27147,Minnesota,Steele County,22,0,1,0,1,0,0,3
+27149,Minnesota,Stevens County,4,0,0,0,0,0,0,0
+27151,Minnesota,Swift County,6,0,0,0,0,0,0,0
+27153,Minnesota,Todd County,56,0,5,0,11,0,0,0
+27155,Minnesota,Traverse County,1,0,0,0,0,0,0,0
+27157,Minnesota,Wabasha County,31,0,3,0,3,0,0,4
+27159,Minnesota,Wadena County,42,0,2,0,15,0,0,1
+27161,Minnesota,Waseca County,6,0,0,0,1,0,0,0
+27163,Minnesota,Washington County,454,2,2,1,23,1,0,2
+27165,Minnesota,Watonwan County,5,0,0,0,1,0,0,0
+27167,Minnesota,Wilkin County,1,0,0,0,1,0,0,0
+27169,Minnesota,Winona County,112,1,8,1,15,0,0,4
+27171,Minnesota,Wright County,124,0,4,0,7,0,0,2
+27173,Minnesota,Yellow Medicine County,1,0,0,0,0,0,0,0
+28001,Mississippi,Adams County,0,2,0,0,0,0,0,0
+28003,Mississippi,Alcorn County,0,1,0,1,0,0,0,0
+28005,Mississippi,Amite County,0,2,0,0,0,0,0,0
+28007,Mississippi,Attala County,0,1,0,0,0,0,0,0
+28013,Mississippi,Calhoun County,0,4,0,0,0,0,0,0
+28015,Mississippi,Carroll County,0,3,0,0,0,0,0,0
+28017,Mississippi,Chickasaw County,0,4,0,0,0,0,0,0
+28019,Mississippi,Choctaw County,0,7,0,1,0,0,0,0
+28023,Mississippi,Clarke County,0,4,0,0,0,0,0,0
+28025,Mississippi,Clay County,0,1,0,0,0,0,0,0
+28027,Mississippi,Coahoma County,0,0,0,0,0,0,0,0
+28029,Mississippi,Copiah County,0,5,0,0,0,0,0,0
+28031,Mississippi,Covington County,0,1,0,0,0,0,0,0
+28033,Mississippi,DeSoto County,0,11,0,2,0,0,0,0
+28035,Mississippi,Forrest County,0,4,0,0,0,0,0,0
+28037,Mississippi,Franklin County,0,3,0,0,0,0,0,0
+28039,Mississippi,George County,0,1,0,0,0,0,0,0
+28041,Mississippi,Greene County,0,3,0,0,0,0,0,0
+28043,Mississippi,Grenada County,0,0,0,0,0,0,0,0
+28045,Mississippi,Hancock County,0,0,0,1,1,0,0,0
+28047,Mississippi,Harrison County,2,8,0,1,0,0,0,0
+28049,Mississippi,Hinds County,0,6,0,1,0,0,0,0
+28059,Mississippi,Jackson County,0,0,0,0,0,0,0,0
+28061,Mississippi,Jasper County,0,3,0,0,0,0,0,0
+28063,Mississippi,Jefferson County,0,1,0,0,0,0,0,0
+28065,Mississippi,Jefferson Davis County,1,2,0,0,0,0,0,0
+28067,Mississippi,Jones County,0,13,0,0,0,0,0,0
+28069,Mississippi,Kemper County,1,4,0,0,0,0,0,0
+28071,Mississippi,Lafayette County,0,6,0,0,0,0,0,0
+28073,Mississippi,Lamar County,0,3,0,1,0,0,0,0
+28075,Mississippi,Lauderdale County,0,11,0,0,1,0,0,0
+28077,Mississippi,Lawrence County,0,2,0,0,0,0,0,0
+28079,Mississippi,Leake County,0,2,0,0,0,0,0,0
+28081,Mississippi,Lee County,0,3,0,0,0,0,0,0
+28083,Mississippi,Leflore County,0,1,0,0,0,0,0,0
+28085,Mississippi,Lincoln County,0,5,0,0,0,0,0,0
+28087,Mississippi,Lowndes County,0,7,0,0,0,0,0,0
+28089,Mississippi,Madison County,2,4,0,1,0,0,0,0
+28091,Mississippi,Marion County,0,1,0,0,0,0,0,0
+28093,Mississippi,Marshall County,0,0,0,0,0,0,0,0
+28095,Mississippi,Monroe County,0,3,0,0,0,0,0,0
+28097,Mississippi,Montgomery County,0,0,0,1,0,0,0,0
+28099,Mississippi,Neshoba County,0,9,0,0,0,0,0,0
+28101,Mississippi,Newton County,1,2,0,1,0,0,0,0
+28103,Mississippi,Noxubee County,0,2,0,0,0,0,0,0
+28105,Mississippi,Oktibbeha County,0,3,0,1,0,0,0,0
+28107,Mississippi,Panola County,0,2,0,1,0,0,0,0
+28109,Mississippi,Pearl River County,2,1,0,1,0,0,0,0
+28111,Mississippi,Perry County,0,3,0,0,0,0,0,0
+28113,Mississippi,Pike County,0,3,0,0,0,0,0,0
+28115,Mississippi,Pontotoc County,0,2,0,0,0,0,0,0
+28117,Mississippi,Prentiss County,0,0,0,0,0,0,0,0
+28119,Mississippi,Quitman County,0,1,0,0,0,0,0,0
+28121,Mississippi,Rankin County,0,3,0,1,0,0,0,0
+28123,Mississippi,Scott County,0,2,0,0,0,0,0,0
+28125,Mississippi,Sharkey County,0,1,0,0,0,0,0,0
+28127,Mississippi,Simpson County,0,1,0,0,0,0,0,0
+28129,Mississippi,Smith County,0,3,0,0,0,0,0,0
+28131,Mississippi,Stone County,0,1,0,0,0,0,0,0
+28133,Mississippi,Sunflower County,0,0,0,1,0,0,0,0
+28137,Mississippi,Tate County,1,7,0,1,0,0,0,0
+28139,Mississippi,Tippah County,0,3,0,1,0,1,0,0
+28141,Mississippi,Tishomingo County,0,3,0,1,0,0,0,0
+28145,Mississippi,Union County,0,4,0,0,0,0,0,0
+28147,Mississippi,Walthall County,0,1,0,0,0,0,0,0
+28149,Mississippi,Warren County,0,3,0,0,0,0,0,0
+28151,Mississippi,Washington County,0,1,0,0,0,0,0,0
+28153,Mississippi,Wayne County,0,4,0,0,0,0,0,0
+28155,Mississippi,Webster County,0,3,0,0,0,0,0,0
+28159,Mississippi,Winston County,0,8,0,1,0,0,0,0
+28161,Mississippi,Yalobusha County,0,3,0,0,0,0,0,0
+28163,Mississippi,Yazoo County,0,3,0,0,0,0,0,0
+29001,Missouri,Adair County,1,22,0,12,0,0,3,0
+29003,Missouri,Andrew County,0,1,0,1,0,0,0,0
+29005,Missouri,Atchison County,0,2,0,1,0,0,0,0
+29007,Missouri,Audrain County,0,3,0,3,0,0,0,0
+29009,Missouri,Barry County,0,5,0,7,1,1,0,1
+29011,Missouri,Barton County,1,20,0,4,0,2,1,0
+29013,Missouri,Bates County,0,9,0,4,0,0,0,0
+29015,Missouri,Benton County,0,21,0,15,0,0,0,0
+29017,Missouri,Bollinger County,0,27,0,18,0,1,0,0
+29019,Missouri,Boone County,0,41,2,14,0,5,0,8
+29021,Missouri,Buchanan County,0,1,0,0,0,1,0,1
+29023,Missouri,Butler County,0,26,0,12,2,2,0,0
+29025,Missouri,Caldwell County,0,37,0,29,1,0,1,0
+29027,Missouri,Callaway County,0,40,0,15,1,0,0,0
+29029,Missouri,Camden County,0,82,0,39,0,1,0,0
+29031,Missouri,Cape Girardeau County,0,12,0,17,0,0,1,0
+29033,Missouri,Carroll County,0,1,0,0,0,1,0,0
+29035,Missouri,Carter County,0,4,0,5,0,0,0,0
+29037,Missouri,Cass County,0,7,0,5,0,2,0,0
+29039,Missouri,Cedar County,0,14,0,3,0,0,0,0
+29041,Missouri,Chariton County,0,2,0,2,0,0,0,0
+29043,Missouri,Christian County,1,19,0,20,0,3,2,1
+29045,Missouri,Clark County,0,1,0,1,0,0,1,0
+29047,Missouri,Clay County,0,15,0,13,1,3,0,0
+29049,Missouri,Clinton County,0,4,0,1,0,1,0,1
+29051,Missouri,Cole County,0,95,0,14,0,1,0,0
+29053,Missouri,Cooper County,0,15,0,13,0,1,0,0
+29055,Missouri,Crawford County,0,3,0,6,1,0,2,0
+29057,Missouri,Dade County,0,11,0,1,0,0,0,0
+29059,Missouri,Dallas County,1,5,0,6,0,1,1,0
+29061,Missouri,Daviess County,0,22,0,16,0,1,0,1
+29063,Missouri,DeKalb County,0,0,0,0,0,0,0,0
+29065,Missouri,Dent County,1,17,0,4,0,0,0,0
+29067,Missouri,Douglas County,0,10,0,6,0,1,2,0
+29069,Missouri,Dunklin County,0,4,0,2,0,0,0,0
+29071,Missouri,Franklin County,2,14,0,12,0,1,4,0
+29073,Missouri,Gasconade County,0,20,0,4,0,0,0,0
+29075,Missouri,Gentry County,0,1,0,0,0,0,0,0
+29077,Missouri,Greene County,0,235,0,289,4,11,14,8
+29079,Missouri,Grundy County,0,5,0,2,0,0,0,0
+29081,Missouri,Harrison County,0,19,0,6,1,1,0,2
+29083,Missouri,Henry County,0,4,0,4,1,2,0,1
+29085,Missouri,Hickory County,0,10,0,3,0,1,1,0
+29087,Missouri,Holt County,1,1,0,0,0,0,0,0
+29089,Missouri,Howard County,0,6,0,0,0,0,0,0
+29091,Missouri,Howell County,0,66,0,23,0,6,0,0
+29093,Missouri,Iron County,0,8,0,3,0,0,0,0
+29095,Missouri,Jackson County,10,32,0,29,0,1,0,0
+29097,Missouri,Jasper County,0,24,1,16,2,1,1,0
+29099,Missouri,Jefferson County,1,53,0,40,1,0,1,2
+29101,Missouri,Johnson County,0,16,0,5,0,0,0,0
+29103,Missouri,Knox County,0,1,0,0,0,0,0,0
+29105,Missouri,Laclede County,0,13,0,19,1,3,2,1
+29107,Missouri,Lafayette County,0,1,0,3,0,0,0,0
+29109,Missouri,Lawrence County,1,8,0,6,0,3,0,0
+29111,Missouri,Lewis County,0,1,0,0,0,0,0,0
+29113,Missouri,Lincoln County,0,7,0,5,1,0,0,0
+29115,Missouri,Linn County,0,15,0,1,0,0,0,0
+29117,Missouri,Livingston County,0,0,0,0,0,0,0,0
+29119,Missouri,McDonald County,2,14,0,6,0,1,0,0
+29121,Missouri,Macon County,0,22,0,7,0,0,0,0
+29123,Missouri,Madison County,0,5,0,9,0,0,0,1
+29125,Missouri,Maries County,0,5,0,4,0,0,0,0
+29127,Missouri,Marion County,0,0,0,2,0,0,0,0
+29129,Missouri,Mercer County,0,1,0,0,0,0,0,0
+29131,Missouri,Miller County,0,49,0,12,2,3,0,1
+29133,Missouri,Mississippi County,0,2,0,0,0,0,0,0
+29135,Missouri,Moniteau County,0,20,0,8,0,1,0,0
+29137,Missouri,Monroe County,0,8,0,1,1,0,0,0
+29139,Missouri,Montgomery County,0,7,0,6,0,0,0,1
+29141,Missouri,Morgan County,0,25,0,13,0,0,0,0
+29143,Missouri,New Madrid County,0,5,0,1,0,0,0,0
+29145,Missouri,Newton County,0,4,0,18,0,0,0,0
+29147,Missouri,Nodaway County,1,0,0,0,0,0,0,0
+29149,Missouri,Oregon County,0,66,0,23,0,2,0,0
+29151,Missouri,Osage County,0,52,0,6,0,0,0,2
+29153,Missouri,Ozark County,0,9,0,7,0,3,0,0
+29155,Missouri,Pemiscot County,0,3,0,0,0,0,0,0
+29157,Missouri,Perry County,0,10,0,9,0,1,1,0
+29159,Missouri,Pettis County,1,7,0,5,0,0,0,0
+29161,Missouri,Phelps County,2,12,0,15,0,0,1,1
+29163,Missouri,Pike County,0,8,0,7,1,5,1,1
+29165,Missouri,Platte County,1,5,0,10,0,1,0,0
+29167,Missouri,Polk County,0,15,0,7,1,2,2,0
+29169,Missouri,Pulaski County,0,19,0,15,0,0,0,0
+29171,Missouri,Putnam County,0,2,0,1,0,0,0,0
+29173,Missouri,Ralls County,0,2,0,0,0,0,0,0
+29175,Missouri,Randolph County,1,12,0,4,4,0,0,4
+29177,Missouri,Ray County,0,0,0,1,0,0,0,0
+29179,Missouri,Reynolds County,0,10,0,6,0,0,1,0
+29181,Missouri,Ripley County,0,12,0,8,0,1,0,0
+29183,Missouri,St. Charles County,1,34,1,18,2,1,2,0
+29185,Missouri,St. Clair County,0,4,0,0,0,3,0,0
+29186,Missouri,Ste. Genevieve County,1,3,0,3,0,0,0,0
+29187,Missouri,St. Francois County,3,16,0,11,0,0,0,1
+29189,Missouri,St. Louis County,10,43,0,58,7,2,5,4
+29195,Missouri,Saline County,0,12,0,1,0,0,0,0
+29197,Missouri,Schuyler County,0,0,0,1,0,0,0,0
+29201,Missouri,Scott County,0,10,0,10,0,2,0,2
+29203,Missouri,Shannon County,0,8,0,4,2,0,0,0
+29205,Missouri,Shelby County,0,0,0,0,0,0,1,0
+29207,Missouri,Stoddard County,0,24,0,6,1,1,0,1
+29209,Missouri,Stone County,0,8,0,11,0,0,1,0
+29211,Missouri,Sullivan County,0,4,0,1,0,0,0,0
+29213,Missouri,Taney County,1,28,0,30,3,3,4,0
+29215,Missouri,Texas County,0,7,0,8,0,0,0,0
+29217,Missouri,Vernon County,1,23,0,1,1,2,0,0
+29219,Missouri,Warren County,0,8,0,7,0,0,0,0
+29221,Missouri,Washington County,1,9,0,4,2,0,0,0
+29223,Missouri,Wayne County,0,9,0,3,0,0,0,1
+29225,Missouri,Webster County,0,17,0,12,0,3,3,0
+29227,Missouri,Worth County,0,0,0,0,0,0,0,0
+29229,Missouri,Wright County,0,6,0,3,1,0,1,0
+29510,Missouri,St. Louis city,4,12,0,8,1,1,0,0
+30001,Montana,Beaverhead County,0,1,0,0,0,0,0,0
+30003,Montana,Big Horn County,1,0,0,0,0,2,0,0
+30005,Montana,Blaine County,0,0,0,0,0,0,0,0
+30007,Montana,Broadwater County,0,0,0,0,0,0,0,0
+30009,Montana,Carbon County,0,0,0,0,0,0,0,0
+30013,Montana,Cascade County,0,1,0,0,0,0,0,0
+30017,Montana,Custer County,0,2,0,0,0,1,0,0
+30019,Montana,Daniels County,1,0,0,0,0,0,0,0
+30021,Montana,Dawson County,0,0,0,0,0,1,0,0
+30023,Montana,Deer Lodge County,0,0,0,0,0,0,0,0
+30027,Montana,Fergus County,0,0,0,0,0,0,0,0
+30029,Montana,Flathead County,4,2,0,0,0,1,0,0
+30031,Montana,Gallatin County,4,1,0,0,0,1,0,0
+30035,Montana,Glacier County,0,0,0,0,0,1,0,0
+30037,Montana,Golden Valley County,0,1,0,0,0,0,0,0
+30039,Montana,Granite County,0,1,0,0,1,0,0,0
+30043,Montana,Jefferson County,2,0,0,0,0,0,0,0
+30047,Montana,Lake County,3,0,0,0,0,0,0,0
+30049,Montana,Lewis and Clark County,1,3,0,0,0,0,0,0
+30053,Montana,Lincoln County,2,0,0,0,0,0,0,0
+30057,Montana,Madison County,1,0,0,0,0,0,0,0
+30063,Montana,Missoula County,3,4,0,0,0,1,0,0
+30065,Montana,Musselshell County,0,0,0,0,0,1,0,0
+30067,Montana,Park County,1,1,0,0,0,0,0,0
+30077,Montana,Powell County,0,1,0,0,0,0,0,0
+30081,Montana,Ravalli County,1,0,0,0,0,0,0,0
+30087,Montana,Rosebud County,0,0,0,0,0,0,0,0
+30089,Montana,Sanders County,1,0,0,0,0,0,0,0
+30093,Montana,Silver Bow County,0,0,0,0,0,0,0,0
+30097,Montana,Sweet Grass County,1,0,0,0,0,0,0,0
+30111,Montana,Yellowstone County,3,0,0,0,1,2,0,0
+31001,Nebraska,Adams County,2,5,0,0,0,1,0,0
+31003,Nebraska,Antelope County,0,1,0,0,0,0,0,0
+31011,Nebraska,Boone County,0,0,0,0,0,0,0,0
+31013,Nebraska,Box Butte County,0,0,0,0,0,0,0,0
+31017,Nebraska,Brown County,0,0,0,0,0,0,0,0
+31019,Nebraska,Buffalo County,1,1,0,0,0,2,0,0
+31021,Nebraska,Burt County,0,1,0,0,0,0,0,0
+31023,Nebraska,Butler County,1,0,0,0,0,0,0,0
+31025,Nebraska,Cass County,2,2,0,2,0,2,0,0
+31027,Nebraska,Cedar County,1,0,0,0,0,0,0,0
+31029,Nebraska,Chase County,0,0,0,0,0,0,0,0
+31031,Nebraska,Cherry County,0,0,0,0,0,1,0,0
+31035,Nebraska,Clay County,0,0,0,0,0,0,0,0
+31037,Nebraska,Colfax County,0,1,0,0,0,0,0,0
+31039,Nebraska,Cuming County,0,0,0,0,0,0,0,0
+31041,Nebraska,Custer County,0,1,0,0,0,0,0,0
+31043,Nebraska,Dakota County,1,0,0,0,0,0,0,0
+31045,Nebraska,Dawes County,1,0,0,0,0,0,0,0
+31047,Nebraska,Dawson County,0,0,0,0,0,1,0,0
+31049,Nebraska,Deuel County,0,1,0,0,0,0,0,0
+31051,Nebraska,Dixon County,0,1,0,0,0,0,0,0
+31053,Nebraska,Dodge County,0,9,0,2,0,0,0,0
+31055,Nebraska,Douglas County,19,11,1,4,0,7,0,0
+31059,Nebraska,Fillmore County,0,0,0,0,0,0,0,0
+31061,Nebraska,Franklin County,0,0,0,0,0,0,0,0
+31065,Nebraska,Furnas County,0,3,0,0,0,0,0,0
+31067,Nebraska,Gage County,0,4,0,0,0,1,0,0
+31069,Nebraska,Garden County,0,1,0,0,0,0,0,0
+31075,Nebraska,Grant County,0,1,0,0,0,0,0,0
+31077,Nebraska,Greeley County,0,1,0,0,0,0,0,0
+31079,Nebraska,Hall County,2,4,0,1,0,1,0,0
+31081,Nebraska,Hamilton County,0,1,0,0,0,0,0,0
+31083,Nebraska,Harlan County,0,2,0,0,0,0,0,0
+31089,Nebraska,Holt County,0,0,0,0,0,1,0,0
+31091,Nebraska,Hooker County,0,0,0,0,0,0,0,0
+31093,Nebraska,Howard County,0,2,0,0,0,0,0,0
+31095,Nebraska,Jefferson County,0,7,0,1,0,0,0,0
+31097,Nebraska,Johnson County,0,4,0,0,0,3,0,0
+31099,Nebraska,Kearney County,0,1,0,0,0,0,0,0
+31109,Nebraska,Lancaster County,8,21,0,2,1,6,0,0
+31111,Nebraska,Lincoln County,0,1,0,0,0,2,0,0
+31119,Nebraska,Madison County,0,4,0,1,0,0,0,0
+31121,Nebraska,Merrick County,0,2,0,2,0,2,0,0
+31123,Nebraska,Morrill County,0,0,0,0,0,0,0,0
+31129,Nebraska,Nuckolls County,0,0,0,0,1,2,0,0
+31131,Nebraska,Otoe County,1,0,0,1,0,0,0,0
+31133,Nebraska,Pawnee County,0,2,0,0,0,0,0,0
+31135,Nebraska,Perkins County,0,0,0,0,0,1,0,0
+31141,Nebraska,Platte County,0,2,0,1,0,0,0,0
+31143,Nebraska,Polk County,1,0,0,0,0,0,0,0
+31145,Nebraska,Red Willow County,0,3,0,0,0,0,0,0
+31147,Nebraska,Richardson County,0,4,0,0,0,0,0,0
+31151,Nebraska,Saline County,0,2,0,0,0,1,0,0
+31153,Nebraska,Sarpy County,9,4,0,0,1,3,1,0
+31155,Nebraska,Saunders County,0,3,0,2,0,1,0,0
+31157,Nebraska,Scotts Bluff County,0,0,0,0,0,0,0,0
+31159,Nebraska,Seward County,0,2,0,1,0,1,0,0
+31161,Nebraska,Sheridan County,1,0,0,0,0,1,0,0
+31163,Nebraska,Sherman County,0,0,0,0,0,1,0,0
+31165,Nebraska,Sioux County,0,0,0,0,0,0,0,0
+31169,Nebraska,Thayer County,0,1,0,0,0,0,0,0
+31177,Nebraska,Washington County,1,2,0,0,0,0,0,0
+31181,Nebraska,Webster County,0,1,0,0,0,0,0,0
+31185,Nebraska,York County,1,0,0,0,0,0,0,0
+32001,Nevada,Churchill County,2,0,0,0,0,0,0,0
+32003,Nevada,Clark County,44,17,0,1,1,3,0,1
+32005,Nevada,Douglas County,1,0,0,0,0,0,0,0
+32007,Nevada,Elko County,0,0,0,0,0,0,0,0
+32009,Nevada,Esmeralda County,0,0,0,0,0,0,0,0
+32013,Nevada,Humboldt County,0,0,0,0,0,0,0,0
+32019,Nevada,Lyon County,2,0,0,1,0,1,0,0
+32023,Nevada,Nye County,1,1,0,0,0,0,0,0
+32027,Nevada,Pershing County,1,0,0,0,0,0,0,0
+32029,Nevada,Storey County,0,0,0,0,0,0,0,0
+32031,Nevada,Washoe County,7,3,0,0,0,1,0,0
+32033,Nevada,White Pine County,0,1,0,0,0,0,0,0
+32510,Nevada,Carson City,3,1,0,0,0,0,0,0
+33001,New Hampshire,Belknap County,210,0,4,1,19,1,1,0
+33003,New Hampshire,Carroll County,272,1,6,1,60,0,0,1
+33005,New Hampshire,Cheshire County,198,1,3,2,16,0,0,0
+33007,New Hampshire,Coos County,30,3,1,0,0,0,0,0
+33009,New Hampshire,Grafton County,305,1,4,1,46,0,0,1
+33011,New Hampshire,Hillsborough County,1403,8,51,20,215,0,0,3
+33013,New Hampshire,Merrimack County,777,3,19,2,147,2,0,0
+33015,New Hampshire,Rockingham County,1340,3,70,16,182,0,0,1
+33017,New Hampshire,Strafford County,542,4,28,1,80,0,0,0
+33019,New Hampshire,Sullivan County,159,0,3,0,35,0,0,0
+34001,New Jersey,Atlantic County,328,28,52,18,11,2,0,1
+34003,New Jersey,Bergen County,1010,7,39,8,11,0,0,0
+34005,New Jersey,Burlington County,927,9,65,14,14,0,1,3
+34007,New Jersey,Camden County,519,7,44,5,1,1,0,3
+34009,New Jersey,Cape May County,98,7,4,0,0,0,0,0
+34011,New Jersey,Cumberland County,341,7,9,12,1,1,0,0
+34013,New Jersey,Essex County,645,8,15,4,5,0,0,0
+34015,New Jersey,Gloucester County,492,17,37,9,4,2,0,0
+34017,New Jersey,Hudson County,172,4,8,1,7,0,0,0
+34019,New Jersey,Hunterdon County,1328,12,125,3,37,0,0,1
+34021,New Jersey,Mercer County,835,3,70,6,11,0,0,1
+34023,New Jersey,Middlesex County,949,8,45,10,16,0,0,2
+34025,New Jersey,Monmouth County,1916,22,81,19,17,1,0,1
+34027,New Jersey,Morris County,2085,6,51,6,25,0,0,7
+34029,New Jersey,Ocean County,1091,32,62,29,13,0,1,1
+34031,New Jersey,Passaic County,650,3,6,5,4,0,0,0
+34033,New Jersey,Salem County,181,3,2,4,1,0,0,0
+34035,New Jersey,Somerset County,921,10,59,3,13,0,0,0
+34037,New Jersey,Sussex County,1088,1,32,0,44,0,0,1
+34039,New Jersey,Union County,359,4,16,6,4,1,0,1
+34041,New Jersey,Warren County,1122,3,28,0,24,0,0,0
+35001,New Mexico,Bernalillo County,5,0,0,0,0,5,0,0
+35005,New Mexico,Chaves County,0,0,0,0,0,0,0,0
+35006,New Mexico,Cibola County,0,0,0,0,0,1,0,0
+35007,New Mexico,Colfax County,0,0,0,0,0,0,0,0
+35009,New Mexico,Curry County,1,1,0,0,0,0,0,0
+35013,New Mexico,Doña Ana County,1,0,0,0,0,0,0,0
+35015,New Mexico,Eddy County,0,1,0,0,0,0,0,0
+35017,New Mexico,Grant County,0,0,0,0,0,0,0,0
+35025,New Mexico,Lea County,1,0,0,0,0,0,0,0
+35027,New Mexico,Lincoln County,0,0,0,0,0,0,0,0
+35029,New Mexico,Luna County,0,0,0,0,0,0,0,0
+35031,New Mexico,McKinley County,0,0,0,0,0,0,0,0
+35035,New Mexico,Otero County,0,0,0,0,0,0,0,0
+35037,New Mexico,Quay County,0,1,0,0,0,0,0,0
+35039,New Mexico,Rio Arriba County,0,0,0,0,0,0,0,0
+35041,New Mexico,Roosevelt County,0,0,0,0,0,0,0,0
+35043,New Mexico,Sandoval County,1,1,0,0,0,1,0,0
+35045,New Mexico,San Juan County,0,1,0,0,0,0,0,0
+35049,New Mexico,Santa Fe County,4,1,0,0,0,5,0,0
+35053,New Mexico,Socorro County,0,0,0,0,0,1,0,0
+35055,New Mexico,Taos County,0,0,0,0,0,1,0,0
+35061,New Mexico,Valencia County,0,0,0,0,0,1,0,0
+36001,New York,Albany County,467,6,80,9,375,0,0,2
+36003,New York,Allegany County,37,0,1,0,0,0,0,0
+36005,New York,Bronx County,157,0,34,0,2,0,0,0
+36007,New York,Broome County,295,8,2,11,39,0,0,0
+36009,New York,Cattaraugus County,109,0,0,1,0,0,0,0
+36011,New York,Cayuga County,70,0,0,1,1,0,0,0
+36013,New York,Chautauqua County,48,0,3,0,1,0,0,0
+36015,New York,Chemung County,238,0,0,3,3,0,0,0
+36017,New York,Chenango County,283,2,1,6,8,0,0,1
+36019,New York,Clinton County,188,3,1,2,6,0,0,0
+36021,New York,Columbia County,756,4,137,16,523,0,0,4
+36023,New York,Cortland County,185,0,0,0,1,0,0,0
+36025,New York,Delaware County,267,12,4,5,19,0,0,1
+36027,New York,Dutchess County,893,8,292,50,377,0,0,10
+36029,New York,Erie County,239,1,4,1,2,0,0,0
+36031,New York,Essex County,189,2,2,0,75,0,0,1
+36033,New York,Franklin County,147,4,0,2,2,0,0,0
+36035,New York,Fulton County,153,0,1,1,10,0,0,2
+36037,New York,Genesee County,32,0,0,0,0,0,0,0
+36039,New York,Greene County,425,0,58,5,193,0,0,2
+36041,New York,Hamilton County,6,0,0,0,1,0,0,0
+36043,New York,Herkimer County,150,1,0,2,19,0,0,0
+36045,New York,Jefferson County,79,3,0,1,3,0,0,1
+36047,New York,Kings County,1265,2,52,2,5,0,1,0
+36049,New York,Lewis County,92,0,0,0,0,0,0,0
+36051,New York,Livingston County,73,0,0,0,0,0,0,5
+36053,New York,Madison County,235,1,2,0,1,0,0,0
+36055,New York,Monroe County,220,2,7,2,3,0,0,0
+36057,New York,Montgomery County,162,0,3,3,22,0,0,3
+36059,New York,Nassau County,138,24,24,11,25,0,0,3
+36061,New York,New York County,1255,5,143,10,29,0,0,0
+36063,New York,Niagara County,12,0,1,0,0,0,0,0
+36065,New York,Oneida County,86,3,3,0,4,0,0,2
+36067,New York,Onondaga County,193,0,2,1,1,0,0,0
+36069,New York,Ontario County,154,0,0,1,4,0,0,0
+36071,New York,Orange County,584,3,195,48,155,0,0,1
+36073,New York,Orleans County,15,0,0,0,0,0,0,0
+36075,New York,Oswego County,275,0,0,0,0,0,0,0
+36077,New York,Otsego County,262,0,2,11,35,0,0,2
+36079,New York,Putnam County,531,2,109,17,99,0,0,3
+36081,New York,Queens County,473,0,46,1,6,0,0,0
+36083,New York,Rensselaer County,691,1,141,8,602,0,0,1
+36085,New York,Richmond County,387,3,32,0,0,0,0,0
+36087,New York,Rockland County,198,5,44,9,23,0,0,3
+36089,New York,St. Lawrence County,271,1,4,1,20,0,0,1
+36091,New York,Saratoga County,430,9,38,7,459,0,0,0
+36093,New York,Schenectady County,102,3,15,0,74,0,0,0
+36095,New York,Schoharie County,240,1,12,0,64,0,0,0
+36097,New York,Schuyler County,129,0,0,2,0,0,0,0
+36099,New York,Seneca County,69,0,0,1,1,0,0,0
+36101,New York,Steuben County,270,0,2,2,0,0,0,0
+36103,New York,Suffolk County,789,32,579,222,119,3,0,6
+36105,New York,Sullivan County,76,8,9,4,38,0,0,1
+36107,New York,Tioga County,144,3,0,6,12,0,0,1
+36109,New York,Tompkins County,224,3,7,3,23,0,0,1
+36111,New York,Ulster County,572,7,111,26,337,0,0,2
+36113,New York,Warren County,106,2,4,0,76,0,0,2
+36115,New York,Washington County,147,1,17,6,317,0,0,1
+36117,New York,Wayne County,101,0,0,2,2,0,0,0
+36119,New York,Westchester County,399,8,257,44,124,0,0,8
+36121,New York,Wyoming County,17,1,0,0,0,0,0,0
+36123,New York,Yates County,118,0,0,0,0,0,0,0
+37001,North Carolina,Alamance County,8,72,0,16,3,0,0,0
+37003,North Carolina,Alexander County,7,5,0,0,0,0,0,0
+37005,North Carolina,Alleghany County,54,12,0,3,1,0,0,0
+37007,North Carolina,Anson County,1,7,0,0,0,0,0,0
+37009,North Carolina,Ashe County,72,9,0,1,0,0,0,0
+37011,North Carolina,Avery County,0,3,0,1,0,0,0,0
+37013,North Carolina,Beaufort County,5,28,0,2,0,0,0,0
+37015,North Carolina,Bertie County,0,2,0,1,0,0,0,0
+37017,North Carolina,Bladen County,3,15,0,0,0,0,0,0
+37019,North Carolina,Brunswick County,14,20,0,0,1,0,0,0
+37021,North Carolina,Buncombe County,81,42,0,5,0,1,0,0
+37023,North Carolina,Burke County,1,7,0,1,0,0,0,0
+37025,North Carolina,Cabarrus County,12,18,0,0,0,0,0,0
+37027,North Carolina,Caldwell County,5,31,0,9,1,0,0,0
+37029,North Carolina,Camden County,3,7,0,1,0,1,0,0
+37031,North Carolina,Carteret County,18,28,0,5,2,0,0,0
+37033,North Carolina,Caswell County,2,23,0,2,1,0,0,0
+37035,North Carolina,Catawba County,8,15,0,0,0,0,0,0
+37037,North Carolina,Chatham County,4,48,0,22,0,0,0,0
+37039,North Carolina,Cherokee County,0,2,0,0,0,0,0,0
+37041,North Carolina,Chowan County,1,7,0,0,0,0,0,0
+37043,North Carolina,Clay County,0,1,0,0,0,0,0,0
+37045,North Carolina,Cleveland County,2,13,0,8,0,0,0,0
+37047,North Carolina,Columbus County,0,14,0,0,0,0,0,0
+37049,North Carolina,Craven County,19,98,0,7,4,0,0,0
+37051,North Carolina,Cumberland County,43,46,0,10,0,0,0,0
+37053,North Carolina,Currituck County,6,7,0,0,1,0,0,0
+37055,North Carolina,Dare County,15,10,0,1,0,0,0,0
+37057,North Carolina,Davidson County,5,16,0,1,0,0,0,0
+37059,North Carolina,Davie County,1,0,0,0,0,0,0,0
+37061,North Carolina,Duplin County,2,21,0,5,0,0,0,0
+37063,North Carolina,Durham County,16,79,0,43,2,0,0,0
+37065,North Carolina,Edgecombe County,4,9,0,2,0,0,0,0
+37067,North Carolina,Forsyth County,51,21,0,4,1,0,0,0
+37069,North Carolina,Franklin County,3,39,0,8,0,0,0,0
+37071,North Carolina,Gaston County,12,6,0,0,0,0,0,0
+37073,North Carolina,Gates County,2,3,0,0,0,0,0,0
+37077,North Carolina,Granville County,8,45,0,13,1,0,0,0
+37079,North Carolina,Greene County,1,6,0,0,0,0,0,0
+37081,North Carolina,Guilford County,15,65,0,13,0,1,0,0
+37083,North Carolina,Halifax County,0,20,0,1,0,0,0,0
+37085,North Carolina,Harnett County,12,39,0,0,0,0,0,0
+37087,North Carolina,Haywood County,5,8,0,0,0,0,0,0
+37089,North Carolina,Henderson County,5,18,0,5,0,0,0,0
+37091,North Carolina,Hertford County,0,10,0,1,0,0,0,0
+37093,North Carolina,Hoke County,1,4,0,1,0,0,0,0
+37095,North Carolina,Hyde County,1,5,0,0,0,0,0,0
+37097,North Carolina,Iredell County,22,5,0,2,0,0,0,0
+37099,North Carolina,Jackson County,2,0,0,0,0,0,0,0
+37101,North Carolina,Johnston County,6,42,0,4,1,0,0,0
+37103,North Carolina,Jones County,2,15,0,0,0,0,0,0
+37105,North Carolina,Lee County,8,21,0,4,0,0,0,0
+37107,North Carolina,Lenoir County,3,12,0,0,0,0,0,0
+37109,North Carolina,Lincoln County,5,8,0,0,0,0,0,0
+37111,North Carolina,McDowell County,0,8,0,1,0,1,0,0
+37113,North Carolina,Macon County,3,8,0,0,0,0,0,0
+37115,North Carolina,Madison County,10,4,0,1,1,0,0,0
+37117,North Carolina,Martin County,0,14,0,1,0,0,0,0
+37119,North Carolina,Mecklenburg County,46,56,0,1,1,1,0,0
+37121,North Carolina,Mitchell County,3,4,0,1,0,0,0,0
+37123,North Carolina,Montgomery County,3,27,0,1,1,0,0,0
+37125,North Carolina,Moore County,8,65,0,6,0,0,0,0
+37127,North Carolina,Nash County,12,28,0,5,0,0,0,0
+37129,North Carolina,New Hanover County,10,14,0,3,1,0,0,0
+37131,North Carolina,Northampton County,1,5,0,0,0,0,0,0
+37133,North Carolina,Onslow County,19,31,0,4,0,0,0,0
+37135,North Carolina,Orange County,12,76,0,45,7,0,0,0
+37137,North Carolina,Pamlico County,4,34,0,0,0,0,0,0
+37139,North Carolina,Pasquotank County,2,17,0,0,0,0,0,0
+37141,North Carolina,Pender County,3,13,0,1,0,0,0,0
+37143,North Carolina,Perquimans County,3,8,0,4,0,0,0,0
+37145,North Carolina,Person County,4,42,0,7,0,0,0,0
+37147,North Carolina,Pitt County,17,20,0,1,0,1,0,0
+37149,North Carolina,Polk County,2,3,0,0,1,0,0,0
+37151,North Carolina,Randolph County,16,61,0,4,0,0,0,0
+37153,North Carolina,Richmond County,1,12,0,1,0,0,0,0
+37155,North Carolina,Robeson County,3,8,0,1,0,0,0,0
+37157,North Carolina,Rockingham County,22,56,0,9,4,0,0,0
+37159,North Carolina,Rowan County,14,19,0,1,1,0,0,0
+37161,North Carolina,Rutherford County,3,11,0,1,0,0,0,0
+37163,North Carolina,Sampson County,10,19,0,2,0,0,0,0
+37165,North Carolina,Scotland County,2,4,0,0,0,0,0,0
+37167,North Carolina,Stanly County,6,50,0,6,0,0,0,0
+37169,North Carolina,Stokes County,22,38,0,8,0,0,0,0
+37171,North Carolina,Surry County,32,23,0,0,0,0,0,0
+37173,North Carolina,Swain County,2,0,0,0,0,0,0,0
+37175,North Carolina,Transylvania County,1,5,0,1,0,0,0,0
+37177,North Carolina,Tyrrell County,0,0,0,0,0,0,0,0
+37179,North Carolina,Union County,24,28,0,1,0,0,0,0
+37181,North Carolina,Vance County,4,23,0,12,0,0,0,0
+37183,North Carolina,Wake County,131,159,0,44,5,1,0,0
+37185,North Carolina,Warren County,1,13,0,3,0,0,0,0
+37187,North Carolina,Washington County,2,9,0,1,0,0,0,0
+37189,North Carolina,Watauga County,42,3,0,3,0,0,0,0
+37191,North Carolina,Wayne County,1,0,0,0,0,0,0,0
+37193,North Carolina,Wilkes County,16,25,0,0,0,0,0,0
+37195,North Carolina,Wilson County,3,7,0,0,0,0,0,0
+37197,North Carolina,Yadkin County,5,8,0,0,0,1,0,0
+37199,North Carolina,Yancey County,12,10,0,3,0,0,0,0
+38001,North Dakota,Adams County,0,0,0,0,0,0,0,0
+38003,North Dakota,Barnes County,2,0,0,0,0,0,1,0
+38005,North Dakota,Benson County,1,1,0,0,0,5,0,0
+38009,North Dakota,Bottineau County,3,0,0,0,0,0,0,0
+38015,North Dakota,Burleigh County,15,9,0,0,0,1,0,0
+38017,North Dakota,Cass County,64,4,2,2,27,0,0,5
+38019,North Dakota,Cavalier County,0,0,0,1,1,0,0,0
+38021,North Dakota,Dickey County,1,0,0,0,0,0,0,0
+38023,North Dakota,Divide County,0,0,0,0,0,0,0,1
+38029,North Dakota,Emmons County,1,0,0,0,0,0,0,0
+38031,North Dakota,Foster County,0,0,0,0,0,0,0,0
+38035,North Dakota,Grand Forks County,23,0,0,2,9,0,0,2
+38037,North Dakota,Grant County,0,1,0,0,0,0,0,0
+38039,North Dakota,Griggs County,0,0,0,0,0,0,0,0
+38043,North Dakota,Kidder County,1,0,0,0,0,0,0,0
+38045,North Dakota,LaMoure County,0,0,0,0,0,0,0,0
+38049,North Dakota,McHenry County,1,0,0,0,0,0,0,0
+38051,North Dakota,McIntosh County,2,0,0,0,1,0,0,0
+38053,North Dakota,McKenzie County,3,0,0,0,0,0,0,0
+38055,North Dakota,McLean County,3,1,0,0,0,1,0,0
+38057,North Dakota,Mercer County,0,1,0,0,0,0,0,0
+38059,North Dakota,Morton County,3,2,0,0,0,0,0,0
+38061,North Dakota,Mountrail County,0,1,0,0,0,0,0,0
+38063,North Dakota,Nelson County,0,0,0,0,1,0,0,0
+38067,North Dakota,Pembina County,4,0,0,0,0,0,0,0
+38071,North Dakota,Ramsey County,3,0,0,0,0,0,0,0
+38073,North Dakota,Ransom County,0,0,0,0,0,0,0,1
+38077,North Dakota,Richland County,3,1,0,0,1,0,0,0
+38079,North Dakota,Rolette County,0,0,0,0,0,1,0,0
+38081,North Dakota,Sargent County,0,0,0,0,0,1,0,0
+38087,North Dakota,Slope County,0,1,0,0,0,0,0,0
+38089,North Dakota,Stark County,3,1,0,0,0,0,0,1
+38093,North Dakota,Stutsman County,3,0,0,0,0,0,0,0
+38095,North Dakota,Towner County,0,0,0,0,0,0,0,0
+38097,North Dakota,Traill County,0,0,0,0,0,0,0,0
+38099,North Dakota,Walsh County,4,0,0,0,0,0,0,0
+38101,North Dakota,Ward County,10,3,0,0,0,0,0,0
+38103,North Dakota,Wells County,0,1,0,0,0,0,0,0
+38105,North Dakota,Williams County,6,2,0,0,0,0,0,0
+39001,Ohio,Adams County,4,3,0,2,0,0,0,0
+39003,Ohio,Allen County,2,1,0,0,0,0,0,0
+39005,Ohio,Ashland County,5,2,0,1,0,0,0,0
+39007,Ohio,Ashtabula County,5,0,0,1,0,0,0,0
+39009,Ohio,Athens County,2,1,0,0,1,0,0,0
+39011,Ohio,Auglaize County,0,0,0,0,0,0,0,0
+39013,Ohio,Belmont County,76,0,0,0,0,1,0,0
+39015,Ohio,Brown County,1,0,0,0,0,0,0,0
+39017,Ohio,Butler County,11,2,0,0,0,0,0,0
+39019,Ohio,Carroll County,26,0,0,0,0,0,0,0
+39021,Ohio,Champaign County,0,0,0,0,0,0,0,0
+39023,Ohio,Clark County,2,0,0,0,0,0,0,0
+39025,Ohio,Clermont County,12,8,0,3,2,1,0,0
+39027,Ohio,Clinton County,0,1,0,0,0,0,0,0
+39029,Ohio,Columbiana County,43,1,0,0,0,0,0,0
+39031,Ohio,Coshocton County,33,1,0,0,0,0,0,0
+39033,Ohio,Crawford County,0,0,0,0,0,0,0,0
+39035,Ohio,Cuyahoga County,73,5,1,2,1,0,0,0
+39037,Ohio,Darke County,0,0,0,0,0,0,0,0
+39039,Ohio,Defiance County,2,0,0,0,0,0,0,0
+39041,Ohio,Delaware County,18,1,2,0,0,0,0,0
+39043,Ohio,Erie County,4,0,0,0,0,0,0,0
+39045,Ohio,Fairfield County,23,2,0,1,0,0,0,0
+39047,Ohio,Fayette County,1,1,0,0,0,0,0,0
+39049,Ohio,Franklin County,63,10,0,1,0,0,0,0
+39051,Ohio,Fulton County,0,0,0,0,0,0,0,0
+39053,Ohio,Gallia County,12,6,2,7,0,0,0,0
+39055,Ohio,Geauga County,8,1,0,0,0,0,0,0
+39057,Ohio,Greene County,6,0,0,1,0,0,0,0
+39059,Ohio,Guernsey County,43,0,0,0,0,0,0,0
+39061,Ohio,Hamilton County,39,14,0,4,1,0,0,0
+39063,Ohio,Hancock County,3,0,0,0,0,0,0,0
+39065,Ohio,Hardin County,2,0,0,1,0,0,0,0
+39067,Ohio,Harrison County,60,1,0,0,0,0,0,0
+39069,Ohio,Henry County,0,0,0,0,0,0,0,0
+39071,Ohio,Highland County,1,4,0,0,0,0,0,0
+39073,Ohio,Hocking County,4,0,0,0,0,0,0,0
+39075,Ohio,Holmes County,36,0,0,0,0,0,0,0
+39077,Ohio,Huron County,7,0,0,0,0,0,0,0
+39079,Ohio,Jackson County,4,2,0,0,1,0,0,0
+39081,Ohio,Jefferson County,90,0,0,0,0,0,0,0
+39083,Ohio,Knox County,24,0,0,0,0,0,0,0
+39085,Ohio,Lake County,11,1,2,0,1,0,0,0
+39087,Ohio,Lawrence County,7,3,0,1,0,0,0,0
+39089,Ohio,Licking County,43,1,1,1,0,0,0,0
+39091,Ohio,Logan County,1,0,0,0,0,0,0,0
+39093,Ohio,Lorain County,3,2,0,0,0,0,0,0
+39095,Ohio,Lucas County,18,8,0,0,1,0,0,0
+39097,Ohio,Madison County,1,0,0,0,0,0,0,0
+39099,Ohio,Mahoning County,18,1,0,0,1,1,0,0
+39101,Ohio,Marion County,0,1,0,0,0,0,0,0
+39103,Ohio,Medina County,17,2,0,1,1,0,0,0
+39105,Ohio,Meigs County,2,3,0,2,0,0,0,0
+39107,Ohio,Mercer County,0,1,0,0,0,0,0,0
+39109,Ohio,Miami County,2,1,0,1,0,0,0,0
+39111,Ohio,Monroe County,1,0,0,0,0,0,0,0
+39113,Ohio,Montgomery County,25,2,0,0,1,0,0,0
+39115,Ohio,Morgan County,0,0,0,0,0,0,0,0
+39117,Ohio,Morrow County,0,1,0,0,0,0,0,0
+39119,Ohio,Muskingum County,23,1,0,0,0,0,0,0
+39121,Ohio,Noble County,4,0,0,0,0,0,0,0
+39123,Ohio,Ottawa County,2,0,0,0,0,0,0,0
+39125,Ohio,Paulding County,0,0,0,0,0,0,0,0
+39127,Ohio,Perry County,3,0,0,0,0,0,0,0
+39129,Ohio,Pickaway County,2,2,0,1,0,0,0,0
+39131,Ohio,Pike County,4,14,0,11,0,0,0,0
+39133,Ohio,Portage County,32,2,0,1,0,0,0,0
+39135,Ohio,Preble County,0,1,0,0,0,0,0,0
+39137,Ohio,Putnam County,1,0,0,0,0,0,0,0
+39139,Ohio,Richland County,4,0,0,1,1,0,0,0
+39141,Ohio,Ross County,10,6,0,4,0,0,0,0
+39143,Ohio,Sandusky County,1,1,0,0,0,0,0,0
+39145,Ohio,Scioto County,14,11,0,9,2,0,0,0
+39147,Ohio,Seneca County,7,0,0,0,1,0,0,0
+39149,Ohio,Shelby County,0,0,0,1,0,0,0,0
+39151,Ohio,Stark County,49,4,0,0,1,0,0,0
+39153,Ohio,Summit County,35,3,0,1,2,0,0,0
+39155,Ohio,Trumbull County,22,0,0,0,0,0,0,0
+39157,Ohio,Tuscarawas County,51,0,0,0,0,0,0,0
+39159,Ohio,Union County,1,0,0,1,0,0,0,0
+39161,Ohio,Van Wert County,1,0,0,0,0,0,0,0
+39163,Ohio,Vinton County,3,2,0,0,0,0,0,0
+39165,Ohio,Warren County,6,2,0,3,0,0,0,0
+39167,Ohio,Washington County,4,0,0,0,0,0,0,0
+39169,Ohio,Wayne County,12,0,0,0,0,0,0,0
+39173,Ohio,Wood County,5,2,1,0,0,0,0,0
+40001,Oklahoma,Adair County,0,17,0,5,0,9,0,0
+40003,Oklahoma,Alfalfa County,0,1,0,2,0,0,0,0
+40005,Oklahoma,Atoka County,0,6,0,1,0,0,0,0
+40009,Oklahoma,Beckham County,0,1,0,0,0,0,0,0
+40011,Oklahoma,Blaine County,0,0,0,0,1,0,0,0
+40013,Oklahoma,Bryan County,0,0,0,1,0,0,0,0
+40015,Oklahoma,Caddo County,0,1,0,0,0,0,0,0
+40017,Oklahoma,Canadian County,0,3,0,2,0,0,0,0
+40019,Oklahoma,Carter County,0,3,0,0,0,0,0,0
+40021,Oklahoma,Cherokee County,0,21,0,5,0,17,0,0
+40023,Oklahoma,Choctaw County,0,4,0,0,0,0,0,0
+40027,Oklahoma,Cleveland County,0,15,0,10,0,9,0,0
+40029,Oklahoma,Coal County,0,2,0,0,0,0,0,0
+40031,Oklahoma,Comanche County,0,1,0,0,0,0,0,0
+40033,Oklahoma,Cotton County,0,0,0,1,0,0,0,0
+40035,Oklahoma,Craig County,0,6,0,1,0,0,0,0
+40037,Oklahoma,Creek County,0,8,0,9,0,6,0,0
+40039,Oklahoma,Custer County,0,2,0,0,0,0,0,0
+40041,Oklahoma,Delaware County,0,18,0,4,0,6,0,0
+40045,Oklahoma,Ellis County,0,2,0,0,0,0,0,0
+40047,Oklahoma,Garfield County,0,1,0,1,0,0,0,0
+40049,Oklahoma,Garvin County,0,3,0,1,0,2,0,0
+40051,Oklahoma,Grady County,0,5,0,1,0,0,0,0
+40053,Oklahoma,Grant County,0,0,0,0,0,0,0,0
+40061,Oklahoma,Haskell County,0,3,0,0,0,0,0,0
+40063,Oklahoma,Hughes County,0,3,0,1,0,0,0,0
+40065,Oklahoma,Jackson County,0,1,0,0,0,0,0,0
+40067,Oklahoma,Jefferson County,0,1,0,0,0,0,0,0
+40069,Oklahoma,Johnston County,0,2,0,0,0,0,0,0
+40071,Oklahoma,Kay County,0,6,0,1,0,1,0,0
+40073,Oklahoma,Kingfisher County,0,1,0,1,1,0,0,0
+40075,Oklahoma,Kiowa County,0,0,0,0,1,0,0,0
+40077,Oklahoma,Latimer County,0,6,0,3,0,1,0,0
+40079,Oklahoma,Le Flore County,0,10,0,1,0,0,0,0
+40081,Oklahoma,Lincoln County,0,7,0,0,0,5,0,0
+40083,Oklahoma,Logan County,0,3,0,9,0,0,0,0
+40085,Oklahoma,Love County,0,0,0,1,0,0,0,0
+40087,Oklahoma,McClain County,0,4,0,1,0,3,0,0
+40089,Oklahoma,McCurtain County,0,18,0,1,0,0,0,0
+40091,Oklahoma,McIntosh County,0,5,0,2,0,0,0,0
+40095,Oklahoma,Marshall County,0,1,0,0,0,0,0,0
+40097,Oklahoma,Mayes County,0,19,0,6,0,3,0,0
+40099,Oklahoma,Murray County,0,0,0,1,0,0,0,0
+40101,Oklahoma,Muskogee County,0,10,0,2,0,8,0,0
+40103,Oklahoma,Noble County,0,0,0,0,0,2,0,0
+40105,Oklahoma,Nowata County,0,1,0,3,0,0,0,0
+40107,Oklahoma,Okfuskee County,0,4,0,0,0,3,0,0
+40109,Oklahoma,Oklahoma County,0,111,0,30,4,6,2,0
+40111,Oklahoma,Okmulgee County,0,15,0,3,0,0,0,0
+40113,Oklahoma,Osage County,0,2,0,5,0,6,0,0
+40115,Oklahoma,Ottawa County,0,4,0,6,1,2,0,0
+40117,Oklahoma,Pawnee County,0,2,0,2,0,3,0,0
+40119,Oklahoma,Payne County,0,2,0,7,0,2,0,0
+40121,Oklahoma,Pittsburg County,0,17,0,11,0,4,0,0
+40123,Oklahoma,Pontotoc County,0,6,0,0,0,1,0,0
+40125,Oklahoma,Pottawatomie County,0,38,0,7,0,2,0,0
+40127,Oklahoma,Pushmataha County,0,8,0,0,0,1,1,0
+40129,Oklahoma,Roger Mills County,0,0,0,0,0,0,0,0
+40131,Oklahoma,Rogers County,0,13,0,11,0,4,0,0
+40133,Oklahoma,Seminole County,0,3,0,3,1,0,0,0
+40135,Oklahoma,Sequoyah County,0,12,0,4,0,7,1,0
+40137,Oklahoma,Stephens County,0,3,0,0,0,1,0,0
+40139,Oklahoma,Texas County,0,0,0,0,0,0,0,0
+40141,Oklahoma,Tillman County,0,0,0,0,0,0,0,0
+40143,Oklahoma,Tulsa County,1,75,0,56,0,16,1,0
+40145,Oklahoma,Wagoner County,0,12,0,7,0,3,0,0
+40147,Oklahoma,Washington County,0,1,0,9,1,3,0,0
+40149,Oklahoma,Washita County,0,1,0,0,0,0,0,0
+40151,Oklahoma,Woods County,0,1,0,0,0,0,0,0
+40153,Oklahoma,Woodward County,0,2,0,0,0,0,0,0
+41001,Oregon,Baker County,1,0,0,0,0,0,0,0
+41003,Oregon,Benton County,15,1,1,0,1,0,0,0
+41005,Oregon,Clackamas County,31,0,3,0,0,1,0,0
+41007,Oregon,Clatsop County,0,0,0,0,0,0,0,0
+41009,Oregon,Columbia County,2,0,0,0,0,1,0,0
+41011,Oregon,Coos County,6,0,0,0,0,0,0,0
+41015,Oregon,Curry County,4,0,0,0,0,0,0,0
+41017,Oregon,Deschutes County,11,2,1,1,0,3,0,0
+41019,Oregon,Douglas County,22,1,0,0,0,0,0,0
+41023,Oregon,Grant County,0,1,0,0,0,0,0,0
+41025,Oregon,Harney County,0,0,0,0,0,1,0,0
+41027,Oregon,Hood River County,4,0,0,0,0,0,0,0
+41029,Oregon,Jackson County,36,3,2,0,0,0,0,0
+41031,Oregon,Jefferson County,1,0,0,0,0,0,0,0
+41033,Oregon,Josephine County,29,1,0,1,0,0,0,0
+41035,Oregon,Klamath County,7,0,1,0,0,1,0,0
+41037,Oregon,Lake County,1,0,0,0,0,0,0,0
+41039,Oregon,Lane County,9,0,0,0,1,3,0,0
+41041,Oregon,Lincoln County,3,0,1,0,0,0,0,0
+41043,Oregon,Linn County,5,0,0,0,0,1,0,0
+41045,Oregon,Malheur County,3,0,0,0,0,0,0,0
+41047,Oregon,Marion County,8,0,0,1,0,0,0,0
+41051,Oregon,Multnomah County,49,5,0,0,2,0,0,0
+41053,Oregon,Polk County,5,0,1,0,0,1,0,0
+41057,Oregon,Tillamook County,0,1,0,0,1,0,0,0
+41059,Oregon,Umatilla County,2,1,0,0,0,0,0,0
+41061,Oregon,Union County,0,1,0,0,0,2,0,0
+41063,Oregon,Wallowa County,3,0,0,0,0,0,0,0
+41065,Oregon,Wasco County,3,0,0,0,0,0,0,0
+41067,Oregon,Washington County,16,1,1,0,0,1,0,0
+41069,Oregon,Wheeler County,0,0,0,0,0,0,0,0
+41071,Oregon,Yamhill County,4,0,0,0,0,0,0,0
+42001,Pennsylvania,Adams County,465,0,0,0,1,0,0,0
+42003,Pennsylvania,Allegheny County,1533,2,0,0,12,0,0,0
+42005,Pennsylvania,Armstrong County,787,0,0,0,9,0,0,1
+42007,Pennsylvania,Beaver County,803,1,0,2,3,0,0,0
+42009,Pennsylvania,Bedford County,593,1,0,0,0,0,0,0
+42011,Pennsylvania,Berks County,1119,4,0,2,11,0,0,0
+42013,Pennsylvania,Blair County,483,2,0,0,0,0,0,0
+42015,Pennsylvania,Bradford County,702,0,0,0,0,0,0,1
+42017,Pennsylvania,Bucks County,1824,12,0,3,13,0,0,5
+42019,Pennsylvania,Butler County,2311,0,0,0,1,0,0,0
+42021,Pennsylvania,Cambria County,706,1,0,0,9,0,0,1
+42023,Pennsylvania,Cameron County,79,0,0,1,0,0,0,1
+42025,Pennsylvania,Carbon County,225,0,0,1,1,0,0,0
+42027,Pennsylvania,Centre County,929,1,0,1,34,0,0,0
+42029,Pennsylvania,Chester County,2147,5,0,3,39,0,0,3
+42031,Pennsylvania,Clarion County,732,0,0,0,4,0,0,0
+42033,Pennsylvania,Clearfield County,1096,1,0,1,16,0,0,2
+42035,Pennsylvania,Clinton County,137,0,0,0,6,1,0,1
+42037,Pennsylvania,Columbia County,205,0,0,0,13,0,0,0
+42039,Pennsylvania,Crawford County,411,0,0,0,1,0,0,1
+42041,Pennsylvania,Cumberland County,760,3,0,0,3,0,0,2
+42043,Pennsylvania,Dauphin County,834,0,0,0,11,1,0,0
+42045,Pennsylvania,Delaware County,1164,6,0,2,9,0,0,1
+42047,Pennsylvania,Elk County,345,0,0,0,11,0,0,1
+42049,Pennsylvania,Erie County,495,0,0,0,2,0,0,1
+42051,Pennsylvania,Fayette County,429,0,0,0,1,0,0,0
+42053,Pennsylvania,Forest County,91,0,0,0,4,0,0,0
+42055,Pennsylvania,Franklin County,314,1,0,0,3,0,0,0
+42057,Pennsylvania,Fulton County,116,1,0,0,0,0,0,0
+42059,Pennsylvania,Greene County,120,0,0,0,0,0,0,0
+42061,Pennsylvania,Huntingdon County,461,0,0,0,4,0,0,0
+42063,Pennsylvania,Indiana County,700,1,0,0,3,0,0,0
+42065,Pennsylvania,Jefferson County,889,1,0,1,20,0,0,1
+42067,Pennsylvania,Juniata County,102,0,0,1,0,0,0,0
+42069,Pennsylvania,Lackawanna County,464,2,0,1,10,0,0,1
+42071,Pennsylvania,Lancaster County,1574,8,0,0,7,2,0,9
+42073,Pennsylvania,Lawrence County,350,0,0,0,0,0,0,0
+42075,Pennsylvania,Lebanon County,437,1,0,0,0,0,0,0
+42077,Pennsylvania,Lehigh County,958,1,0,0,10,0,0,0
+42079,Pennsylvania,Luzerne County,730,0,0,0,12,0,0,1
+42081,Pennsylvania,Lycoming County,370,0,0,0,18,0,0,2
+42083,Pennsylvania,McKean County,426,1,0,0,4,0,0,1
+42085,Pennsylvania,Mercer County,362,1,0,1,0,0,0,0
+42087,Pennsylvania,Mifflin County,270,0,0,0,0,0,0,0
+42089,Pennsylvania,Monroe County,583,2,0,3,36,0,0,1
+42091,Pennsylvania,Montgomery County,1964,6,0,2,16,1,0,2
+42093,Pennsylvania,Montour County,75,0,0,0,7,1,0,0
+42095,Pennsylvania,Northampton County,546,2,0,3,5,0,0,2
+42097,Pennsylvania,Northumberland County,224,0,0,0,5,0,0,0
+42099,Pennsylvania,Perry County,401,2,0,0,1,0,0,1
+42101,Pennsylvania,Philadelphia County,717,23,0,5,16,0,0,0
+42103,Pennsylvania,Pike County,354,2,0,3,36,0,0,1
+42105,Pennsylvania,Potter County,192,0,0,1,2,0,0,0
+42107,Pennsylvania,Schuylkill County,309,2,0,0,6,0,0,1
+42109,Pennsylvania,Snyder County,153,0,0,0,4,0,0,0
+42111,Pennsylvania,Somerset County,237,0,0,0,1,0,0,0
+42113,Pennsylvania,Sullivan County,56,0,0,0,0,0,0,0
+42115,Pennsylvania,Susquehanna County,367,0,0,0,2,0,0,0
+42117,Pennsylvania,Tioga County,266,0,0,1,1,0,0,0
+42119,Pennsylvania,Union County,190,1,0,0,1,0,0,0
+42121,Pennsylvania,Venango County,683,1,0,0,1,0,0,0
+42123,Pennsylvania,Warren County,240,1,0,0,2,0,0,0
+42125,Pennsylvania,Washington County,674,0,0,0,0,0,0,0
+42127,Pennsylvania,Wayne County,436,1,0,0,22,0,0,1
+42129,Pennsylvania,Westmoreland County,2015,2,0,1,3,0,0,0
+42131,Pennsylvania,Wyoming County,278,0,0,0,0,0,0,0
+42133,Pennsylvania,York County,1541,2,0,0,2,3,0,0
+44001,Rhode Island,Bristol County,307,0,30,5,13,0,0,0
+44003,Rhode Island,Kent County,600,7,97,53,61,0,0,0
+44005,Rhode Island,Newport County,502,7,101,9,84,0,0,0
+44007,Rhode Island,Providence County,1704,13,176,94,154,0,0,0
+44009,Rhode Island,Washington County,1004,1,235,52,186,0,0,0
+45001,South Carolina,Abbeville County,0,0,0,0,0,1,0,0
+45003,South Carolina,Aiken County,5,6,0,0,0,0,0,1
+45005,South Carolina,Allendale County,0,0,0,0,0,0,0,0
+45007,South Carolina,Anderson County,1,1,0,0,0,0,0,0
+45009,South Carolina,Bamberg County,0,0,0,0,0,0,0,0
+45011,South Carolina,Barnwell County,2,0,0,0,0,0,0,0
+45013,South Carolina,Beaufort County,9,17,1,0,0,0,0,2
+45015,South Carolina,Berkeley County,1,7,0,0,0,0,0,0
+45017,South Carolina,Calhoun County,0,0,0,0,0,0,0,0
+45019,South Carolina,Charleston County,6,11,0,0,0,0,0,6
+45021,South Carolina,Cherokee County,0,0,0,0,0,0,0,0
+45023,South Carolina,Chester County,4,13,0,0,0,0,0,0
+45025,South Carolina,Chesterfield County,0,3,0,0,0,0,0,1
+45027,South Carolina,Clarendon County,1,1,0,0,0,0,0,0
+45029,South Carolina,Colleton County,1,3,0,0,0,0,0,0
+45031,South Carolina,Darlington County,3,7,0,0,0,0,0,1
+45033,South Carolina,Dillon County,1,2,0,0,0,0,0,0
+45035,South Carolina,Dorchester County,5,3,1,0,0,0,0,0
+45037,South Carolina,Edgefield County,0,1,0,0,0,0,0,0
+45039,South Carolina,Fairfield County,1,1,0,0,0,0,0,0
+45041,South Carolina,Florence County,7,31,0,0,0,0,0,1
+45043,South Carolina,Georgetown County,1,4,0,0,0,0,0,0
+45045,South Carolina,Greenville County,5,4,0,0,0,0,0,0
+45047,South Carolina,Greenwood County,1,1,0,0,0,0,0,0
+45049,South Carolina,Hampton County,0,2,0,0,0,0,0,0
+45051,South Carolina,Horry County,27,26,1,0,0,0,0,1
+45053,South Carolina,Jasper County,1,1,0,0,0,0,0,0
+45055,South Carolina,Kershaw County,3,6,0,0,0,0,0,0
+45057,South Carolina,Lancaster County,10,6,0,0,0,0,0,0
+45059,South Carolina,Laurens County,0,1,0,0,0,0,0,1
+45061,South Carolina,Lee County,0,3,0,0,0,0,0,0
+45063,South Carolina,Lexington County,16,40,1,0,0,0,0,0
+45065,South Carolina,McCormick County,0,0,0,0,0,0,0,0
+45067,South Carolina,Marion County,0,3,0,0,0,0,0,0
+45069,South Carolina,Marlboro County,1,2,0,0,0,0,0,0
+45071,South Carolina,Newberry County,0,6,0,0,0,0,0,1
+45073,South Carolina,Oconee County,2,1,1,0,0,0,0,0
+45075,South Carolina,Orangeburg County,0,1,0,0,0,0,0,0
+45077,South Carolina,Pickens County,2,2,0,0,0,0,0,0
+45079,South Carolina,Richland County,16,18,0,0,0,0,0,2
+45081,South Carolina,Saluda County,0,1,0,0,0,0,0,0
+45083,South Carolina,Spartanburg County,5,7,0,0,0,0,0,0
+45085,South Carolina,Sumter County,2,1,0,0,0,0,0,0
+45089,South Carolina,Williamsburg County,2,6,0,0,0,0,0,1
+45091,South Carolina,York County,17,30,0,0,0,0,0,1
+46003,South Dakota,Aurora County,0,0,0,0,0,1,0,0
+46005,South Dakota,Beadle County,1,3,0,1,0,2,0,0
+46011,South Dakota,Brookings County,2,0,0,0,0,0,0,0
+46013,South Dakota,Brown County,1,4,0,0,0,1,0,0
+46015,South Dakota,Brule County,1,0,0,0,0,2,0,0
+46017,South Dakota,Buffalo County,0,0,0,0,0,1,0,0
+46019,South Dakota,Butte County,0,0,0,0,0,0,0,0
+46021,South Dakota,Campbell County,0,0,0,0,0,0,0,0
+46023,South Dakota,Charles Mix County,0,2,0,1,0,4,0,0
+46027,South Dakota,Clay County,1,0,0,0,0,0,0,0
+46029,South Dakota,Codington County,0,0,0,0,0,0,0,0
+46033,South Dakota,Custer County,1,0,0,0,0,1,0,0
+46035,South Dakota,Davison County,0,1,0,0,0,1,0,0
+46037,South Dakota,Day County,1,0,0,0,0,0,0,0
+46041,South Dakota,Dewey County,1,2,0,0,0,0,0,0
+46043,South Dakota,Douglas County,0,0,0,0,0,0,0,0
+46047,South Dakota,Fall River County,0,1,0,0,0,2,0,0
+46049,South Dakota,Faulk County,0,0,0,0,0,0,0,0
+46051,South Dakota,Grant County,2,0,0,0,0,0,0,0
+46059,South Dakota,Hand County,0,0,0,0,0,0,0,0
+46065,South Dakota,Hughes County,3,3,0,0,0,3,0,0
+46067,South Dakota,Hutchinson County,0,0,0,0,0,0,0,0
+46069,South Dakota,Hyde County,0,2,0,0,0,0,0,0
+46071,South Dakota,Jackson County,0,0,0,0,0,2,0,0
+46073,South Dakota,Jerauld County,0,0,0,0,0,0,0,0
+46077,South Dakota,Kingsbury County,0,0,0,0,0,1,0,0
+46079,South Dakota,Lake County,1,0,0,0,1,0,0,0
+46081,South Dakota,Lawrence County,0,0,0,0,0,1,0,0
+46083,South Dakota,Lincoln County,5,0,0,0,1,2,0,0
+46085,South Dakota,Lyman County,0,1,0,0,0,0,0,0
+46087,South Dakota,McCook County,0,0,0,0,0,0,0,0
+46091,South Dakota,Marshall County,0,1,0,0,0,0,0,0
+46093,South Dakota,Meade County,1,0,0,0,0,0,0,0
+46095,South Dakota,Mellette County,0,0,0,0,0,1,0,0
+46097,South Dakota,Miner County,1,0,0,0,0,0,0,0
+46099,South Dakota,Minnehaha County,10,5,0,0,1,3,0,0
+46101,South Dakota,Moody County,0,0,0,0,0,0,0,0
+46102,South Dakota,Oglala Lakota County,1,0,0,0,0,5,0,0
+46103,South Dakota,Pennington County,3,4,0,1,0,4,0,0
+46109,South Dakota,Roberts County,3,2,0,0,0,1,0,0
+46111,South Dakota,Sanborn County,0,1,0,0,0,2,0,0
+46115,South Dakota,Spink County,0,0,0,0,0,1,0,0
+46119,South Dakota,Sully County,0,1,0,0,0,0,0,0
+46121,South Dakota,Todd County,0,1,0,0,0,9,0,0
+46123,South Dakota,Tripp County,0,0,0,0,0,1,0,0
+46125,South Dakota,Turner County,0,1,0,0,0,0,0,0
+46127,South Dakota,Union County,1,1,0,0,0,0,0,0
+46129,South Dakota,Walworth County,0,2,0,0,0,0,0,0
+46135,South Dakota,Yankton County,0,3,0,0,0,0,0,0
+47001,Tennessee,Anderson County,1,19,0,5,2,0,0,0
+47003,Tennessee,Bedford County,0,4,0,7,0,0,0,0
+47005,Tennessee,Benton County,0,13,0,1,0,0,0,0
+47007,Tennessee,Bledsoe County,0,7,0,0,0,0,0,1
+47009,Tennessee,Blount County,1,13,0,1,0,0,0,0
+47011,Tennessee,Bradley County,0,20,0,1,0,0,0,0
+47013,Tennessee,Campbell County,2,6,0,3,0,0,0,0
+47015,Tennessee,Cannon County,0,8,0,1,0,0,0,0
+47017,Tennessee,Carroll County,0,12,0,2,0,0,0,0
+47019,Tennessee,Carter County,2,0,0,1,2,0,0,0
+47021,Tennessee,Cheatham County,1,24,0,16,0,0,0,0
+47023,Tennessee,Chester County,0,12,0,1,0,0,0,0
+47025,Tennessee,Claiborne County,3,3,0,0,0,0,0,0
+47027,Tennessee,Clay County,0,8,0,0,0,0,0,0
+47029,Tennessee,Cocke County,0,2,0,0,0,0,0,0
+47031,Tennessee,Coffee County,0,12,0,3,0,0,0,0
+47033,Tennessee,Crockett County,0,3,0,1,1,0,0,0
+47035,Tennessee,Cumberland County,3,79,0,14,2,0,0,1
+47037,Tennessee,Davidson County,11,72,0,41,0,1,2,3
+47039,Tennessee,Decatur County,0,13,0,1,0,0,0,0
+47041,Tennessee,DeKalb County,0,17,0,2,0,0,0,0
+47043,Tennessee,Dickson County,6,99,0,22,7,0,0,1
+47045,Tennessee,Dyer County,0,5,0,0,0,1,0,0
+47047,Tennessee,Fayette County,0,12,0,0,0,0,0,0
+47049,Tennessee,Fentress County,1,82,0,3,0,0,0,0
+47051,Tennessee,Franklin County,0,24,0,1,1,0,0,0
+47053,Tennessee,Gibson County,0,8,0,1,0,0,0,0
+47055,Tennessee,Giles County,1,34,0,2,0,0,0,0
+47057,Tennessee,Grainger County,0,0,0,0,0,0,0,0
+47059,Tennessee,Greene County,3,7,0,1,0,0,0,0
+47061,Tennessee,Grundy County,0,15,0,0,0,0,0,0
+47063,Tennessee,Hamblen County,1,2,0,0,0,0,0,0
+47065,Tennessee,Hamilton County,1,47,0,18,1,0,1,0
+47067,Tennessee,Hancock County,0,1,0,0,0,0,0,0
+47069,Tennessee,Hardeman County,0,11,0,2,0,0,0,0
+47071,Tennessee,Hardin County,0,35,0,2,0,0,0,0
+47073,Tennessee,Hawkins County,2,3,0,0,0,0,0,0
+47075,Tennessee,Haywood County,0,0,0,0,0,0,0,0
+47077,Tennessee,Henderson County,0,22,0,3,0,1,0,0
+47079,Tennessee,Henry County,0,28,0,1,0,0,0,0
+47081,Tennessee,Hickman County,0,38,1,9,2,0,0,0
+47083,Tennessee,Houston County,2,17,0,7,2,0,0,0
+47085,Tennessee,Humphreys County,1,42,0,9,0,0,0,0
+47087,Tennessee,Jackson County,0,7,0,2,1,0,0,0
+47089,Tennessee,Jefferson County,0,5,0,0,0,0,0,0
+47091,Tennessee,Johnson County,1,0,0,0,0,0,0,0
+47093,Tennessee,Knox County,7,5,0,4,1,0,0,0
+47095,Tennessee,Lake County,0,0,0,1,0,0,0,0
+47097,Tennessee,Lauderdale County,0,0,0,0,0,0,0,0
+47099,Tennessee,Lawrence County,0,52,1,6,0,0,0,0
+47101,Tennessee,Lewis County,0,22,0,2,0,0,0,0
+47103,Tennessee,Lincoln County,0,15,0,1,0,0,0,0
+47105,Tennessee,Loudon County,0,18,0,0,2,0,0,0
+47107,Tennessee,McMinn County,0,14,0,0,0,0,0,0
+47109,Tennessee,McNairy County,0,41,0,2,0,0,0,0
+47111,Tennessee,Macon County,1,19,1,0,1,0,0,0
+47113,Tennessee,Madison County,0,6,0,0,0,0,0,0
+47115,Tennessee,Marion County,0,15,0,0,0,0,0,0
+47117,Tennessee,Marshall County,0,29,0,3,0,0,0,0
+47119,Tennessee,Maury County,1,89,1,9,2,0,0,0
+47121,Tennessee,Meigs County,0,6,0,0,0,0,0,0
+47123,Tennessee,Monroe County,0,8,0,1,1,0,0,0
+47125,Tennessee,Montgomery County,4,32,0,7,0,1,1,0
+47127,Tennessee,Moore County,0,1,0,0,0,0,0,0
+47129,Tennessee,Morgan County,0,37,0,2,0,0,0,0
+47131,Tennessee,Obion County,0,7,0,1,0,0,0,0
+47133,Tennessee,Overton County,1,41,0,1,0,0,0,0
+47135,Tennessee,Perry County,0,14,0,2,0,0,0,0
+47137,Tennessee,Pickett County,0,4,0,0,0,0,0,0
+47139,Tennessee,Polk County,0,2,0,0,0,0,0,0
+47141,Tennessee,Putnam County,0,53,0,11,1,1,0,0
+47143,Tennessee,Rhea County,1,19,0,6,0,0,0,1
+47145,Tennessee,Roane County,0,37,0,3,1,0,0,0
+47147,Tennessee,Robertson County,4,23,0,2,0,1,0,0
+47149,Tennessee,Rutherford County,2,21,0,5,1,2,1,0
+47151,Tennessee,Scott County,3,38,0,9,0,0,0,0
+47153,Tennessee,Sequatchie County,0,11,0,0,1,0,0,0
+47155,Tennessee,Sevier County,3,9,0,1,0,0,0,0
+47157,Tennessee,Shelby County,10,38,0,20,0,1,0,0
+47159,Tennessee,Smith County,0,7,0,2,0,0,0,0
+47161,Tennessee,Stewart County,0,20,0,3,0,0,0,0
+47163,Tennessee,Sullivan County,9,8,0,1,0,0,0,0
+47165,Tennessee,Sumner County,7,68,0,7,1,1,0,0
+47167,Tennessee,Tipton County,0,4,0,0,0,1,0,0
+47169,Tennessee,Trousdale County,1,5,0,1,0,0,0,0
+47171,Tennessee,Unicoi County,3,2,0,0,0,0,0,0
+47173,Tennessee,Union County,1,0,0,0,0,0,0,0
+47175,Tennessee,Van Buren County,0,8,0,2,1,0,0,0
+47177,Tennessee,Warren County,0,35,0,2,0,0,0,0
+47179,Tennessee,Washington County,6,2,0,4,0,0,0,0
+47181,Tennessee,Wayne County,0,56,0,3,0,0,0,0
+47183,Tennessee,Weakley County,0,5,0,1,1,1,0,0
+47185,Tennessee,White County,2,32,0,1,1,0,0,0
+47187,Tennessee,Williamson County,2,88,0,50,3,2,0,3
+47189,Tennessee,Wilson County,8,20,0,8,0,1,0,0
+48001,Texas,Anderson County,0,0,0,2,0,0,0,0
+48005,Texas,Angelina County,0,1,0,0,0,0,0,0
+48007,Texas,Aransas County,1,0,0,0,0,0,0,0
+48009,Texas,Archer County,3,0,0,2,0,0,0,0
+48013,Texas,Atascosa County,0,0,0,0,0,0,0,0
+48015,Texas,Austin County,0,0,0,0,0,0,0,0
+48017,Texas,Bailey County,0,0,0,0,0,0,0,0
+48019,Texas,Bandera County,0,0,0,0,0,0,0,0
+48021,Texas,Bastrop County,0,0,0,0,0,0,0,0
+48023,Texas,Baylor County,0,0,0,0,0,0,0,0
+48025,Texas,Bee County,1,1,0,0,0,0,0,0
+48027,Texas,Bell County,0,3,0,1,0,0,0,0
+48029,Texas,Bexar County,11,31,0,0,0,1,0,1
+48035,Texas,Bosque County,2,1,0,1,0,0,0,0
+48037,Texas,Bowie County,2,8,0,2,0,0,0,0
+48039,Texas,Brazoria County,2,0,0,0,0,0,0,0
+48041,Texas,Brazos County,2,3,0,0,1,0,0,0
+48043,Texas,Brewster County,0,0,0,0,0,0,0,0
+48047,Texas,Brooks County,0,5,0,1,1,0,0,0
+48049,Texas,Brown County,0,0,0,0,0,0,0,0
+48051,Texas,Burleson County,0,0,0,0,0,0,0,0
+48053,Texas,Burnet County,0,0,0,0,0,0,0,0
+48055,Texas,Caldwell County,1,2,0,0,0,0,0,0
+48059,Texas,Callahan County,0,0,0,0,0,0,0,0
+48061,Texas,Cameron County,3,7,0,1,0,0,0,0
+48063,Texas,Camp County,0,1,0,1,0,0,0,0
+48065,Texas,Carson County,0,0,0,0,0,0,0,0
+48067,Texas,Cass County,1,3,0,1,0,0,0,0
+48069,Texas,Castro County,1,0,0,0,1,0,0,0
+48071,Texas,Chambers County,0,0,0,0,0,0,0,0
+48073,Texas,Cherokee County,0,0,0,0,0,0,0,0
+48075,Texas,Childress County,0,0,0,0,0,0,0,0
+48077,Texas,Clay County,0,0,0,0,0,0,0,0
+48079,Texas,Cochran County,0,0,0,0,0,0,0,0
+48081,Texas,Coke County,2,1,0,0,0,0,0,0
+48083,Texas,Coleman County,1,1,0,0,0,0,0,0
+48085,Texas,Collin County,6,2,0,1,0,0,0,0
+48089,Texas,Colorado County,0,0,0,0,0,0,0,0
+48091,Texas,Comal County,0,0,0,0,0,0,0,0
+48093,Texas,Comanche County,0,0,0,0,0,0,0,0
+48095,Texas,Concho County,0,0,0,0,0,0,0,0
+48097,Texas,Cooke County,0,0,0,0,0,0,0,0
+48099,Texas,Coryell County,2,0,0,0,1,0,0,0
+48111,Texas,Dallam County,0,1,0,0,0,0,0,0
+48113,Texas,Dallas County,11,11,1,4,1,1,0,0
+48115,Texas,Dawson County,1,1,0,0,0,0,0,0
+48121,Texas,Denton County,8,5,0,2,0,0,0,0
+48125,Texas,Dickens County,1,0,0,0,0,0,0,0
+48131,Texas,Duval County,0,0,0,0,0,0,0,0
+48133,Texas,Eastland County,0,0,0,0,0,0,0,0
+48135,Texas,Ector County,2,1,0,0,0,0,0,0
+48139,Texas,Ellis County,0,1,0,1,0,0,0,0
+48141,Texas,El Paso County,4,2,0,0,0,0,0,0
+48143,Texas,Erath County,0,0,0,0,0,0,0,0
+48145,Texas,Falls County,0,0,0,0,0,0,0,0
+48147,Texas,Fannin County,0,0,0,0,0,0,0,0
+48149,Texas,Fayette County,1,0,0,0,0,0,0,0
+48151,Texas,Fisher County,0,0,0,0,0,0,0,0
+48155,Texas,Foard County,0,0,0,1,0,0,0,0
+48157,Texas,Fort Bend County,6,1,0,1,0,1,0,0
+48159,Texas,Franklin County,0,0,0,1,0,0,0,0
+48161,Texas,Freestone County,1,0,0,0,0,0,0,0
+48163,Texas,Frio County,0,1,0,0,0,0,0,0
+48167,Texas,Galveston County,2,6,0,0,0,0,0,0
+48171,Texas,Gillespie County,0,0,0,0,0,0,0,0
+48175,Texas,Goliad County,1,0,0,0,0,0,0,0
+48177,Texas,Gonzales County,0,1,0,0,0,0,0,0
+48179,Texas,Gray County,3,0,0,0,0,0,0,0
+48181,Texas,Grayson County,3,0,0,0,0,0,0,0
+48183,Texas,Gregg County,0,0,0,0,0,0,0,0
+48185,Texas,Grimes County,1,4,0,0,0,0,0,0
+48187,Texas,Guadalupe County,0,0,0,0,0,0,0,0
+48189,Texas,Hale County,0,0,0,0,0,0,0,0
+48193,Texas,Hamilton County,0,1,0,0,0,0,0,0
+48199,Texas,Hardin County,0,0,0,0,0,0,0,0
+48201,Texas,Harris County,24,23,1,1,1,0,0,0
+48203,Texas,Harrison County,0,0,0,0,0,0,0,0
+48205,Texas,Hartley County,1,0,0,0,0,0,0,0
+48209,Texas,Hays County,0,2,0,0,0,0,0,0
+48211,Texas,Hemphill County,1,0,0,0,0,0,0,0
+48213,Texas,Henderson County,1,1,0,1,0,0,0,0
+48215,Texas,Hidalgo County,6,21,1,1,0,0,0,0
+48217,Texas,Hill County,0,0,0,0,0,0,0,0
+48219,Texas,Hockley County,1,0,0,0,0,0,0,0
+48221,Texas,Hood County,0,0,0,0,0,0,0,0
+48223,Texas,Hopkins County,2,0,0,0,0,0,0,0
+48227,Texas,Howard County,0,0,0,0,0,0,0,0
+48231,Texas,Hunt County,2,0,0,0,0,0,0,0
+48233,Texas,Hutchinson County,0,1,0,0,0,0,0,0
+48237,Texas,Jack County,0,0,0,0,0,0,0,0
+48241,Texas,Jasper County,0,0,0,0,0,0,0,0
+48243,Texas,Jeff Davis County,0,0,0,0,0,0,0,0
+48245,Texas,Jefferson County,3,0,0,0,0,0,0,0
+48247,Texas,Jim Hogg County,0,1,0,0,0,0,0,0
+48249,Texas,Jim Wells County,1,3,0,0,0,0,0,0
+48251,Texas,Johnson County,1,4,0,1,1,0,0,0
+48253,Texas,Jones County,0,0,0,0,0,0,0,0
+48255,Texas,Karnes County,0,1,0,0,0,0,0,0
+48257,Texas,Kaufman County,1,0,0,0,0,0,0,0
+48259,Texas,Kendall County,1,0,0,0,0,0,0,0
+48265,Texas,Kerr County,0,0,0,0,0,0,0,0
+48267,Texas,Kimble County,0,0,0,0,0,0,0,0
+48271,Texas,Kinney County,0,0,0,0,0,0,0,0
+48273,Texas,Kleberg County,1,8,0,0,0,0,0,0
+48275,Texas,Knox County,0,0,0,0,0,0,0,0
+48277,Texas,Lamar County,2,3,0,0,0,0,0,0
+48281,Texas,Lampasas County,0,0,0,0,0,0,0,0
+48283,Texas,La Salle County,0,0,0,0,0,0,0,0
+48285,Texas,Lavaca County,1,0,0,0,0,0,0,0
+48287,Texas,Lee County,0,0,0,0,0,0,0,0
+48289,Texas,Leon County,0,0,0,1,0,0,0,0
+48291,Texas,Liberty County,0,1,0,0,0,0,0,0
+48293,Texas,Limestone County,0,1,0,0,0,0,0,0
+48297,Texas,Live Oak County,0,2,0,0,0,0,0,0
+48299,Texas,Llano County,0,2,0,0,0,0,0,0
+48303,Texas,Lubbock County,2,2,0,0,0,0,0,0
+48305,Texas,Lynn County,0,0,0,0,0,0,0,0
+48307,Texas,McCulloch County,1,2,0,0,0,0,0,0
+48309,Texas,McLennan County,0,0,0,0,0,0,0,0
+48313,Texas,Madison County,0,1,0,0,0,0,0,0
+48315,Texas,Marion County,0,1,0,0,0,0,0,0
+48317,Texas,Martin County,0,0,0,0,0,0,0,0
+48319,Texas,Mason County,0,1,0,0,0,0,0,0
+48321,Texas,Matagorda County,2,1,0,0,0,0,0,0
+48323,Texas,Maverick County,0,0,0,0,0,0,0,0
+48325,Texas,Medina County,1,1,0,1,0,0,0,0
+48327,Texas,Menard County,0,0,0,0,0,0,0,0
+48329,Texas,Midland County,0,0,0,0,0,0,0,0
+48331,Texas,Milam County,0,0,0,0,0,0,0,0
+48333,Texas,Mills County,0,0,0,0,0,0,0,0
+48335,Texas,Mitchell County,0,0,0,0,0,0,0,0
+48337,Texas,Montague County,0,0,0,0,0,0,0,0
+48339,Texas,Montgomery County,2,3,0,0,0,0,0,0
+48343,Texas,Morris County,1,0,0,0,0,0,0,0
+48347,Texas,Nacogdoches County,1,0,0,0,0,0,0,0
+48349,Texas,Navarro County,0,0,0,0,0,0,0,0
+48351,Texas,Newton County,0,0,0,0,0,0,0,0
+48353,Texas,Nolan County,0,0,0,0,0,0,0,0
+48355,Texas,Nueces County,2,32,0,1,0,0,0,0
+48361,Texas,Orange County,0,1,0,0,0,0,0,0
+48363,Texas,Palo Pinto County,0,0,0,0,0,0,0,0
+48365,Texas,Panola County,0,0,0,0,0,0,0,0
+48367,Texas,Parker County,3,1,0,0,0,0,0,0
+48371,Texas,Pecos County,0,0,0,0,0,0,0,0
+48373,Texas,Polk County,3,1,0,0,0,0,0,0
+48375,Texas,Potter County,0,1,0,0,0,0,0,0
+48379,Texas,Rains County,0,0,0,0,0,0,0,0
+48381,Texas,Randall County,3,2,0,0,0,0,0,0
+48387,Texas,Red River County,0,1,0,0,0,0,0,0
+48389,Texas,Reeves County,0,0,0,0,0,0,0,0
+48395,Texas,Robertson County,0,1,0,0,0,0,0,0
+48397,Texas,Rockwall County,2,0,0,0,0,0,0,0
+48399,Texas,Runnels County,0,0,0,0,0,0,0,0
+48401,Texas,Rusk County,0,2,0,1,0,0,0,0
+48403,Texas,Sabine County,1,0,0,0,0,0,0,0
+48405,Texas,San Augustine County,0,0,0,0,0,0,0,0
+48409,Texas,San Patricio County,0,5,0,0,0,0,0,0
+48411,Texas,San Saba County,0,1,0,0,0,0,0,0
+48413,Texas,Schleicher County,0,0,0,0,0,0,0,0
+48415,Texas,Scurry County,0,0,0,0,0,0,0,0
+48417,Texas,Shackelford County,0,0,0,0,0,0,0,0
+48419,Texas,Shelby County,0,1,0,0,0,0,0,0
+48423,Texas,Smith County,1,1,0,0,0,0,0,0
+48425,Texas,Somervell County,0,0,0,0,0,0,0,0
+48427,Texas,Starr County,0,1,0,0,0,0,0,0
+48429,Texas,Stephens County,0,0,0,0,0,0,0,0
+48435,Texas,Sutton County,0,0,0,1,0,0,0,0
+48437,Texas,Swisher County,0,0,0,0,0,0,0,0
+48439,Texas,Tarrant County,11,9,0,5,1,0,0,0
+48441,Texas,Taylor County,0,1,0,0,0,0,0,0
+48443,Texas,Terrell County,0,0,0,0,0,0,0,0
+48449,Texas,Titus County,0,0,0,1,0,0,0,0
+48451,Texas,Tom Green County,1,7,0,0,0,0,0,0
+48453,Texas,Travis County,14,7,2,5,0,0,0,0
+48455,Texas,Trinity County,0,0,0,0,0,0,0,0
+48457,Texas,Tyler County,0,0,0,0,0,0,0,0
+48459,Texas,Upshur County,0,0,0,0,0,0,0,0
+48461,Texas,Upton County,0,0,0,0,0,0,0,0
+48463,Texas,Uvalde County,0,0,0,0,0,0,0,0
+48465,Texas,Val Verde County,0,0,0,0,0,0,0,0
+48467,Texas,Van Zandt County,0,0,0,0,0,0,0,0
+48469,Texas,Victoria County,0,1,0,0,0,0,0,0
+48471,Texas,Walker County,0,2,0,0,0,0,0,0
+48473,Texas,Waller County,0,0,0,0,0,0,0,0
+48477,Texas,Washington County,1,0,0,0,0,0,0,0
+48479,Texas,Webb County,3,5,0,0,0,0,0,0
+48481,Texas,Wharton County,0,0,0,0,0,0,0,0
+48483,Texas,Wheeler County,1,0,0,0,0,0,0,0
+48485,Texas,Wichita County,0,0,0,0,0,1,0,0
+48487,Texas,Wilbarger County,0,0,0,0,0,0,0,0
+48489,Texas,Willacy County,0,2,0,0,0,0,0,0
+48491,Texas,Williamson County,4,0,0,0,1,0,0,0
+48493,Texas,Wilson County,1,0,0,0,0,0,0,0
+48495,Texas,Winkler County,1,0,0,0,0,0,0,0
+48497,Texas,Wise County,0,0,0,0,0,0,0,0
+48499,Texas,Wood County,0,1,0,2,0,0,0,0
+48503,Texas,Young County,0,1,0,0,0,0,0,0
+48505,Texas,Zapata County,0,0,0,0,0,0,0,0
+49001,Utah,Beaver County,0,0,0,0,0,0,0,0
+49003,Utah,Box Elder County,0,0,0,0,0,0,0,0
+49005,Utah,Cache County,6,1,0,0,0,2,0,0
+49007,Utah,Carbon County,0,0,0,0,0,0,0,0
+49011,Utah,Davis County,13,4,0,0,0,0,0,0
+49013,Utah,Duchesne County,0,0,0,0,0,3,0,0
+49015,Utah,Emery County,0,0,0,0,0,0,0,0
+49019,Utah,Grand County,1,0,0,0,0,0,0,0
+49021,Utah,Iron County,0,0,0,0,0,0,0,0
+49023,Utah,Juab County,1,0,0,0,0,0,0,0
+49035,Utah,Salt Lake County,39,14,0,0,3,0,0,0
+49037,Utah,San Juan County,0,0,0,0,0,1,0,0
+49039,Utah,Sanpete County,0,0,0,0,0,2,0,0
+49041,Utah,Sevier County,0,0,0,0,0,0,0,0
+49043,Utah,Summit County,10,1,2,0,0,0,0,0
+49045,Utah,Tooele County,1,0,0,0,0,1,0,0
+49047,Utah,Uintah County,1,3,0,0,0,0,0,0
+49049,Utah,Utah County,10,6,0,0,0,0,0,0
+49051,Utah,Wasatch County,0,1,0,0,0,0,0,0
+49053,Utah,Washington County,6,2,0,0,0,2,0,0
+49057,Utah,Weber County,0,0,0,0,0,1,0,0
+50001,Vermont,Addison County,256,0,4,16,40,0,0,9
+50003,Vermont,Bennington County,409,1,32,0,458,0,0,0
+50005,Vermont,Caledonia County,58,0,0,0,9,0,0,0
+50007,Vermont,Chittenden County,578,0,4,5,65,0,0,1
+50009,Vermont,Essex County,5,0,0,0,1,0,0,0
+50011,Vermont,Franklin County,133,0,0,2,10,0,0,0
+50013,Vermont,Grand Isle County,62,0,1,0,3,0,0,0
+50015,Vermont,Lamoille County,59,1,3,2,7,0,0,0
+50017,Vermont,Orange County,118,0,1,0,46,0,0,2
+50019,Vermont,Orleans County,9,0,0,0,2,0,0,0
+50021,Vermont,Rutland County,614,15,19,23,352,0,0,7
+50023,Vermont,Washington County,190,1,5,0,11,0,0,0
+50025,Vermont,Windham County,430,0,13,15,112,0,0,6
+50027,Vermont,Windsor County,550,0,10,7,261,0,0,0
+51001,Virginia,Accomack County,14,5,1,5,2,0,0,3
+51003,Virginia,Albemarle County,109,19,0,9,1,0,0,0
+51005,Virginia,Alleghany County,7,5,0,1,0,0,0,0
+51007,Virginia,Amelia County,6,4,0,1,0,0,0,0
+51009,Virginia,Amherst County,17,7,0,5,0,0,0,1
+51011,Virginia,Appomattox County,1,7,0,7,0,0,0,0
+51013,Virginia,Arlington County,28,7,0,2,2,0,0,0
+51015,Virginia,Augusta County,128,4,0,1,1,0,0,0
+51017,Virginia,Bath County,6,1,0,0,0,0,0,0
+51019,Virginia,Bedford County,47,29,0,10,0,0,0,1
+51021,Virginia,Bland County,5,0,0,0,0,0,0,0
+51023,Virginia,Botetourt County,20,4,0,2,1,0,0,0
+51025,Virginia,Brunswick County,0,1,0,0,0,0,0,0
+51027,Virginia,Buchanan County,1,1,0,0,0,0,0,0
+51029,Virginia,Buckingham County,3,4,0,1,0,0,0,0
+51031,Virginia,Campbell County,16,18,0,6,0,0,0,1
+51033,Virginia,Caroline County,14,8,0,3,0,0,0,1
+51035,Virginia,Carroll County,187,5,0,0,0,0,0,0
+51036,Virginia,Charles City County,2,1,0,0,0,0,0,0
+51037,Virginia,Charlotte County,2,10,0,5,0,0,0,0
+51041,Virginia,Chesterfield County,60,52,0,8,2,1,0,1
+51043,Virginia,Clarke County,42,4,0,1,2,0,0,0
+51045,Virginia,Craig County,3,0,0,0,0,0,0,0
+51047,Virginia,Culpeper County,53,17,0,8,0,0,0,0
+51049,Virginia,Cumberland County,2,0,0,1,0,0,0,0
+51051,Virginia,Dickenson County,1,1,0,1,0,0,0,0
+51053,Virginia,Dinwiddie County,8,6,0,1,0,0,0,0
+51057,Virginia,Essex County,0,0,0,0,0,0,0,0
+51059,Virginia,Fairfax County,614,30,1,18,5,2,0,0
+51061,Virginia,Fauquier County,120,23,0,10,0,0,0,0
+51063,Virginia,Floyd County,191,2,0,0,1,0,0,0
+51065,Virginia,Fluvanna County,32,4,0,3,3,0,0,0
+51067,Virginia,Franklin County,8,10,0,6,0,0,0,0
+51069,Virginia,Frederick County,174,11,0,4,0,0,0,0
+51071,Virginia,Giles County,54,1,0,0,0,0,0,0
+51073,Virginia,Gloucester County,7,1,0,0,0,0,0,0
+51075,Virginia,Goochland County,2,3,0,1,0,0,0,0
+51077,Virginia,Grayson County,66,4,0,0,0,0,0,0
+51079,Virginia,Greene County,31,1,0,2,0,0,0,0
+51081,Virginia,Greensville County,0,0,0,1,0,0,0,0
+51083,Virginia,Halifax County,1,7,0,0,0,0,0,0
+51085,Virginia,Hanover County,12,13,0,2,0,0,0,0
+51087,Virginia,Henrico County,32,16,0,2,0,2,0,0
+51089,Virginia,Henry County,13,37,0,7,0,0,0,0
+51091,Virginia,Highland County,3,0,0,0,1,0,0,0
+51093,Virginia,Isle of Wight County,3,7,0,3,0,0,0,0
+51095,Virginia,James City County,3,14,0,2,0,0,0,0
+51097,Virginia,King and Queen County,2,0,0,0,0,0,0,0
+51099,Virginia,King George County,23,13,0,3,0,0,0,0
+51101,Virginia,King William County,2,0,0,0,0,0,0,0
+51103,Virginia,Lancaster County,1,0,0,0,0,0,0,0
+51105,Virginia,Lee County,1,2,0,0,0,0,0,0
+51107,Virginia,Loudoun County,685,27,0,12,0,1,0,0
+51109,Virginia,Louisa County,25,11,0,3,0,0,0,0
+51111,Virginia,Lunenburg County,1,4,0,2,1,0,0,0
+51113,Virginia,Madison County,19,0,0,1,0,0,0,0
+51115,Virginia,Mathews County,2,0,0,0,0,0,0,0
+51117,Virginia,Mecklenburg County,3,6,0,0,0,0,0,0
+51119,Virginia,Middlesex County,6,0,0,0,0,0,0,0
+51121,Virginia,Montgomery County,235,4,0,2,0,0,0,0
+51125,Virginia,Nelson County,23,6,0,1,0,0,0,0
+51127,Virginia,New Kent County,2,1,0,1,0,0,0,0
+51131,Virginia,Northampton County,4,6,1,2,1,0,0,0
+51133,Virginia,Northumberland County,5,0,0,0,0,0,0,0
+51135,Virginia,Nottoway County,3,6,1,3,0,0,0,1
+51137,Virginia,Orange County,27,16,0,5,1,0,0,1
+51139,Virginia,Page County,34,8,0,2,0,0,0,0
+51141,Virginia,Patrick County,10,25,0,2,1,0,0,0
+51143,Virginia,Pittsylvania County,1,8,0,3,0,0,0,0
+51145,Virginia,Powhatan County,2,16,0,2,0,0,0,1
+51147,Virginia,Prince Edward County,6,9,0,3,1,0,0,0
+51149,Virginia,Prince George County,3,4,0,2,0,0,0,0
+51153,Virginia,Prince William County,187,30,0,7,1,0,0,2
+51155,Virginia,Pulaski County,154,4,0,0,0,1,0,0
+51157,Virginia,Rappahannock County,17,2,0,1,0,0,0,0
+51159,Virginia,Richmond County,1,0,0,0,0,0,0,0
+51161,Virginia,Roanoke County,99,15,0,7,1,0,0,0
+51163,Virginia,Rockbridge County,43,3,0,3,0,0,0,1
+51165,Virginia,Rockingham County,84,6,0,1,0,0,0,0
+51167,Virginia,Russell County,0,0,0,0,0,0,0,0
+51169,Virginia,Scott County,3,1,0,0,0,0,0,0
+51171,Virginia,Shenandoah County,66,9,0,0,0,0,0,0
+51173,Virginia,Smyth County,18,0,0,0,0,0,0,0
+51175,Virginia,Southampton County,2,1,0,4,0,0,0,0
+51177,Virginia,Spotsylvania County,39,20,0,4,0,0,1,1
+51179,Virginia,Stafford County,54,20,0,6,2,0,0,0
+51181,Virginia,Surry County,2,0,0,1,0,0,0,0
+51183,Virginia,Sussex County,3,4,0,1,0,0,0,0
+51185,Virginia,Tazewell County,7,1,0,0,0,0,0,1
+51187,Virginia,Warren County,83,14,0,6,1,0,0,0
+51191,Virginia,Washington County,5,1,0,0,0,0,0,0
+51193,Virginia,Westmoreland County,3,0,0,1,0,0,0,0
+51195,Virginia,Wise County,1,0,0,0,0,0,0,0
+51197,Virginia,Wythe County,104,8,0,0,0,0,0,0
+51199,Virginia,York County,5,1,0,2,0,0,0,0
+51510,Virginia,Alexandria city,59,4,0,2,3,0,0,0
+51520,Virginia,Bristol city,0,1,0,0,0,0,0,0
+51530,Virginia,Buena Vista city,4,0,0,0,0,0,0,0
+51540,Virginia,Charlottesville city,57,7,0,4,1,0,0,0
+51550,Virginia,Chesapeake city,18,9,0,6,1,0,0,0
+51570,Virginia,Colonial Heights city,3,0,0,2,0,0,0,0
+51580,Virginia,Covington city,7,1,0,0,0,0,0,0
+51590,Virginia,Danville city,0,4,0,1,0,0,0,0
+51595,Virginia,Emporia city,1,0,0,0,0,0,0,0
+51600,Virginia,Fairfax city,2,0,0,0,0,0,0,0
+51610,Virginia,Falls Church city,1,1,0,0,0,0,0,0
+51620,Virginia,Franklin city,1,0,0,0,0,0,0,0
+51630,Virginia,Fredericksburg city,8,9,0,6,0,0,0,0
+51640,Virginia,Galax city,77,1,0,0,0,0,0,0
+51650,Virginia,Hampton city,6,3,0,0,0,1,0,0
+51660,Virginia,Harrisonburg city,19,3,0,0,0,0,0,0
+51670,Virginia,Hopewell city,1,3,0,0,0,0,0,0
+51678,Virginia,Lexington city,5,0,0,0,0,0,0,0
+51680,Virginia,Lynchburg city,45,27,1,11,4,0,0,0
+51683,Virginia,Manassas city,19,1,0,0,0,0,0,0
+51685,Virginia,Manassas Park city,9,0,0,0,0,0,0,0
+51690,Virginia,Martinsville city,2,6,0,4,0,0,0,0
+51700,Virginia,Newport News city,10,4,0,1,0,0,0,0
+51710,Virginia,Norfolk city,10,8,0,1,0,0,0,0
+51730,Virginia,Petersburg city,1,4,0,0,0,0,0,0
+51735,Virginia,Poquoson city,2,1,0,0,0,0,0,0
+51740,Virginia,Portsmouth city,0,1,0,0,1,0,0,0
+51750,Virginia,Radford city,50,2,0,0,0,0,0,0
+51760,Virginia,Richmond city,34,16,0,4,1,0,0,0
+51770,Virginia,Roanoke city,102,4,0,4,0,1,0,0
+51775,Virginia,Salem city,13,0,0,0,0,0,0,0
+51790,Virginia,Staunton city,44,0,0,0,0,0,0,0
+51800,Virginia,Suffolk city,2,5,0,1,0,0,0,0
+51810,Virginia,Virginia Beach city,44,13,1,1,1,0,0,1
+51820,Virginia,Waynesboro city,16,0,0,1,0,0,0,0
+51830,Virginia,Williamsburg city,2,0,0,1,0,0,0,0
+51840,Virginia,Winchester city,37,1,0,2,0,0,0,0
+53001,Washington,Adams County,1,0,0,0,0,0,0,0
+53005,Washington,Benton County,2,1,0,0,0,0,0,0
+53007,Washington,Chelan County,0,0,0,0,0,0,0,0
+53009,Washington,Clallam County,1,0,0,0,1,0,0,0
+53011,Washington,Clark County,2,0,0,0,1,0,0,0
+53015,Washington,Cowlitz County,1,0,0,0,0,0,0,0
+53017,Washington,Douglas County,0,0,0,0,0,0,0,0
+53019,Washington,Ferry County,0,0,0,0,0,0,0,0
+53021,Washington,Franklin County,0,0,0,0,0,0,0,0
+53027,Washington,Grays Harbor County,1,0,0,0,0,0,0,0
+53029,Washington,Island County,1,0,0,0,0,0,0,0
+53031,Washington,Jefferson County,2,0,0,0,0,0,0,0
+53033,Washington,King County,49,3,2,1,0,2,0,0
+53035,Washington,Kitsap County,10,1,0,0,0,1,0,0
+53037,Washington,Kittitas County,1,0,0,0,0,0,0,0
+53039,Washington,Klickitat County,3,1,0,0,0,0,0,0
+53041,Washington,Lewis County,0,0,0,0,0,2,0,0
+53045,Washington,Mason County,1,2,0,0,0,0,0,0
+53047,Washington,Okanogan County,0,0,0,0,0,0,0,0
+53049,Washington,Pacific County,0,0,0,0,0,0,0,0
+53053,Washington,Pierce County,15,0,0,1,0,1,0,0
+53055,Washington,San Juan County,0,0,0,0,0,0,0,0
+53057,Washington,Skagit County,3,0,0,0,0,0,0,0
+53061,Washington,Snohomish County,7,0,0,0,0,5,0,0
+53063,Washington,Spokane County,9,1,0,0,0,2,0,0
+53065,Washington,Stevens County,0,0,0,0,0,0,0,0
+53067,Washington,Thurston County,10,0,0,0,0,0,0,0
+53071,Washington,Walla Walla County,0,0,0,0,0,0,0,0
+53073,Washington,Whatcom County,8,2,0,0,0,1,0,0
+53075,Washington,Whitman County,2,1,0,0,0,0,0,0
+53077,Washington,Yakima County,2,0,0,0,0,1,0,0
+54001,West Virginia,Barbour County,51,1,0,0,0,0,0,0
+54003,West Virginia,Berkeley County,162,7,0,2,0,0,0,0
+54005,West Virginia,Boone County,10,0,0,0,0,0,0,0
+54007,West Virginia,Braxton County,12,0,0,0,0,0,0,0
+54009,West Virginia,Brooke County,45,0,0,0,0,0,0,0
+54011,West Virginia,Cabell County,170,5,0,2,0,0,0,0
+54013,West Virginia,Calhoun County,8,0,0,0,0,0,0,0
+54015,West Virginia,Clay County,4,0,0,0,0,0,0,0
+54017,West Virginia,Doddridge County,6,0,0,0,0,0,0,0
+54019,West Virginia,Fayette County,13,0,0,0,0,0,0,0
+54021,West Virginia,Gilmer County,5,0,0,0,0,0,0,0
+54023,West Virginia,Grant County,12,1,0,0,0,0,0,0
+54025,West Virginia,Greenbrier County,61,1,1,0,0,0,0,0
+54027,West Virginia,Hampshire County,119,6,0,0,0,0,0,0
+54029,West Virginia,Hancock County,177,0,0,0,0,0,0,0
+54031,West Virginia,Hardy County,25,2,0,0,0,0,0,0
+54033,West Virginia,Harrison County,64,1,0,0,0,0,0,0
+54035,West Virginia,Jackson County,4,0,0,0,0,0,0,0
+54037,West Virginia,Jefferson County,101,6,0,1,0,0,0,0
+54039,West Virginia,Kanawha County,53,3,0,1,0,0,0,0
+54041,West Virginia,Lewis County,19,0,0,0,0,0,0,0
+54043,West Virginia,Lincoln County,3,1,0,2,0,0,0,0
+54045,West Virginia,Logan County,0,0,0,0,0,0,0,0
+54047,West Virginia,McDowell County,1,1,0,0,0,0,0,0
+54049,West Virginia,Marion County,41,2,0,0,0,0,0,0
+54051,West Virginia,Marshall County,34,0,0,0,0,0,0,0
+54053,West Virginia,Mason County,2,3,0,3,0,0,0,0
+54055,West Virginia,Mercer County,32,1,0,0,1,0,0,0
+54057,West Virginia,Mineral County,66,1,0,0,0,0,0,0
+54059,West Virginia,Mingo County,26,0,0,0,0,0,0,0
+54061,West Virginia,Monongalia County,127,2,0,0,0,0,0,0
+54063,West Virginia,Monroe County,49,0,0,1,1,0,0,0
+54065,West Virginia,Morgan County,68,1,0,0,0,0,0,0
+54067,West Virginia,Nicholas County,4,0,0,0,0,0,0,0
+54069,West Virginia,Ohio County,53,0,0,0,0,0,0,0
+54071,West Virginia,Pendleton County,11,1,1,1,0,0,0,0
+54073,West Virginia,Pleasants County,10,0,0,0,0,0,0,0
+54075,West Virginia,Pocahontas County,20,0,0,0,0,0,0,0
+54077,West Virginia,Preston County,28,0,0,0,0,0,0,0
+54079,West Virginia,Putnam County,6,1,0,2,0,0,0,1
+54081,West Virginia,Raleigh County,24,8,0,1,0,0,0,0
+54083,West Virginia,Randolph County,16,1,0,0,0,0,0,0
+54085,West Virginia,Ritchie County,4,0,0,0,0,0,0,0
+54087,West Virginia,Roane County,11,1,0,0,1,0,0,0
+54089,West Virginia,Summers County,11,0,0,0,0,0,0,0
+54091,West Virginia,Taylor County,19,0,0,0,0,0,0,0
+54093,West Virginia,Tucker County,9,0,0,0,0,0,0,0
+54095,West Virginia,Tyler County,2,0,0,0,0,0,0,0
+54097,West Virginia,Upshur County,81,2,0,1,0,1,0,1
+54099,West Virginia,Wayne County,5,2,0,0,0,0,0,0
+54101,West Virginia,Webster County,6,0,0,0,0,0,0,0
+54103,West Virginia,Wetzel County,39,0,0,0,0,0,0,0
+54105,West Virginia,Wirt County,0,0,0,0,0,0,0,0
+54107,West Virginia,Wood County,30,0,0,2,0,0,0,0
+54109,West Virginia,Wyoming County,1,0,0,0,0,0,0,0
+55001,Wisconsin,Adams County,150,4,1,0,20,0,0,1
+55003,Wisconsin,Ashland County,16,1,0,0,3,0,0,0
+55005,Wisconsin,Barron County,138,2,10,4,73,0,0,11
+55007,Wisconsin,Bayfield County,58,0,4,6,36,0,0,4
+55009,Wisconsin,Brown County,334,2,7,6,12,0,0,11
+55011,Wisconsin,Buffalo County,42,0,6,4,21,0,0,4
+55013,Wisconsin,Burnett County,100,0,1,4,52,1,0,3
+55015,Wisconsin,Calumet County,44,0,1,3,2,0,0,5
+55017,Wisconsin,Chippewa County,146,2,7,9,60,0,0,16
+55019,Wisconsin,Clark County,30,0,5,1,12,0,0,1
+55021,Wisconsin,Columbia County,187,0,3,1,6,0,0,0
+55023,Wisconsin,Crawford County,71,1,0,0,17,0,0,3
+55025,Wisconsin,Dane County,582,11,6,7,43,0,1,7
+55027,Wisconsin,Dodge County,89,0,1,0,3,0,0,0
+55029,Wisconsin,Door County,91,0,0,3,1,0,0,1
+55031,Wisconsin,Douglas County,175,1,4,5,53,0,0,3
+55033,Wisconsin,Dunn County,115,0,11,8,42,0,0,14
+55035,Wisconsin,Eau Claire County,209,0,19,14,72,0,0,17
+55037,Wisconsin,Florence County,30,2,0,0,2,0,0,0
+55039,Wisconsin,Fond du Lac County,107,1,1,1,5,0,0,0
+55041,Wisconsin,Forest County,11,1,0,0,15,0,0,1
+55043,Wisconsin,Grant County,98,0,1,1,8,1,0,1
+55045,Wisconsin,Green County,35,1,0,0,1,0,0,0
+55047,Wisconsin,Green Lake County,49,0,1,1,8,0,0,3
+55049,Wisconsin,Iowa County,46,0,0,1,4,0,0,0
+55051,Wisconsin,Iron County,8,0,0,0,1,0,0,0
+55053,Wisconsin,Jackson County,90,0,7,3,23,0,0,3
+55055,Wisconsin,Jefferson County,65,0,0,0,2,0,0,0
+55057,Wisconsin,Juneau County,161,0,4,0,16,0,0,0
+55059,Wisconsin,Kenosha County,105,2,0,0,3,0,0,0
+55061,Wisconsin,Kewaunee County,21,1,0,0,1,0,0,0
+55063,Wisconsin,La Crosse County,170,1,2,11,41,1,0,4
+55065,Wisconsin,Lafayette County,10,1,0,0,0,0,0,0
+55067,Wisconsin,Langlade County,35,0,2,0,18,0,0,1
+55069,Wisconsin,Lincoln County,107,0,6,0,32,0,0,0
+55071,Wisconsin,Manitowoc County,55,0,0,1,3,0,0,0
+55073,Wisconsin,Marathon County,257,3,21,3,151,0,1,7
+55075,Wisconsin,Marinette County,279,1,7,5,51,0,0,6
+55077,Wisconsin,Marquette County,179,0,0,0,17,0,0,1
+55078,Wisconsin,Menominee County,32,0,4,0,14,0,0,1
+55079,Wisconsin,Milwaukee County,830,9,6,3,15,0,0,0
+55081,Wisconsin,Monroe County,121,1,9,2,28,0,0,5
+55083,Wisconsin,Oconto County,172,1,1,2,22,1,0,3
+55085,Wisconsin,Oneida County,176,0,7,2,93,0,0,4
+55087,Wisconsin,Outagamie County,173,2,11,11,40,0,0,13
+55089,Wisconsin,Ozaukee County,51,0,1,0,0,0,0,0
+55091,Wisconsin,Pepin County,15,0,1,3,12,0,0,2
+55093,Wisconsin,Pierce County,117,0,3,6,15,0,0,3
+55095,Wisconsin,Polk County,174,2,2,1,68,0,0,6
+55097,Wisconsin,Portage County,218,2,6,3,101,0,0,4
+55099,Wisconsin,Price County,54,0,4,0,24,0,0,2
+55101,Wisconsin,Racine County,142,1,2,4,2,0,0,0
+55103,Wisconsin,Richland County,119,0,1,4,14,0,0,2
+55105,Wisconsin,Rock County,85,5,1,2,6,0,0,0
+55107,Wisconsin,Rusk County,30,0,1,1,15,0,0,1
+55109,Wisconsin,St. Croix County,140,2,7,9,28,0,0,6
+55111,Wisconsin,Sauk County,296,1,3,2,13,1,0,0
+55113,Wisconsin,Sawyer County,72,2,2,1,33,0,0,4
+55115,Wisconsin,Shawano County,100,1,9,4,48,0,0,9
+55117,Wisconsin,Sheboygan County,43,0,0,1,3,0,0,0
+55119,Wisconsin,Taylor County,61,1,0,0,9,0,0,0
+55121,Wisconsin,Trempealeau County,79,0,7,4,29,0,0,6
+55123,Wisconsin,Vernon County,195,0,3,0,53,0,0,1
+55125,Wisconsin,Vilas County,73,0,2,1,31,0,0,3
+55127,Wisconsin,Walworth County,84,1,1,1,8,0,0,1
+55129,Wisconsin,Washburn County,143,0,6,14,100,0,0,6
+55131,Wisconsin,Washington County,121,1,1,2,4,0,0,1
+55133,Wisconsin,Waukesha County,377,5,1,1,9,0,0,0
+55135,Wisconsin,Waupaca County,176,0,14,23,113,0,0,34
+55137,Wisconsin,Waushara County,95,1,7,16,33,0,0,8
+55139,Wisconsin,Winnebago County,117,3,6,2,28,0,0,4
+55141,Wisconsin,Wood County,161,5,10,1,52,0,0,3
+56001,Wyoming,Albany County,2,0,0,0,0,0,0,0
+56003,Wyoming,Big Horn County,0,1,0,0,0,1,0,0
+56005,Wyoming,Campbell County,0,1,0,0,0,1,0,0
+56009,Wyoming,Converse County,0,1,0,0,0,0,0,0
+56013,Wyoming,Fremont County,1,0,0,0,0,1,0,0
+56019,Wyoming,Johnson County,0,0,0,0,0,0,0,0
+56021,Wyoming,Laramie County,1,2,0,0,1,2,0,0
+56023,Wyoming,Lincoln County,0,0,0,0,0,0,0,0
+56025,Wyoming,Natrona County,0,1,0,0,0,2,0,0
+56029,Wyoming,Park County,1,0,0,0,0,0,0,0
+56033,Wyoming,Sheridan County,0,1,0,0,0,1,0,0
+56035,Wyoming,Sublette County,0,0,0,0,0,0,0,0
+56037,Wyoming,Sweetwater County,0,3,0,0,0,2,0,0
+56039,Wyoming,Teton County,2,0,0,0,0,1,0,0
+56045,Wyoming,Weston County,0,0,0,0,0,1,0,0
