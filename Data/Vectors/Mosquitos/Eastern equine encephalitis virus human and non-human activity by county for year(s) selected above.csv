@@ -1,0 +1,717 @@
+FullGeoName,Year,County,Activity,Total human disease cases,Neuroinvasive disease cases
+"AL, Autauga",2003-2022,01001,Non-human activity,0,0
+"AL, Baldwin",2003-2022,01003,Human disease cases and non-human activity,4,4
+"AL, Bibb",2003-2022,01007,Non-human activity,0,0
+"AL, Bullock",2003-2022,01011,Non-human activity,0,0
+"AL, Butler",2003-2022,01013,Non-human activity,0,0
+"AL, Cherokee",2003-2022,01019,Non-human activity,0,0
+"AL, Chilton",2003-2022,01021,Non-human activity,0,0
+"AL, Choctaw",2003-2022,01023,Non-human activity,0,0
+"AL, Clarke",2003-2022,01025,Non-human activity,0,0
+"AL, Clay",2003-2022,01027,Non-human activity,0,0
+"AL, Conecuh",2003-2022,01035,Human disease cases and non-human activity,1,1
+"AL, Coosa",2003-2022,01037,Non-human activity,0,0
+"AL, Covington",2003-2022,01039,Non-human activity,0,0
+"AL, Cullman",2003-2022,01043,Non-human activity,0,0
+"AL, Dale",2003-2022,01045,Non-human activity,0,0
+"AL, Dallas",2003-2022,01047,Non-human activity,0,0
+"AL, De Kalb",2003-2022,01049,Non-human activity,0,0
+"AL, Elmore",2003-2022,01051,Non-human activity,0,0
+"AL, Escambia",2003-2022,01053,Human disease cases and non-human activity,2,2
+"AL, Fayette",2003-2022,01057,Non-human activity,0,0
+"AL, Geneva",2003-2022,01061,Non-human activity,0,0
+"AL, Greene",2003-2022,01063,Non-human activity,0,0
+"AL, Hale",2003-2022,01065,Non-human activity,0,0
+"AL, Henry",2003-2022,01067,Non-human activity,0,0
+"AL, Houston",2003-2022,01069,Non-human activity,0,0
+"AL, Jackson",2003-2022,01071,Non-human activity,0,0
+"AL, Jefferson",2003-2022,01073,Non-human activity,0,0
+"AL, Lawrence",2003-2022,01079,Non-human activity,0,0
+"AL, Lee",2003-2022,01081,Non-human activity,0,0
+"AL, Limestone",2003-2022,01083,Non-human activity,0,0
+"AL, Lowndes",2003-2022,01085,Non-human activity,0,0
+"AL, Macon",2003-2022,01087,Non-human activity,0,0
+"AL, Marengo",2003-2022,01091,Non-human activity,0,0
+"AL, Marion",2003-2022,01093,Non-human activity,0,0
+"AL, Marshall",2003-2022,01095,Non-human activity,0,0
+"AL, Mobile",2003-2022,01097,Human disease cases and non-human activity,1,1
+"AL, Monroe",2003-2022,01099,Non-human activity,0,0
+"AL, Montgomery",2003-2022,01101,Non-human activity,0,0
+"AL, Morgan",2003-2022,01103,Non-human activity,0,0
+"AL, Perry",2003-2022,01105,Non-human activity,0,0
+"AL, Pike",2003-2022,01109,Non-human activity,0,0
+"AL, Russell",2003-2022,01113,Non-human activity,0,0
+"AL, Tuscaloosa",2003-2022,01125,Non-human activity,0,0
+"AL, Walker",2003-2022,01127,Non-human activity,0,0
+"AL, Washington",2003-2022,01129,Non-human activity,0,0
+"AL, Wilcox",2003-2022,01131,Non-human activity,0,0
+"AL, Winston",2003-2022,01133,Non-human activity,0,0
+"AR, Arkansas",2003-2022,05001,Non-human activity,0,0
+"AR, Benton",2003-2022,05007,Non-human activity,0,0
+"AR, Boone",2003-2022,05009,Non-human activity,0,0
+"AR, Chicot",2003-2022,05017,Non-human activity,0,0
+"AR, Desha",2003-2022,05041,Non-human activity,0,0
+"AR, Garland",2003-2022,05051,Non-human activity,0,0
+"AR, Greene",2003-2022,05055,Non-human activity,0,0
+"AR, Hot Spring",2003-2022,05059,Non-human activity,0,0
+"AR, Howard",2003-2022,05061,Non-human activity,0,0
+"AR, Independence",2003-2022,05063,Non-human activity,0,0
+"AR, Izard",2003-2022,05065,Non-human activity,0,0
+"AR, Jefferson",2003-2022,05069,Non-human activity,0,0
+"AR, Little River",2003-2022,05081,Non-human activity,0,0
+"AR, Lonoke",2003-2022,05085,Non-human activity,0,0
+"AR, Madison",2003-2022,05087,Non-human activity,0,0
+"AR, Montgomery",2003-2022,05097,Non-human activity,0,0
+"AR, Ouachita",2003-2022,05103,Non-human activity,0,0
+"AR, Pope",2003-2022,05115,Non-human activity,0,0
+"AR, Prairie",2003-2022,05117,Non-human activity,0,0
+"AR, Pulaski",2003-2022,05119,Non-human activity,0,0
+"AR, St Francis",2003-2022,05123,Non-human activity,0,0
+"AR, Saline",2003-2022,05125,Non-human activity,0,0
+"AR, Scott",2003-2022,05127,Non-human activity,0,0
+"AR, Sevier",2003-2022,05133,Human disease cases and non-human activity,1,1
+"AR, Stone",2003-2022,05137,Non-human activity,0,0
+"AR, Union",2003-2022,05139,Non-human activity,0,0
+"AR, Van Buren",2003-2022,05141,Non-human activity,0,0
+"AR, White",2003-2022,05145,Non-human activity,0,0
+"AR, Yell",2003-2022,05149,Non-human activity,0,0
+"CT, Fairfield",2003-2022,09001,Non-human activity,0,0
+"CT, Hartford",2003-2022,09003,Non-human activity,0,0
+"CT, Middlesex",2003-2022,09007,Human disease cases and non-human activity,1,1
+"CT, New Haven",2003-2022,09009,Non-human activity,0,0
+"CT, New London",2003-2022,09011,Human disease cases and non-human activity,3,3
+"CT, Tolland",2003-2022,09013,Non-human activity,0,0
+"CT, Windham",2003-2022,09015,Human disease cases and non-human activity,1,1
+"DE, Kent",2003-2022,10001,Non-human activity,0,0
+"DE, New Castle",2003-2022,10003,Non-human activity,0,0
+"DE, Sussex",2003-2022,10005,Non-human activity,0,0
+"FL, Alachua",2003-2022,12001,Non-human activity,0,0
+"FL, Baker",2003-2022,12003,Non-human activity,0,0
+"FL, Bay",2003-2022,12005,Human disease cases and non-human activity,1,1
+"FL, Bradford",2003-2022,12007,Human disease cases and non-human activity,1,1
+"FL, Brevard",2003-2022,12009,Non-human activity,0,0
+"FL, Calhoun",2003-2022,12013,Non-human activity,0,0
+"FL, Charlotte",2003-2022,12015,Non-human activity,0,0
+"FL, Citrus",2003-2022,12017,Non-human activity,0,0
+"FL, Clay",2003-2022,12019,Non-human activity,0,0
+"FL, Collier",2003-2022,12021,Non-human activity,0,0
+"FL, Columbia",2003-2022,12023,Non-human activity,0,0
+"FL, De Soto",2003-2022,12027,Non-human activity,0,0
+"FL, Dixie",2003-2022,12029,Non-human activity,0,0
+"FL, Duval",2003-2022,12031,Human disease cases and non-human activity,2,2
+"FL, Escambia",2003-2022,12033,Non-human activity,0,0
+"FL, Flagler",2003-2022,12035,Non-human activity,0,0
+"FL, Franklin",2003-2022,12037,Non-human activity,0,0
+"FL, Gadsden",2003-2022,12039,Human disease cases and non-human activity,1,1
+"FL, Gilchrist",2003-2022,12041,Non-human activity,0,0
+"FL, Glades",2003-2022,12043,Non-human activity,0,0
+"FL, Gulf",2003-2022,12045,Non-human activity,0,0
+"FL, Hamilton",2003-2022,12047,Non-human activity,0,0
+"FL, Hardee",2003-2022,12049,Non-human activity,0,0
+"FL, Hendry",2003-2022,12051,Non-human activity,0,0
+"FL, Hernando",2003-2022,12053,Non-human activity,0,0
+"FL, Highlands",2003-2022,12055,Non-human activity,0,0
+"FL, Hillsborough",2003-2022,12057,Human disease cases and non-human activity,3,3
+"FL, Holmes",2003-2022,12059,Human disease cases and non-human activity,1,1
+"FL, Indian River",2003-2022,12061,Non-human activity,0,0
+"FL, Jackson",2003-2022,12063,Non-human activity,0,0
+"FL, Jefferson",2003-2022,12065,Non-human activity,0,0
+"FL, Lafayette",2003-2022,12067,Non-human activity,0,0
+"FL, Lake",2003-2022,12069,Non-human activity,0,0
+"FL, Lee",2003-2022,12071,Non-human activity,0,0
+"FL, Leon",2003-2022,12073,Human disease cases and non-human activity,3,3
+"FL, Levy",2003-2022,12075,Human disease cases and non-human activity,1,1
+"FL, Liberty",2003-2022,12077,Non-human activity,0,0
+"FL, Madison",2003-2022,12079,Non-human activity,0,0
+"FL, Manatee",2003-2022,12081,Non-human activity,0,0
+"FL, Marion",2003-2022,12083,Non-human activity,0,0
+"FL, Martin",2003-2022,12085,Non-human activity,0,0
+"FL, Miami-Dade",2003-2022,12086,Human disease cases and non-human activity,1,1
+"FL, Monroe",2003-2022,12087,Non-human activity,0,0
+"FL, Nassau",2003-2022,12089,Non-human activity,0,0
+"FL, Okaloosa",2003-2022,12091,Human disease cases and non-human activity,1,1
+"FL, Okeechobee",2003-2022,12093,Non-human activity,0,0
+"FL, Orange",2003-2022,12095,Human disease cases and non-human activity,1,1
+"FL, Osceola",2003-2022,12097,Non-human activity,0,0
+"FL, Palm Beach",2003-2022,12099,Non-human activity,0,0
+"FL, Pasco",2003-2022,12101,Human disease cases and non-human activity,1,1
+"FL, Pinellas",2003-2022,12103,Non-human activity,0,0
+"FL, Polk",2003-2022,12105,Human disease cases and non-human activity,1,1
+"FL, Putnam",2003-2022,12107,Non-human activity,0,0
+"FL, St Johns",2003-2022,12109,Non-human activity,0,0
+"FL, St Lucie",2003-2022,12111,Non-human activity,0,0
+"FL, Santa Rosa",2003-2022,12113,Non-human activity,0,0
+"FL, Sarasota",2003-2022,12115,Non-human activity,0,0
+"FL, Seminole",2003-2022,12117,Non-human activity,0,0
+"FL, Sumter",2003-2022,12119,Non-human activity,0,0
+"FL, Suwannee",2003-2022,12121,Human disease cases and non-human activity,1,1
+"FL, Taylor",2003-2022,12123,Human disease cases and non-human activity,1,1
+"FL, Union",2003-2022,12125,Non-human activity,0,0
+"FL, Volusia",2003-2022,12127,Human disease cases and non-human activity,1,1
+"FL, Wakulla",2003-2022,12129,Human disease cases and non-human activity,1,1
+"FL, Walton",2003-2022,12131,Non-human activity,0,0
+"FL, Washington",2003-2022,12133,Non-human activity,0,0
+"GA, Appling",2003-2022,13001,Non-human activity,0,0
+"GA, Atkinson",2003-2022,13003,Non-human activity,0,0
+"GA, Bacon",2003-2022,13005,Non-human activity,0,0
+"GA, Baker",2003-2022,13007,Non-human activity,0,0
+"GA, Baldwin",2003-2022,13009,Non-human activity,0,0
+"GA, Bartow",2003-2022,13015,Non-human activity,0,0
+"GA, Ben Hill",2003-2022,13017,Non-human activity,0,0
+"GA, Berrien",2003-2022,13019,Non-human activity,0,0
+"GA, Bibb",2003-2022,13021,Non-human activity,0,0
+"GA, Bleckley",2003-2022,13023,Non-human activity,0,0
+"GA, Brantley",2003-2022,13025,Non-human activity,0,0
+"GA, Brooks",2003-2022,13027,Non-human activity,0,0
+"GA, Bryan",2003-2022,13029,Non-human activity,0,0
+"GA, Bulloch",2003-2022,13031,Non-human activity,0,0
+"GA, Burke",2003-2022,13033,Non-human activity,0,0
+"GA, Calhoun",2003-2022,13037,Non-human activity,0,0
+"GA, Camden",2003-2022,13039,Human disease cases and non-human activity,1,1
+"GA, Candler",2003-2022,13043,Non-human activity,0,0
+"GA, Carroll",2003-2022,13045,Non-human activity,0,0
+"GA, Charlton",2003-2022,13049,Non-human activity,0,0
+"GA, Chatham",2003-2022,13051,Human disease cases and non-human activity,1,1
+"GA, Chattooga",2003-2022,13055,Non-human activity,0,0
+"GA, Clinch",2003-2022,13065,Human disease cases and non-human activity,1,1
+"GA, Coffee",2003-2022,13069,Non-human activity,0,0
+"GA, Colquitt",2003-2022,13071,Non-human activity,0,0
+"GA, Cook",2003-2022,13075,Non-human activity,0,0
+"GA, Crawford",2003-2022,13079,Non-human activity,0,0
+"GA, Crisp",2003-2022,13081,Non-human activity,0,0
+"GA, Decatur",2003-2022,13087,Non-human activity,0,0
+"GA, De Kalb",2003-2022,13089,Non-human activity,0,0
+"GA, Dooly",2003-2022,13093,Non-human activity,0,0
+"GA, Dougherty",2003-2022,13095,Non-human activity,0,0
+"GA, Early",2003-2022,13099,Non-human activity,0,0
+"GA, Echols",2003-2022,13101,Non-human activity,0,0
+"GA, Effingham",2003-2022,13103,Non-human activity,0,0
+"GA, Emanuel",2003-2022,13107,Non-human activity,0,0
+"GA, Evans",2003-2022,13109,Non-human activity,0,0
+"GA, Fayette",2003-2022,13113,Non-human activity,0,0
+"GA, Glascock",2003-2022,13125,Non-human activity,0,0
+"GA, Glynn",2003-2022,13127,Human disease cases and non-human activity,2,2
+"GA, Grady",2003-2022,13131,Non-human activity,0,0
+"GA, Houston",2003-2022,13153,Human disease cases and non-human activity,1,1
+"GA, Irwin",2003-2022,13155,Non-human activity,0,0
+"GA, Jeff Davis",2003-2022,13161,Non-human activity,0,0
+"GA, Jefferson",2003-2022,13163,Non-human activity,0,0
+"GA, Jenkins",2003-2022,13165,Non-human activity,0,0
+"GA, Johnson",2003-2022,13167,Non-human activity,0,0
+"GA, Lanier",2003-2022,13173,Non-human activity,0,0
+"GA, Laurens",2003-2022,13175,Non-human activity,0,0
+"GA, Lee",2003-2022,13177,Non-human activity,0,0
+"GA, Liberty",2003-2022,13179,Human disease cases and non-human activity,1,1
+"GA, Lincoln",2003-2022,13181,Non-human activity,0,0
+"GA, Long",2003-2022,13183,Non-human activity,0,0
+"GA, Lowndes",2003-2022,13185,Human disease cases and non-human activity,2,2
+"GA, Mcduffie",2003-2022,13189,Non-human activity,0,0
+"GA, Macon",2003-2022,13193,Non-human activity,0,0
+"GA, Marion",2003-2022,13197,Non-human activity,0,0
+"GA, Meriwether",2003-2022,13199,Non-human activity,0,0
+"GA, Mitchell",2003-2022,13205,Non-human activity,0,0
+"GA, Montgomery",2003-2022,13209,Non-human activity,0,0
+"GA, Muscogee",2003-2022,13215,Human disease cases,1,1
+"GA, Peach",2003-2022,13225,Non-human activity,0,0
+"GA, Pierce",2003-2022,13229,Non-human activity,0,0
+"GA, Richmond",2003-2022,13245,Non-human activity,0,0
+"GA, Screven",2003-2022,13251,Non-human activity,0,0
+"GA, Seminole",2003-2022,13253,Non-human activity,0,0
+"GA, Tattnall",2003-2022,13267,Human disease cases and non-human activity,1,1
+"GA, Terrell",2003-2022,13273,Non-human activity,0,0
+"GA, Thomas",2003-2022,13275,Human disease cases and non-human activity,1,1
+"GA, Tift",2003-2022,13277,Non-human activity,0,0
+"GA, Treutlen",2003-2022,13283,Non-human activity,0,0
+"GA, Twiggs",2003-2022,13289,Non-human activity,0,0
+"GA, Walton",2003-2022,13297,Non-human activity,0,0
+"GA, Ware",2003-2022,13299,Non-human activity,0,0
+"GA, Washington",2003-2022,13303,Non-human activity,0,0
+"GA, Wayne",2003-2022,13305,Non-human activity,0,0
+"GA, Wheeler",2003-2022,13309,Non-human activity,0,0
+"GA, Whitfield",2003-2022,13313,Human disease cases,1,1
+"GA, Wilcox",2003-2022,13315,Non-human activity,0,0
+"GA, Wilkinson",2003-2022,13319,Non-human activity,0,0
+"GA, Worth",2003-2022,13321,Non-human activity,0,0
+"IL, Cook",2003-2022,17031,Non-human activity,0,0
+"IL, Massac",2003-2022,17127,Non-human activity,0,0
+"IN, Adams",2003-2022,18001,Non-human activity,0,0
+"IN, Boone",2003-2022,18011,Non-human activity,0,0
+"IN, Daviess",2003-2022,18027,Non-human activity,0,0
+"IN, Decatur",2003-2022,18031,Non-human activity,0,0
+"IN, De Kalb",2003-2022,18033,Non-human activity,0,0
+"IN, Delaware",2003-2022,18035,Non-human activity,0,0
+"IN, Elkhart",2003-2022,18039,Human disease cases and non-human activity,1,1
+"IN, Franklin",2003-2022,18047,Non-human activity,0,0
+"IN, Hendricks",2003-2022,18063,Non-human activity,0,0
+"IN, Howard",2003-2022,18067,Non-human activity,0,0
+"IN, Jay",2003-2022,18075,Non-human activity,0,0
+"IN, Kosciusko",2003-2022,18085,Non-human activity,0,0
+"IN, La Grange",2003-2022,18087,Non-human activity,0,0
+"IN, La Porte",2003-2022,18091,Human disease cases and non-human activity,1,1
+"IN, Madison",2003-2022,18095,Non-human activity,0,0
+"IN, Marshall",2003-2022,18099,Non-human activity,0,0
+"IN, Martin",2003-2022,18101,Non-human activity,0,0
+"IN, Noble",2003-2022,18113,Non-human activity,0,0
+"IN, Owen",2003-2022,18119,Non-human activity,0,0
+"IN, Putnam",2003-2022,18133,Non-human activity,0,0
+"IN, Rush",2003-2022,18139,Non-human activity,0,0
+"IN, St Joseph",2003-2022,18141,Non-human activity,0,0
+"IN, Steuben",2003-2022,18151,Non-human activity,0,0
+"IN, Whitley",2003-2022,18183,Non-human activity,0,0
+"KY, Carlisle",2003-2022,21039,Non-human activity,0,0
+"KY, Gallatin",2003-2022,21077,Non-human activity,0,0
+"KY, Hart",2003-2022,21099,Non-human activity,0,0
+"LA, Acadia Parish",2003-2022,22001,Non-human activity,0,0
+"LA, Allen Parish",2003-2022,22003,Non-human activity,0,0
+"LA, Ascension Parish",2003-2022,22005,Human disease cases and non-human activity,1,1
+"LA, Assumption Parish",2003-2022,22007,Non-human activity,0,0
+"LA, Avoyelles Parish",2003-2022,22009,Non-human activity,0,0
+"LA, Beauregard Parish",2003-2022,22011,Non-human activity,0,0
+"LA, Bienville Parish",2003-2022,22013,Non-human activity,0,0
+"LA, Bossier Parish",2003-2022,22015,Non-human activity,0,0
+"LA, Caddo Parish",2003-2022,22017,Non-human activity,0,0
+"LA, Calcasieu Parish",2003-2022,22019,Human disease cases and non-human activity,1,1
+"LA, Cameron Parish",2003-2022,22023,Non-human activity,0,0
+"LA, De Soto Parish",2003-2022,22031,Non-human activity,0,0
+"LA, East Baton Rouge Parish",2003-2022,22033,Human disease cases and non-human activity,1,1
+"LA, East Carroll Parish",2003-2022,22035,Non-human activity,0,0
+"LA, East Feliciana Parish",2003-2022,22037,Non-human activity,0,0
+"LA, Evangeline Parish",2003-2022,22039,Non-human activity,0,0
+"LA, Franklin Parish",2003-2022,22041,Non-human activity,0,0
+"LA, Grant Parish",2003-2022,22043,Non-human activity,0,0
+"LA, Iberia Parish",2003-2022,22045,Non-human activity,0,0
+"LA, Iberville Parish",2003-2022,22047,Non-human activity,0,0
+"LA, Jackson Parish",2003-2022,22049,Non-human activity,0,0
+"LA, Jefferson Parish",2003-2022,22051,Non-human activity,0,0
+"LA, Jefferson Davis Parish",2003-2022,22053,Non-human activity,0,0
+"LA, Lafayette Parish",2003-2022,22055,Non-human activity,0,0
+"LA, Lafourche Parish",2003-2022,22057,Non-human activity,0,0
+"LA, Lincoln Parish",2003-2022,22061,Non-human activity,0,0
+"LA, Livingston Parish",2003-2022,22063,Non-human activity,0,0
+"LA, Morehouse Parish",2003-2022,22067,Non-human activity,0,0
+"LA, Natchitoches Parish",2003-2022,22069,Non-human activity,0,0
+"LA, Orleans Parish",2003-2022,22071,Non-human activity,0,0
+"LA, Ouachita Parish",2003-2022,22073,Non-human activity,0,0
+"LA, Pointe Coupee Parish",2003-2022,22077,Non-human activity,0,0
+"LA, Rapides Parish",2003-2022,22079,Non-human activity,0,0
+"LA, Red River Parish",2003-2022,22081,Non-human activity,0,0
+"LA, Richland Parish",2003-2022,22083,Non-human activity,0,0
+"LA, Sabine Parish",2003-2022,22085,Non-human activity,0,0
+"LA, St Bernard Parish",2003-2022,22087,Non-human activity,0,0
+"LA, St Charles Parish",2003-2022,22089,Non-human activity,0,0
+"LA, St James Parish",2003-2022,22093,Non-human activity,0,0
+"LA, St John The Baptist Parish",2003-2022,22095,Human disease cases and non-human activity,1,1
+"LA, St Landry Parish",2003-2022,22097,Non-human activity,0,0
+"LA, St Martin Parish",2003-2022,22099,Non-human activity,0,0
+"LA, St Mary Parish",2003-2022,22101,Non-human activity,0,0
+"LA, St Tammany Parish",2003-2022,22103,Non-human activity,0,0
+"LA, Tangipahoa Parish",2003-2022,22105,Human disease cases and non-human activity,1,1
+"LA, Terrebonne Parish",2003-2022,22109,Non-human activity,0,0
+"LA, Union Parish",2003-2022,22111,Non-human activity,0,0
+"LA, Vermilion Parish",2003-2022,22113,Non-human activity,0,0
+"LA, Vernon Parish",2003-2022,22115,Non-human activity,0,0
+"LA, Washington Parish",2003-2022,22117,Non-human activity,0,0
+"LA, Webster Parish",2003-2022,22119,Non-human activity,0,0
+"LA, West Baton Rouge Parish",2003-2022,22121,Non-human activity,0,0
+"LA, West Carroll Parish",2003-2022,22123,Non-human activity,0,0
+"LA, Winn Parish",2003-2022,22127,Non-human activity,0,0
+"ME, Cumberland",2003-2022,23005,Non-human activity,0,0
+"ME, Franklin",2003-2022,23007,Non-human activity,0,0
+"ME, Kennebec",2003-2022,23011,Non-human activity,0,0
+"ME, Knox",2003-2022,23013,Non-human activity,0,0
+"ME, Oxford",2003-2022,23017,Non-human activity,0,0
+"ME, Penobscot",2003-2022,23019,Non-human activity,0,0
+"ME, Somerset",2003-2022,23025,Non-human activity,0,0
+"ME, Waldo",2003-2022,23027,Non-human activity,0,0
+"ME, York",2003-2022,23031,Human disease cases and non-human activity,2,2
+"MD, Anne Arundel",2003-2022,24003,Non-human activity,0,0
+"MD, Prince Georges",2003-2022,24033,Human disease cases and non-human activity,1,1
+"MD, Wicomico",2003-2022,24045,Non-human activity,0,0
+"MD, Worcester",2003-2022,24047,Non-human activity,0,0
+"MA, Barnstable",2003-2022,25001,Non-human activity,0,0
+"MA, Berkshire",2003-2022,25003,Non-human activity,0,0
+"MA, Bristol",2003-2022,25005,Human disease cases and non-human activity,7,7
+"MA, Essex",2003-2022,25009,Human disease cases and non-human activity,4,4
+"MA, Franklin",2003-2022,25011,Human disease cases and non-human activity,1,1
+"MA, Hampden",2003-2022,25013,Human disease cases and non-human activity,3,3
+"MA, Hampshire",2003-2022,25015,Non-human activity,0,0
+"MA, Middlesex",2003-2022,25017,Human disease cases and non-human activity,4,4
+"MA, Norfolk",2003-2022,25021,Human disease cases and non-human activity,4,4
+"MA, Plymouth",2003-2022,25023,Human disease cases and non-human activity,14,14
+"MA, Worcester",2003-2022,25027,Human disease cases and non-human activity,4,4
+"MI, Allegan",2003-2022,26005,Human disease cases and non-human activity,1,1
+"MI, Alpena",2003-2022,26007,Non-human activity,0,0
+"MI, Arenac",2003-2022,26011,Non-human activity,0,0
+"MI, Baraga",2003-2022,26013,Non-human activity,0,0
+"MI, Barry",2003-2022,26015,Human disease cases and non-human activity,3,3
+"MI, Bay",2003-2022,26017,Non-human activity,0,0
+"MI, Berrien",2003-2022,26021,Human disease cases and non-human activity,2,2
+"MI, Branch",2003-2022,26023,Non-human activity,0,0
+"MI, Calhoun",2003-2022,26025,Human disease cases and non-human activity,1,1
+"MI, Cass",2003-2022,26027,Human disease cases and non-human activity,2,2
+"MI, Chippewa",2003-2022,26033,Non-human activity,0,0
+"MI, Clare",2003-2022,26035,Non-human activity,0,0
+"MI, Delta",2003-2022,26041,Human disease cases,1,1
+"MI, Dickinson",2003-2022,26043,Non-human activity,0,0
+"MI, Eaton",2003-2022,26045,Non-human activity,0,0
+"MI, Genesee",2003-2022,26049,Non-human activity,0,0
+"MI, Gladwin",2003-2022,26051,Non-human activity,0,0
+"MI, Hillsdale",2003-2022,26059,Non-human activity,0,0
+"MI, Houghton",2003-2022,26061,Non-human activity,0,0
+"MI, Ingham",2003-2022,26065,Non-human activity,0,0
+"MI, Ionia",2003-2022,26067,Non-human activity,0,0
+"MI, Iron",2003-2022,26071,Non-human activity,0,0
+"MI, Isabella",2003-2022,26073,Non-human activity,0,0
+"MI, Jackson",2003-2022,26075,Non-human activity,0,0
+"MI, Kalamazoo",2003-2022,26077,Human disease cases and non-human activity,5,5
+"MI, Kent",2003-2022,26081,Non-human activity,0,0
+"MI, Lapeer",2003-2022,26087,Non-human activity,0,0
+"MI, Leelanau",2003-2022,26089,Non-human activity,0,0
+"MI, Lenawee",2003-2022,26091,Non-human activity,0,0
+"MI, Livingston",2003-2022,26093,Human disease cases and non-human activity,1,1
+"MI, Luce",2003-2022,26095,Non-human activity,0,0
+"MI, Mackinac",2003-2022,26097,Non-human activity,0,0
+"MI, Marquette",2003-2022,26103,Human disease cases and non-human activity,1,1
+"MI, Mecosta",2003-2022,26107,Non-human activity,0,0
+"MI, Menominee",2003-2022,26109,Non-human activity,0,0
+"MI, Midland",2003-2022,26111,Non-human activity,0,0
+"MI, Missaukee",2003-2022,26113,Non-human activity,0,0
+"MI, Monroe",2003-2022,26115,Human disease cases,1,1
+"MI, Montcalm",2003-2022,26117,Human disease cases and non-human activity,1,1
+"MI, Newaygo",2003-2022,26123,Non-human activity,0,0
+"MI, Oakland",2003-2022,26125,Human disease cases and non-human activity,1,1
+"MI, Ontonagon",2003-2022,26131,Non-human activity,0,0
+"MI, Osceola",2003-2022,26133,Non-human activity,0,0
+"MI, Otsego",2003-2022,26137,Non-human activity,0,0
+"MI, Presque Isle",2003-2022,26141,Non-human activity,0,0
+"MI, Roscommon",2003-2022,26143,Non-human activity,0,0
+"MI, St Joseph",2003-2022,26149,Non-human activity,0,0
+"MI, Schoolcraft",2003-2022,26153,Non-human activity,0,0
+"MI, Shiawassee",2003-2022,26155,Non-human activity,0,0
+"MI, Tuscola",2003-2022,26157,Non-human activity,0,0
+"MI, Van Buren",2003-2022,26159,Human disease cases and non-human activity,2,2
+"MI, Wexford",2003-2022,26165,Non-human activity,0,0
+"MN, Aitkin",2003-2022,27001,Non-human activity,0,0
+"MN, Benton",2003-2022,27009,Non-human activity,0,0
+"MN, Chisago",2003-2022,27025,Non-human activity,0,0
+"MN, Itasca",2003-2022,27061,Non-human activity,0,0
+"MN, Otter Tail",2003-2022,27111,Non-human activity,0,0
+"MS, Alcorn",2003-2022,28003,Non-human activity,0,0
+"MS, Attala",2003-2022,28007,Non-human activity,0,0
+"MS, Clarke",2003-2022,28023,Non-human activity,0,0
+"MS, Coahoma",2003-2022,28027,Non-human activity,0,0
+"MS, Copiah",2003-2022,28029,Non-human activity,0,0
+"MS, Covington",2003-2022,28031,Non-human activity,0,0
+"MS, Forrest",2003-2022,28035,Non-human activity,0,0
+"MS, George",2003-2022,28039,Non-human activity,0,0
+"MS, Greene",2003-2022,28041,Non-human activity,0,0
+"MS, Grenada",2003-2022,28043,Non-human activity,0,0
+"MS, Hancock",2003-2022,28045,Non-human activity,0,0
+"MS, Harrison",2003-2022,28047,Non-human activity,0,0
+"MS, Hinds",2003-2022,28049,Non-human activity,0,0
+"MS, Holmes",2003-2022,28051,Non-human activity,0,0
+"MS, Jackson",2003-2022,28059,Non-human activity,0,0
+"MS, Jasper",2003-2022,28061,Non-human activity,0,0
+"MS, Jones",2003-2022,28067,Non-human activity,0,0
+"MS, Kemper",2003-2022,28069,Non-human activity,0,0
+"MS, Lafayette",2003-2022,28071,Non-human activity,0,0
+"MS, Lamar",2003-2022,28073,Non-human activity,0,0
+"MS, Lauderdale",2003-2022,28075,Non-human activity,0,0
+"MS, Lawrence",2003-2022,28077,Non-human activity,0,0
+"MS, Leake",2003-2022,28079,Non-human activity,0,0
+"MS, Lee",2003-2022,28081,Non-human activity,0,0
+"MS, Leflore",2003-2022,28083,Non-human activity,0,0
+"MS, Madison",2003-2022,28089,Non-human activity,0,0
+"MS, Marion",2003-2022,28091,Non-human activity,0,0
+"MS, Monroe",2003-2022,28095,Non-human activity,0,0
+"MS, Neshoba",2003-2022,28099,Non-human activity,0,0
+"MS, Newton",2003-2022,28101,Non-human activity,0,0
+"MS, Noxubee",2003-2022,28103,Non-human activity,0,0
+"MS, Oktibbeha",2003-2022,28105,Non-human activity,0,0
+"MS, Pearl River",2003-2022,28109,Non-human activity,0,0
+"MS, Perry",2003-2022,28111,Non-human activity,0,0
+"MS, Pike",2003-2022,28113,Non-human activity,0,0
+"MS, Rankin",2003-2022,28121,Non-human activity,0,0
+"MS, Scott",2003-2022,28123,Non-human activity,0,0
+"MS, Simpson",2003-2022,28127,Non-human activity,0,0
+"MS, Stone",2003-2022,28131,Non-human activity,0,0
+"MS, Sunflower",2003-2022,28133,Non-human activity,0,0
+"MS, Tate",2003-2022,28137,Non-human activity,0,0
+"MS, Tishomingo",2003-2022,28141,Non-human activity,0,0
+"MS, Walthall",2003-2022,28147,Non-human activity,0,0
+"MS, Wayne",2003-2022,28153,Non-human activity,0,0
+"MS, Webster",2003-2022,28155,Non-human activity,0,0
+"MS, Yazoo",2003-2022,28163,Non-human activity,0,0
+"MO, St Louis",2003-2022,29189,Human disease cases,1,1
+"MT, Yellowstone",2003-2022,30111,Human disease cases,1,1
+"NH, Belknap",2003-2022,33001,Non-human activity,0,0
+"NH, Carroll",2003-2022,33003,Human disease cases and non-human activity,1,1
+"NH, Cheshire",2003-2022,33005,Non-human activity,0,0
+"NH, Grafton",2003-2022,33009,Non-human activity,0,0
+"NH, Hillsborough",2003-2022,33011,Human disease cases and non-human activity,3,3
+"NH, Merrimack",2003-2022,33013,Human disease cases and non-human activity,3,3
+"NH, Rockingham",2003-2022,33015,Human disease cases and non-human activity,8,5
+"NH, Strafford",2003-2022,33017,Non-human activity,0,0
+"NJ, Atlantic",2003-2022,34001,Human disease cases and non-human activity,2,2
+"NJ, Burlington",2003-2022,34005,Non-human activity,0,0
+"NJ, Camden",2003-2022,34007,Non-human activity,0,0
+"NJ, Cape May",2003-2022,34009,Non-human activity,0,0
+"NJ, Cumberland",2003-2022,34011,Human disease cases and non-human activity,1,1
+"NJ, Gloucester",2003-2022,34015,Non-human activity,0,0
+"NJ, Hunterdon",2003-2022,34019,Non-human activity,0,0
+"NJ, Mercer",2003-2022,34021,Non-human activity,0,0
+"NJ, Middlesex",2003-2022,34023,Human disease cases and non-human activity,1,1
+"NJ, Monmouth",2003-2022,34025,Non-human activity,0,0
+"NJ, Morris",2003-2022,34027,Non-human activity,0,0
+"NJ, Ocean",2003-2022,34029,Human disease cases and non-human activity,1,1
+"NJ, Passaic",2003-2022,34031,Human disease cases and non-human activity,1,1
+"NJ, Salem",2003-2022,34033,Non-human activity,0,0
+"NJ, Somerset",2003-2022,34035,Human disease cases,1,1
+"NJ, Sussex",2003-2022,34037,Non-human activity,0,0
+"NJ, Union",2003-2022,34039,Human disease cases and non-human activity,1,1
+"NJ, Warren",2003-2022,34041,Non-human activity,0,0
+"NY, Cattaraugus",2003-2022,36009,Non-human activity,0,0
+"NY, Chautauqua",2003-2022,36013,Non-human activity,0,0
+"NY, Chemung",2003-2022,36015,Non-human activity,0,0
+"NY, Clinton",2003-2022,36019,Non-human activity,0,0
+"NY, Dutchess",2003-2022,36027,Non-human activity,0,0
+"NY, Jefferson",2003-2022,36045,Non-human activity,0,0
+"NY, Lewis",2003-2022,36049,Non-human activity,0,0
+"NY, Madison",2003-2022,36053,Non-human activity,0,0
+"NY, Montgomery",2003-2022,36057,Non-human activity,0,0
+"NY, Nassau",2003-2022,36059,Non-human activity,0,0
+"NY, Oneida",2003-2022,36065,Non-human activity,0,0
+"NY, Onondaga",2003-2022,36067,Human disease cases and non-human activity,5,5
+"NY, Ontario",2003-2022,36069,Non-human activity,0,0
+"NY, Orange",2003-2022,36071,Non-human activity,0,0
+"NY, Oswego",2003-2022,36075,Human disease cases and non-human activity,3,3
+"NY, Putnam",2003-2022,36079,Non-human activity,0,0
+"NY, Rockland",2003-2022,36087,Non-human activity,0,0
+"NY, St Lawrence",2003-2022,36089,Non-human activity,0,0
+"NY, Suffolk",2003-2022,36103,Non-human activity,0,0
+"NY, Sullivan",2003-2022,36105,Non-human activity,0,0
+"NY, Ulster",2003-2022,36111,Non-human activity,0,0
+"NY, Washington",2003-2022,36115,Non-human activity,0,0
+"NY, Wayne",2003-2022,36117,Non-human activity,0,0
+"NY, Westchester",2003-2022,36119,Non-human activity,0,0
+"NC, Anson",2003-2022,37007,Non-human activity,0,0
+"NC, Beaufort",2003-2022,37013,Non-human activity,0,0
+"NC, Bertie",2003-2022,37015,Non-human activity,0,0
+"NC, Bladen",2003-2022,37017,Non-human activity,0,0
+"NC, Brunswick",2003-2022,37019,Human disease cases and non-human activity,1,1
+"NC, Cabarrus",2003-2022,37025,Non-human activity,0,0
+"NC, Camden",2003-2022,37029,Non-human activity,0,0
+"NC, Carteret",2003-2022,37031,Non-human activity,0,0
+"NC, Catawba",2003-2022,37035,Human disease cases,1,1
+"NC, Chowan",2003-2022,37041,Non-human activity,0,0
+"NC, Columbus",2003-2022,37047,Non-human activity,0,0
+"NC, Craven",2003-2022,37049,Non-human activity,0,0
+"NC, Cumberland",2003-2022,37051,Human disease cases and non-human activity,1,1
+"NC, Currituck",2003-2022,37053,Non-human activity,0,0
+"NC, Dare",2003-2022,37055,Non-human activity,0,0
+"NC, Davidson",2003-2022,37057,Non-human activity,0,0
+"NC, Duplin",2003-2022,37061,Non-human activity,0,0
+"NC, Durham",2003-2022,37063,Non-human activity,0,0
+"NC, Edgecombe",2003-2022,37065,Non-human activity,0,0
+"NC, Franklin",2003-2022,37069,Non-human activity,0,0
+"NC, Gaston",2003-2022,37071,Non-human activity,0,0
+"NC, Gates",2003-2022,37073,Non-human activity,0,0
+"NC, Granville",2003-2022,37077,Non-human activity,0,0
+"NC, Greene",2003-2022,37079,Non-human activity,0,0
+"NC, Guilford",2003-2022,37081,Non-human activity,0,0
+"NC, Halifax",2003-2022,37083,Non-human activity,0,0
+"NC, Harnett",2003-2022,37085,Non-human activity,0,0
+"NC, Henderson",2003-2022,37089,Non-human activity,0,0
+"NC, Hertford",2003-2022,37091,Non-human activity,0,0
+"NC, Hoke",2003-2022,37093,Human disease cases and non-human activity,2,2
+"NC, Johnston",2003-2022,37101,Non-human activity,0,0
+"NC, Jones",2003-2022,37103,Non-human activity,0,0
+"NC, Lee",2003-2022,37105,Non-human activity,0,0
+"NC, Lenoir",2003-2022,37107,Non-human activity,0,0
+"NC, Martin",2003-2022,37117,Non-human activity,0,0
+"NC, Mecklenburg",2003-2022,37119,Human disease cases,1,1
+"NC, Moore",2003-2022,37125,Non-human activity,0,0
+"NC, Nash",2003-2022,37127,Non-human activity,0,0
+"NC, New Hanover",2003-2022,37129,Human disease cases and non-human activity,1,1
+"NC, Northampton",2003-2022,37131,Non-human activity,0,0
+"NC, Onslow",2003-2022,37133,Non-human activity,0,0
+"NC, Orange",2003-2022,37135,Non-human activity,0,0
+"NC, Pamlico",2003-2022,37137,Non-human activity,0,0
+"NC, Pasquotank",2003-2022,37139,Non-human activity,0,0
+"NC, Pender",2003-2022,37141,Human disease cases and non-human activity,1,1
+"NC, Perquimans",2003-2022,37143,Human disease cases and non-human activity,1,1
+"NC, Pitt",2003-2022,37147,Human disease cases and non-human activity,1,1
+"NC, Polk",2003-2022,37149,Non-human activity,0,0
+"NC, Randolph",2003-2022,37151,Non-human activity,0,0
+"NC, Richmond",2003-2022,37153,Non-human activity,0,0
+"NC, Robeson",2003-2022,37155,Human disease cases and non-human activity,1,1
+"NC, Sampson",2003-2022,37163,Non-human activity,0,0
+"NC, Scotland",2003-2022,37165,Human disease cases and non-human activity,2,2
+"NC, Stanly",2003-2022,37167,Non-human activity,0,0
+"NC, Union",2003-2022,37179,Non-human activity,0,0
+"NC, Wake",2003-2022,37183,Non-human activity,0,0
+"NC, Washington",2003-2022,37187,Non-human activity,0,0
+"NC, Wayne",2003-2022,37191,Non-human activity,0,0
+"NC, Wilson",2003-2022,37195,Non-human activity,0,0
+"NC, Yadkin",2003-2022,37197,Non-human activity,0,0
+"ND, Mckenzie",2003-2022,38053,Non-human activity,0,0
+"OH, Allen",2003-2022,39003,Non-human activity,0,0
+"OH, Ashtabula",2003-2022,39007,Non-human activity,0,0
+"OH, Champaign",2003-2022,39021,Non-human activity,0,0
+"OH, Holmes",2003-2022,39075,Non-human activity,0,0
+"OH, Mercer",2003-2022,39107,Non-human activity,0,0
+"OH, Pickaway",2003-2022,39129,Non-human activity,0,0
+"OH, Portage",2003-2022,39133,Non-human activity,0,0
+"OH, Sandusky",2003-2022,39143,Non-human activity,0,0
+"OH, Trumbull",2003-2022,39155,Non-human activity,0,0
+"OH, Williams",2003-2022,39171,Non-human activity,0,0
+"OK, Mccurtain",2003-2022,40089,Non-human activity,0,0
+"OK, Tulsa",2003-2022,40143,Non-human activity,0,0
+"PA, Carbon",2003-2022,42025,Non-human activity,0,0
+"PA, Erie",2003-2022,42049,Non-human activity,0,0
+"PA, Lancaster",2003-2022,42071,Non-human activity,0,0
+"PA, Luzerne",2003-2022,42079,Human disease cases and non-human activity,1,1
+"PA, Mercer",2003-2022,42085,Non-human activity,0,0
+"PA, Monroe",2003-2022,42089,Non-human activity,0,0
+"RI, Bristol",2003-2022,44001,Non-human activity,0,0
+"RI, Kent",2003-2022,44003,Human disease cases and non-human activity,2,2
+"RI, Newport",2003-2022,44005,Human disease cases and non-human activity,1,1
+"RI, Providence",2003-2022,44007,Non-human activity,0,0
+"RI, Washington",2003-2022,44009,Human disease cases and non-human activity,1,1
+"SC, Aiken",2003-2022,45003,Human disease cases and non-human activity,2,2
+"SC, Anderson",2003-2022,45007,Non-human activity,0,0
+"SC, Bamberg",2003-2022,45009,Human disease cases and non-human activity,1,1
+"SC, Barnwell",2003-2022,45011,Non-human activity,0,0
+"SC, Beaufort",2003-2022,45013,Non-human activity,0,0
+"SC, Berkeley",2003-2022,45015,Non-human activity,0,0
+"SC, Calhoun",2003-2022,45017,Non-human activity,0,0
+"SC, Charleston",2003-2022,45019,Non-human activity,0,0
+"SC, Chesterfield",2003-2022,45025,Non-human activity,0,0
+"SC, Clarendon",2003-2022,45027,Non-human activity,0,0
+"SC, Colleton",2003-2022,45029,Non-human activity,0,0
+"SC, Darlington",2003-2022,45031,Non-human activity,0,0
+"SC, Dillon",2003-2022,45033,Non-human activity,0,0
+"SC, Dorchester",2003-2022,45035,Non-human activity,0,0
+"SC, Florence",2003-2022,45041,Non-human activity,0,0
+"SC, Georgetown",2003-2022,45043,Non-human activity,0,0
+"SC, Greenville",2003-2022,45045,Non-human activity,0,0
+"SC, Hampton",2003-2022,45049,Non-human activity,0,0
+"SC, Horry",2003-2022,45051,Non-human activity,0,0
+"SC, Jasper",2003-2022,45053,Non-human activity,0,0
+"SC, Kershaw",2003-2022,45055,Non-human activity,0,0
+"SC, Lancaster",2003-2022,45057,Non-human activity,0,0
+"SC, Lee",2003-2022,45061,Non-human activity,0,0
+"SC, Lexington",2003-2022,45063,Human disease cases and non-human activity,1,1
+"SC, Marion",2003-2022,45067,Non-human activity,0,0
+"SC, Marlboro",2003-2022,45069,Human disease cases and non-human activity,1,1
+"SC, Orangeburg",2003-2022,45075,Non-human activity,0,0
+"SC, Pickens",2003-2022,45077,Non-human activity,0,0
+"SC, Richland",2003-2022,45079,Non-human activity,0,0
+"SC, Sumter",2003-2022,45085,Non-human activity,0,0
+"SC, Williamsburg",2003-2022,45089,Non-human activity,0,0
+"TN, Anderson",2003-2022,47001,Non-human activity,0,0
+"TN, Benton",2003-2022,47005,Non-human activity,0,0
+"TN, Blount",2003-2022,47009,Non-human activity,0,0
+"TN, Carroll",2003-2022,47017,Non-human activity,0,0
+"TN, Chester",2003-2022,47023,Non-human activity,0,0
+"TN, Franklin",2003-2022,47051,Non-human activity,0,0
+"TN, Gibson",2003-2022,47053,Non-human activity,0,0
+"TN, Hamilton",2003-2022,47065,Human disease cases and non-human activity,1,1
+"TN, Hawkins",2003-2022,47073,Non-human activity,0,0
+"TN, Henderson",2003-2022,47077,Non-human activity,0,0
+"TN, Madison",2003-2022,47113,Non-human activity,0,0
+"TN, Putnam",2003-2022,47141,Non-human activity,0,0
+"TX, Anderson",2003-2022,48001,Non-human activity,0,0
+"TX, Bowie",2003-2022,48037,Non-human activity,0,0
+"TX, Cass",2003-2022,48067,Non-human activity,0,0
+"TX, Denton",2003-2022,48121,Non-human activity,0,0
+"TX, Ellis",2003-2022,48139,Non-human activity,0,0
+"TX, Galveston",2003-2022,48167,Non-human activity,0,0
+"TX, Grimes",2003-2022,48185,Non-human activity,0,0
+"TX, Hardin",2003-2022,48199,Non-human activity,0,0
+"TX, Harris",2003-2022,48201,Non-human activity,0,0
+"TX, Harrison",2003-2022,48203,Non-human activity,0,0
+"TX, Henderson",2003-2022,48213,Non-human activity,0,0
+"TX, Jasper",2003-2022,48241,Non-human activity,0,0
+"TX, Jefferson",2003-2022,48245,Non-human activity,0,0
+"TX, Leon",2003-2022,48289,Non-human activity,0,0
+"TX, Liberty",2003-2022,48291,Non-human activity,0,0
+"TX, Montgomery",2003-2022,48339,Non-human activity,0,0
+"TX, Newton",2003-2022,48351,Non-human activity,0,0
+"TX, Orange",2003-2022,48361,Non-human activity,0,0
+"TX, Panola",2003-2022,48365,Non-human activity,0,0
+"TX, Rusk",2003-2022,48401,Non-human activity,0,0
+"TX, San Jacinto",2003-2022,48407,Non-human activity,0,0
+"TX, Smith",2003-2022,48423,Non-human activity,0,0
+"TX, Titus",2003-2022,48449,Non-human activity,0,0
+"TX, Tyler",2003-2022,48457,Non-human activity,0,0
+"TX, Upshur",2003-2022,48459,Non-human activity,0,0
+"TX, Wood",2003-2022,48499,Non-human activity,0,0
+"VT, Addison",2003-2022,50001,Non-human activity,0,0
+"VT, Chittenden",2003-2022,50007,Non-human activity,0,0
+"VT, Franklin",2003-2022,50011,Non-human activity,0,0
+"VT, Grand Isle",2003-2022,50013,Non-human activity,0,0
+"VT, Rutland",2003-2022,50021,Human disease cases and non-human activity,2,2
+"VA, Accomack",2003-2022,51001,Non-human activity,0,0
+"VA, Charles City",2003-2022,51036,Non-human activity,0,0
+"VA, Chesterfield",2003-2022,51041,Non-human activity,0,0
+"VA, Dinwiddie",2003-2022,51053,Non-human activity,0,0
+"VA, Gloucester",2003-2022,51073,Human disease cases,1,1
+"VA, Isle Of Wight",2003-2022,51093,Non-human activity,0,0
+"VA, Madison",2003-2022,51113,Non-human activity,0,0
+"VA, New Kent",2003-2022,51127,Non-human activity,0,0
+"VA, Pittsylvania",2003-2022,51143,Non-human activity,0,0
+"VA, Powhatan",2003-2022,51145,Non-human activity,0,0
+"VA, Prince George",2003-2022,51149,Non-human activity,0,0
+"VA, Southampton",2003-2022,51175,Non-human activity,0,0
+"VA, Surry",2003-2022,51181,Non-human activity,0,0
+"VA, Sussex",2003-2022,51183,Non-human activity,0,0
+"VA, Chesapeake City",2003-2022,51550,Non-human activity,0,0
+"VA, Falls Church City",2003-2022,51610,Non-human activity,0,0
+"VA, Hampton City",2003-2022,51650,Non-human activity,0,0
+"VA, Newport News City",2003-2022,51700,Non-human activity,0,0
+"VA, Norfolk City",2003-2022,51710,Non-human activity,0,0
+"VA, Portsmouth City",2003-2022,51740,Human disease cases and non-human activity,1,1
+"VA, Suffolk City",2003-2022,51800,Non-human activity,0,0
+"VA, Virginia Beach City",2003-2022,51810,Non-human activity,0,0
+"WV, Berkeley",2003-2022,54003,Non-human activity,0,0
+"WV, Nicholas",2003-2022,54067,Non-human activity,0,0
+"WV, Wood",2003-2022,54107,Non-human activity,0,0
+"WI, Ashland",2003-2022,55003,Non-human activity,0,0
+"WI, Barron",2003-2022,55005,Non-human activity,0,0
+"WI, Bayfield",2003-2022,55007,Non-human activity,0,0
+"WI, Burnett",2003-2022,55013,Non-human activity,0,0
+"WI, Calumet",2003-2022,55015,Non-human activity,0,0
+"WI, Chippewa",2003-2022,55017,Human disease cases and non-human activity,1,1
+"WI, Clark",2003-2022,55019,Non-human activity,0,0
+"WI, Dodge",2003-2022,55027,Non-human activity,0,0
+"WI, Dunn",2003-2022,55033,Human disease cases and non-human activity,1,1
+"WI, Eau Claire",2003-2022,55035,Human disease cases and non-human activity,1,1
+"WI, Forest",2003-2022,55041,Non-human activity,0,0
+"WI, Green Lake",2003-2022,55047,Non-human activity,0,0
+"WI, Jackson",2003-2022,55053,Non-human activity,0,0
+"WI, Juneau",2003-2022,55057,Non-human activity,0,0
+"WI, Langlade",2003-2022,55067,Non-human activity,0,0
+"WI, Lincoln",2003-2022,55069,Non-human activity,0,0
+"WI, Marathon",2003-2022,55073,Non-human activity,0,0
+"WI, Marinette",2003-2022,55075,Human disease cases,1,1
+"WI, Marquette",2003-2022,55077,Non-human activity,0,0
+"WI, Milwaukee",2003-2022,55079,Human disease cases,1,1
+"WI, Monroe",2003-2022,55081,Non-human activity,0,0
+"WI, Oconto",2003-2022,55083,Non-human activity,0,0
+"WI, Oneida",2003-2022,55085,Human disease cases and non-human activity,1,1
+"WI, Pepin",2003-2022,55091,Non-human activity,0,0
+"WI, Polk",2003-2022,55095,Non-human activity,0,0
+"WI, Price",2003-2022,55099,Non-human activity,0,0
+"WI, Racine",2003-2022,55101,Non-human activity,0,0
+"WI, Rusk",2003-2022,55107,Non-human activity,0,0
+"WI, Shawano",2003-2022,55115,Non-human activity,0,0
+"WI, Sheboygan",2003-2022,55117,Non-human activity,0,0
+"WI, Taylor",2003-2022,55119,Non-human activity,0,0
+"WI, Trempealeau",2003-2022,55121,Non-human activity,0,0
+"WI, Vilas",2003-2022,55125,Non-human activity,0,0
+"WI, Walworth",2003-2022,55127,Non-human activity,0,0
+"WI, Washburn",2003-2022,55129,Non-human activity,0,0
+"WI, Waupaca",2003-2022,55135,Non-human activity,0,0
+"WI, Waushara",2003-2022,55137,Non-human activity,0,0
+"WI, Wood",2003-2022,55141,Non-human activity,0,0
